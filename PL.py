@@ -2,16 +2,9 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-if 'data' not in st.session_state or st.session_state.data is None:
-    st.warning("Please upload a CSV file on the main page.")
-    st.stop()
-
-# Use the data and filters from session state
-df = st.session_state.data
-current_month = st.session_state.selected_month
 
 
-def preprocess_pl():
+def preprocess_pl(df):
     # Step 3: Define KPI Calculation Functions
     def calculate_sales_revenue(df):
         sales = df[df['Account'] == 'sales revenue'].groupby('Year-Month')['Solde'].sum().reset_index()
@@ -86,6 +79,10 @@ def preprocess_pl():
                          'Personnel', 'Facility', 'Administration', 'EBITDA',
                          'Financial Income', 'Financial Cost', 'Net Result']
     profit_loss[financial_columns] = profit_loss[financial_columns].fillna(0)
+    #devide by 1000
+    profit_loss[financial_columns] = profit_loss[financial_columns]
+    
+    #st.session_state.profit_loss = profit_loss
 
     return profit_loss
 

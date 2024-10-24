@@ -22,11 +22,23 @@ from dashboardExecutiveSummary import display_es, display_pl, display_revenue, d
     #st.success("File uploaded successfully!")
 
 with st.spinner("Processing data..."):
-    kpi_df, revenue_per_product_df, top_clients_by_revenue_df = preprocess_kpi()
-    profit_loss_df = preprocess_pl()
-    balance_sheet_df = preprocess_bs()
+    df = st.session_state.data
+    #kpi_df, revenue_per_product_df, top_clients_by_revenue_df = preprocess_kpi()
+    profit_loss_df = preprocess_pl(df)
+    balance_sheet_df = preprocess_bs(df,profit_loss_df)
+    kpi_df, revenue_per_product_df, top_clients_by_revenue_df = preprocess_kpi(profit_loss_df, balance_sheet_df)
 
-#st.success("Data processed successfully!")
+    
+
+
+def load_data():
+    budget_df = pd.read_csv('data/budget.csv')
+    
+    # Lowercase all column names except the first one
+    budget_df.columns = [budget_df.columns[0]] + [col.lower() for col in budget_df.columns[1:]]
+    
+    return budget_df
+
 
 # Use a unique key for the selectbox
 page = st.sidebar.selectbox("Choose a page", ["Profit & Loss", "Balance Sheet"     ], key="page_selection")

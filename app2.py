@@ -4,12 +4,14 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
+from PL import preprocess_pl
+from BS import preprocess_bs
 
 # Set page config (must be the first Streamlit command)
 #st.set_page_config(page_title="CFO Financial Dashboard", layout="wide")
-if 'data' not in st.session_state or st.session_state.data is None:
-    st.warning("Please upload a CSV file on the main page.")
-    st.stop()
+#if 'data' not in st.session_state or st.session_state.data is None:
+#    st.warning("Please upload a CSV file on the main page.")
+#    st.stop()
 
 # Use the data and filters from session state
 #df = st.session_state.data
@@ -29,6 +31,8 @@ def load_data():
     return budget_df
 
 journal_entry_df = st.session_state.data
+profit_loss_df = preprocess_pl(journal_entry_df)
+balance_sheet_df = preprocess_bs(journal_entry_df, profit_loss_df)
 
 #current_month = st.session_state.selected_month
 budget_df = load_data()
@@ -46,11 +50,11 @@ valid_sales_accounts = budget_df.columns[1:].str.lower()
 #cogs_account = st.sidebar.selectbox("Cost of Goods Sold Account", journal_entry_df['Account'].unique())
 sales_account = 'sales revenue'
 cogs_account = 'cost of goods sold'
-ebitda_account = 'ebitda'
-opex_accounts = st.sidebar.multiselect("Operating Expense Accounts", journal_entry_df['Account'].unique())
+opex_accounts=['selling expenses', 'administrative expenses']
+other_opex_accounts = st.sidebar.multiselect("Other Operating Expense Accounts", journal_entry_df['Account'].unique())
 
 # Calculate dashboard metrics
-def calculate_dashboard_metrics(journal_df, budget_df, sales_account, cogs_account, opex_accounts, current_month, current_year):
+def calculate_dashboard_metrics(journal_df, budget_df,profit_loss_df, sales_account, cogs_account, opex_accounts, current_month, current_year):
     # Filter data for the selected month and year
     filtered_sales = journal_df[
         (journal_df['Account'] == sales_account) &
@@ -94,13 +98,9 @@ def calculate_dashboard_metrics(journal_df, budget_df, sales_account, cogs_accou
     margin_percentage = (gross_margin / sales_revenue) * 100 if sales_revenue != 0 else 0
     
     # EBITDA calculations
-    filtered_opex = journal_df[
-        (journal_df['Account']== ebitda_account) &
-        (journal_df['Month'] == currentmonth) &
-        (journal_df['Year'] == current_year)
-    ]
-    operating_expenses = filtered_opex['Solde'].sum()
-    ebitda = gross_margin - operating_expenses
+    
+   
+    ebitda = profit_loss_df.loc[profit_loss_df['Month'] == current_month, 'EBITDA'].values[0]
     ebitda_k = ebitda / 1000
     ebitda_budget = budget_df.loc[budget_df['Month'] == current_month, 'ebitda'].values[0]
     ebitda_variance_budget = round(((ebitda_k - ebitda_budget) / ebitda_budget) * 100, 2) if ebitda_budget != 0 else 0
@@ -112,13 +112,13 @@ def calculate_dashboard_metrics(journal_df, budget_df, sales_account, cogs_accou
         'Previous Sales Revenue (K$)': round(prev_sales_revenue_k, 2),
         'Variance from Previous (%)': percentage_variance_previous,
         'Margin (%)': round(margin_percentage, 2),
-        #'EBITDA (K$)': round(ebitda_k, 2),
+        'EBITDA (K$)': round(ebitda_k, 2),
         'EBITDA Variance from Budget (%)': ebitda_variance_budget,
     }
 
 # Calculate and display metrics
 metrics = calculate_dashboard_metrics(
-    journal_entry_df, budget_df, sales_account, cogs_account, opex_accounts,
+    journal_entry_df, budget_df, profit_loss_df, sales_account, cogs_account, opex_accounts,
     currentmonth, current_year
 )
 
@@ -135,19 +135,21 @@ col2.metric(
     f"${metrics['Budget (K$)']:,.2f}K",
     f"{metrics['Variance from Budget (%)']}% vs Budget"
 )
-col3.metric("Margin", f"{metrics['Margin (%)']}%")
-#col4.metric(
-#    "EBITDA",
-#    f"${metrics['EBITDA (K$)']:,.2f}K",
-#    f"{metrics['EBITDA Variance from Budget (%)']}% vs Budget"
-#)
+col3.metric("Margin", f"{metrics['Margin (%)']}%", 
+            f"{metrics['Variance from Previous (%)']}% vs Prev")
+
+col4.metric(
+    "EBITDA",
+    f"${metrics['EBITDA (K$)']:,.2f}K",
+    f"{metrics['EBITDA Variance from Budget (%)']}% vs Budget"
+)
 
 # Additional metrics
 st.markdown("<h3 style='text-align: center;'>Additional Metrics</h3>", unsafe_allow_html=True)
 
 # Revenue and Expenses Over Time
 revenue_expenses_df = journal_entry_df[
-    journal_entry_df['Account'].isin([sales_account, cogs_account] + opex_accounts)
+    journal_entry_df['Account'].isin([sales_account, cogs_account] + opex_accounts+other_opex_accounts)
 ]
 revenue_expenses_df = revenue_expenses_df.groupby(['Date', 'Account'])['Solde'].sum().reset_index()
 revenue_expenses_df['Solde'] = revenue_expenses_df['Solde'].abs()

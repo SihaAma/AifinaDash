@@ -4,17 +4,10 @@ import streamlit as st
 
 
 
-if 'data' not in st.session_state or st.session_state.data is None:
-    st.warning("Please upload a CSV file on the main page.")
-    st.stop()
-
-# Use the data and filters from session state
-df = st.session_state.data
-current_month = st.session_state.selected_month
-
-def preprocess_bs():
+def preprocess_bs(df, profit_loss_df):
     # Step 1: Load the Data
     # (Assuming df is already loaded and available)
+    #ltmPL = st.session_state.profit_loss
 
     # Step 3: Define KPI Calculation Functions
     def calculate_cash_and_cash_equivalents(df):
@@ -59,28 +52,32 @@ def preprocess_bs():
 
     def calculate_share_capital(df):
         sc = df[df['Account'].str.lower() == 'share capital'].groupby('Year-Month')['Solde'].sum().reset_index()
+        #sc['share capital'] = -sc['Solde']
         sc.rename(columns={'Solde': 'share capital'}, inplace=True)
         return sc[['Year-Month', 'share capital']]
 
     def calculate_retained_earnings(df):
         re = df[df['Account'].str.lower() == 'retained earnings'].groupby('Year-Month')['Solde'].sum().reset_index()
+        
         re.rename(columns={'Solde': 'retained earnings'}, inplace=True)
         return re[['Year-Month', 'retained earnings']]
 
-    def calculate_net_income(df):
-        revenue_accounts = ['sales revenue']
-        expense_accounts = ['cost of goods sold', 'administration', 'financial cost', 'personnel', 'facility']
+    def calculate_net_income(profit_loss_df):
+        #revenue_accounts = ['sales revenue']
+        #expense_accounts = ['cost of goods sold', 'administration', 'financial cost', 'personnel', 'facility']
         
-        revenues = df[df['Account'].str.lower().isin(revenue_accounts)].groupby('Year-Month')['Solde'].sum().reset_index()
-        revenues.rename(columns={'Solde': 'total revenue'}, inplace=True)
+        #revenues = df[df['Account'].str.lower().isin(revenue_accounts)].groupby('Year-Month')['Solde'].sum().reset_index()
+        #revenues.rename(columns={'Solde': 'total revenue'}, inplace=True)
         
-        expenses = df[df['Account'].str.lower().isin(expense_accounts)].groupby('Year-Month')['Solde'].sum().reset_index()
-        expenses.rename(columns={'Solde': 'total expenses'}, inplace=True)
+        #expenses = df[df['Account'].str.lower().isin(expense_accounts)].groupby('Year-Month')['Solde'].sum().reset_index()
+        #expenses.rename(columns={'Solde': 'total expenses'}, inplace=True)
         
-        net_income = pd.merge(revenues, expenses, on='Year-Month', how='outer').fillna(0)
-        net_income['net income'] = net_income['total revenue'] - net_income['total expenses']
+        #net_income = pd.merge(revenues, expenses, on='Year-Month', how='outer').fillna(0)
+        #net_income['net income'] = net_income['total revenue'] - net_income['total expenses']
+        #net_income['cumulative net income'] = net_income['net income'].cumsum()
+        net_income = profit_loss_df[['Year-Month', 'Net Result']]
+        net_income.rename(columns={'Net Result': 'net income'}, inplace=True)
         net_income['cumulative net income'] = net_income['net income'].cumsum()
-        
         return net_income[['Year-Month', 'net income', 'cumulative net income']]
 
     # Step 4: Calculate Balance Sheet Items
@@ -95,7 +92,7 @@ def preprocess_bs():
     wp = calculate_wages_payables(df)
     sc = calculate_share_capital(df)
     re = calculate_retained_earnings(df)
-    net_income = calculate_net_income(df)
+    net_income = calculate_net_income(profit_loss_df)
 
     # Step 5: Compile the Balance Sheet
     balance_sheet = pd.DataFrame({'Year-Month': sorted(df['Year-Month'].unique())})
@@ -129,15 +126,19 @@ def preprocess_bs():
     
     for col in liability_accounts + equity_accounts:
         if col in balance_sheet.columns:
-            balance_sheet[col] = -balance_sheet[col]
+            if col != 'ongoing earnings':
+                balance_sheet[col] = -balance_sheet[col]
         else:
             st.warning(f"Column '{col}' not found in balance sheet. Skipping sign adjustment for this column.")
+
+            
     
     # Calculate Totals
     asset_columns = ['cash and cash equivalents', 'accounts receivable', 'raw material inventory', 'ppe', 'intangible assets']
     balance_sheet['total assets'] = balance_sheet[asset_columns].sum(axis=1)
     balance_sheet['total liabilities'] = balance_sheet[liability_accounts].sum(axis=1)
     balance_sheet['total equity'] = balance_sheet[equity_accounts].sum(axis=1)
+    balance_sheet['total equity'] = balance_sheet['total equity']
     balance_sheet['liabilities and equity'] = balance_sheet['total liabilities'] + balance_sheet['total equity']
     
     return balance_sheet

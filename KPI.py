@@ -5,77 +5,50 @@ from datetime import datetime
 import streamlit as st
 
 
-
-if 'data' not in st.session_state or st.session_state.data is None:
-    st.warning("Please upload a CSV file on the main page.")
-    st.stop()
-
-# Use the data and filters from session state
-df = st.session_state.data
 current_month = st.session_state.selected_month
 current_year = st.session_state.selected_year
 
-def preprocess_kpi():
-    
-    # Define account categories
-    revenue_accounts = ['Sales Revenue']
-    expense_accounts = ['Cost of Goods Sold', 'Operating Expenses']
-    expense_accounts_full = ['Cost of Goods Sold', 'Operating Expenses', 'Interest', 'Taxes', 'Depreciation', 'Amortization']
-
-    # Group the data by 'Year-Month'
-    grouped = df.groupby('Year-Month')
-
-    # Initialize lists to store KPI values
+def preprocess_kpi(profit_loss_df, balance_sheet_df):
+    df = st.session_state.data
     kpi_list = []
-
-    for name, group in grouped:
-        # Calculate KPIs
-        sales = calculate_sales_revenue(group)
-        cogs = calculate_cogs(group)
-        margin = calculate_margin(sales, cogs)
-        ebitda = calculate_ebitda(group, revenue_accounts, expense_accounts)
-        net_result = calculate_net_result(group, expense_accounts_full)
-        dso = calculate_dso(group, sales)
-        dio = calculate_dio(group, cogs)
-        dpo = calculate_dpo(group, cogs)
-        ccc = calculate_ccc(dio, dso, dpo)
-        cash = calculate_cash_position(group)
-        shareholders_equity = calculate_shareholders_equity(group)
-        total_assets = calculate_total_assets(group)
-        total_debt = calculate_total_debt(group)
-        roe = (net_result / shareholders_equity) * 100 if shareholders_equity != 0 else 0
-        roa = (net_result / total_assets) * 100 if total_assets != 0 else 0
-        debt_to_equity = total_debt / shareholders_equity if shareholders_equity != 0 else 0
-        accounts_payable = group[group['Account'] == 'accounts payable']['Debit'].sum() - group[group['Account'] == 'accounts payable']['Credit'].sum()
-        current_liabilities = accounts_payable + group[group['Account'] == 'short-term debt']['Debit'].sum() - group[group['Account'] == 'short-term debt']['Credit'].sum()
-        accounts_receivable = group[group['Account'] == 'accounts receivable']['Credit'].sum() - group[group['Account'] == 'accounts receivable']['Debit'].sum()
-        quick_ratio = calculate_quick_ratio(cash, accounts_receivable, current_liabilities)
+    # Calculate KPIs
+    sales = profit_loss_df[['Year-Month', 'Sales Revenue']]
+    cogs = profit_loss_df[['Year-Month', 'Cost of Goods Sold']]
+    margin = profit_loss_df[['Year-Month', 'Gross Margin']]
+    ebitda = profit_loss_df[['Year-Month', 'EBITDA']]
+    net_result = profit_loss_df[['Year-Month', 'Net Result']]
+    #dso = calculate_dso(group, sales)
+    #dio = calculate_dio(group, cogs)
+    #dpo = calculate_dpo(group, cogs)
+    #ccc = calculate_ccc(dio, dso, dpo)
+    cash = balance_sheet_df[['Year-Month', 'cash and cash equivalents']]
+    shareholders_equity = balance_sheet_df[['Year-Month', 'total equity']]
+    total_assets = balance_sheet_df[['Year-Month', 'total assets']]
+    total_debt = balance_sheet_df[['Year-Month', 'total liabilities']]
+    #roe = balance_sheet_df[['Year-Month', 'cash and cash equivalents']]
+    #roa = balance_sheet_df[['Year-Month', 'cash and cash equivalents']]
+    #debt_to_equity = total_debt / shareholders_equity if shareholders_equity != 0 else 0
+    accounts_payable = balance_sheet_df[['Year-Month', 'accounts payable']]
+    current_liabilities = balance_sheet_df[['Year-Month', 'total liabilities']]
+    accounts_receivable = balance_sheet_df[['Year-Month', 'accounts receivable']]
+    #quick_ratio = calculate_quick_ratio(cash, accounts_receivable, current_liabilities)
         
-        # Placeholder values for Available Credit Line and Overdraft Availability
-        available_credit_line = 1000000  # Replace with actual data or calculations
-        overdraft_availability = 500000  # Replace with actual data or calculations
-        
-        # Append to KPI list
-        kpi_list.append({
-            'Month': group['Month'].iloc[0],
-            'Year': group['Year'].iloc[0],
-            'Year-Month': name,
-            'Sales Revenue': sales,
-            'Margin (%)': margin,
-            'EBITDA': ebitda,
-            'Net Result': net_result,
-            'DSO (days)': dso,
-            'DIO (days)': dio,
-            'DPO (days)': dpo,
-            'CCC (days)': ccc,
-            'Cash Position': cash,
-            'Available Credit Line': available_credit_line,
-            'Overdraft Availability': overdraft_availability,
-            'ROE (%)': roe,
-            'ROA (%)': roa,
-            'Debt to Equity Ratio': debt_to_equity,
-            'Quick Ratio': quick_ratio
-        })
+                
+    # Append to KPI list
+    kpi_list.append({
+        #'Month': group['Month'].iloc[0],
+        #'Year': group['Year'].iloc[0],
+        #'Year-Month': name,
+        'Sales Revenue': sales,
+        'Margin (%)': margin,
+        'EBITDA': ebitda,
+        'Net Result': net_result,
+        'Cash Position': cash,
+        'Available Credit Line': total_assets,
+        #'Overdraft Availability': overdraft_availability,
+        'Debt to Equity Ratio': total_debt,
+        #'Quick Ratio': quick_ratio
+    })
 
     # Create KPI DataFrame
     kpi_df = pd.DataFrame(kpi_list)
@@ -83,6 +56,7 @@ def preprocess_kpi():
 
     # Calculate Revenue per Product per Month
     revenue_per_product_list = []
+    grouped = df.groupby('Year-Month')
     for name, group in grouped:
         sales_revenue = group[group['Account'] == 'sales revenue']
         revenue_product = sales_revenue.groupby('Component')['Credit'].sum() - sales_revenue.groupby('Component')['Debit'].sum()
