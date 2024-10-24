@@ -1,0 +1,29 @@
+[[pages]]
+path = "app.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "old/app4.py"
+name = "DashboardAIFINA"
+icon = "💰"
+
+[[pages]]
+path = "old/app2.py"
+name = "DashboardCEO"
+icon = "📊"
+
+[[pages]]
+path = "old/app5.py"
+name = "DashboardCEOAnalysis"
+icon = "💰"
+
+[[pages]]
+path = "old/app3.py"
+name = "Key Performance Indicators"
+icon = "📈"
+
+[[pages]]
+path = "oldv2/dashboard.py"
+name = "DashboardCEOAnalysis"
+icon = "💰"

@@ -1,0 +1,28 @@
+[[pages]]
+path = "app.py"
+name = "Financial Dashboard"
+icon = "💰"
+
+[[pages]]
+path = "app2.py"
+name = "Executive summary"
+icon = "📊"
+
+
+[[pages]]
+path = "app5.py"
+name = "DashboardCEOAnalysis"
+icon = "💰"
+is_section = true
+
+[[pages]]
+path = "app3.py"
+name = "Key Performance Indicators"
+icon = "📈"
+is_section = true
+
+[[pages]]
+path = "dashboard.py"
+name = "DashboardCEOAnalysis"
+icon = "💰"
+is_section = true

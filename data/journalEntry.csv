@@ -1,0 +1,1942 @@
+﻿Date,Month,Year,Journal Entry ID,Account,Debit,Credit,Solde,Description,Document Reference,Currency,Supplier/client,Component
+2022-02-01,2,2022,,Accounts Payable,,7120000.00,-7120000.00,,,,,Supplier A
+2022-02-01,2,2022,,Balance sheet AccPay,7120000.00,,7120000.00,,,,,Supplier A
+2022-02-01,2,2022,,Accounts Payable,,6434000.00,-6434000.00,,,,,Supplier B
+2022-02-01,2,2022,,Balance sheet AccPay,6434000.00,,6434000.00,,,,,Supplier B
+2022-02-01,2,2022,,Accounts Payable,,8279695.00,-8279695.00,,,,,Supplier D
+2022-02-01,2,2022,,Balance sheet AccPay,8279695.00,,8279695.00,,,,,Supplier D
+2022-01-01,1,2022,,Accounts Payable,,3650000.00,-3650000.00,,,,Component 1,Supplier A
+2022-01-01,1,2022,,Accounts Payable,,4124000.00,-4124000.00,,,,Component 4,Supplier B
+2022-01-01,1,2022,,Accounts Payable,,5576000.00,-5576000.00,,,,Component 5,Supplier D
+2022-04-19,4,2022,,Accounts Receivable,,2000000.00,-2000000.00,,,,Product B,Client 4
+2022-04-19,4,2022,,Cash and Cash Equivalents,2000000.00,,2000000.00,,,,Product B,Client 4
+2022-01-01,1,2022,,Accounts Receivable,2000000.00,,2000000.00,,,,Product B,Client 4
+2022-01-01,1,2022,,Cash and Cash Equivalents,6455000.00,,6455000.00,,,,,
+2022-01-01,1,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-01-01,1,2022,22000001,Retained earnings,,256500.00,-256500.00,,,Transfer of opening stock balance for Component 1,Component 1,
+2022-01-01,1,2022,22000001,Retained earnings,,582300.00,-582300.00,,,Transfer of opening stock balance for Component 2,Component 2,
+2022-01-01,1,2022,22000001,Retained earnings,,901113.00,-901113.00,,,Transfer of opening stock balance for Component 3,Component 3,
+2022-01-01,1,2022,22000001,Retained earnings,,390663.00,-390663.00,,,Transfer of opening stock balance for Component 4,Component 4,
+2022-01-01,1,2022,22000001,Retained earnings,,330066.00,-330066.00,,,Transfer of opening stock balance for Component 5,Component 5,
+2022-01-01,1,2022,22000001,Retained earnings,,554439.00,-554439.00,,,Transfer of opening stock balance for Component 6,Component 6,
+2022-01-01,1,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-01-01,1,2022,22000001,Raw material inventory,256500.00,,256500.00,,,Transfer of opening stock balance for Component 1,Component 1,Component 1
+2022-01-01,1,2022,22000001,Raw material inventory,582300.00,,582300.00,,,Transfer of opening stock balance for Component 2,Component 2,Component 2
+2022-01-01,1,2022,22000001,Raw material inventory,901113.00,,901113.00,,,Transfer of opening stock balance for Component 3,Component 3,Component 3
+2022-01-01,1,2022,22000001,Raw material inventory,390663.00,,390663.00,,,Transfer of opening stock balance for Component 4,Component 4,Component 4
+2022-01-01,1,2022,22000001,Raw material inventory,330066.00,,330066.00,,,Transfer of opening stock balance for Component 5,Component 5,Component 5
+2022-01-01,1,2022,22000001,Raw material inventory,554439.00,,554439.00,,,Transfer of opening stock balance for Component 6,Component 6,Component 6
+2022-01-01,1,2022,,Retained earnings,,2000000.00,-2000000.00,,,,,
+2022-01-01,1,2022,,Retained earnings,13350000.00,,13350000.00,,,,,
+2022-01-01,1,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-01-01,1,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-01-02,1,2022,,Accounts Payable,,760000.00,-760000.00,,,,Component 1, Supplier A 
+2022-01-02,1,2022,,Accounts Payable,,810000.00,-810000.00,,,,Component 2, Supplier A 
+2022-01-02,1,2022,,Accounts Payable,,1900000.00,-1900000.00,,,,Component 3, Supplier A 
+2022-01-02,1,2022,,Accounts Payable,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2022-01-02,1,2022,,Accounts Payable,,720000.00,-720000.00,,,,Component 5, Supplier D 
+2022-01-02,1,2022,,Accounts Payable,,1983695.00,-1983695.00,,,,Component 6, Supplier D 
+2022-01-02,1,2022,,Raw material inventory,760000.00,,760000.00,,,,Component 1, Supplier A 
+2022-01-02,1,2022,,Raw material inventory,810000.00,,810000.00,,,,Component 2, Supplier A 
+2022-01-02,1,2022,,Raw material inventory,1900000.00,,1900000.00,,,,Component 3, Supplier A 
+2022-01-02,1,2022,,Raw material inventory,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2022-01-02,1,2022,,Raw material inventory,720000.00,,720000.00,,,,Component 5, Supplier D 
+2022-01-02,1,2022,,Raw material inventory,1983695.00,,1983695.00,,,,Component 6, Supplier D 
+2022-01-09,1,2022,,Cost of goods sold,858169.20,,858169.20,,,,Supplier A,Component 1
+2022-01-09,1,2022,,Cost of goods sold,975874.68,,975874.68,,,,Supplier A,Component 2
+2022-01-09,1,2022,,Cost of goods sold,2491318.95,,2491318.95,,,,Supplier A,Component 3
+2022-01-09,1,2022,,Cost of goods sold,2371257.00,,2371257.00,,,,Supplier B,Component 4
+2022-01-09,1,2022,,Cost of goods sold,1048003.20,,1048003.20,,,,Supplier D,Component 5
+2022-01-09,1,2022,,Cost of goods sold,2536804.00,,2536804.00,,,,Supplier D,Component 6
+2022-01-09,1,2022,,Cost of goods sold,,858169.20,-858169.20,,,,,Component 1
+2022-01-09,1,2022,,Cost of goods sold,,975874.68,-975874.68,,,,,Component 2
+2022-01-09,1,2022,,Cost of goods sold,,2491318.95,-2491318.95,,,,,Component 3
+2022-01-09,1,2022,,Cost of goods sold,,2371257.49,-2371257.49,,,,,Component 4
+2022-01-09,1,2022,,Cost of goods sold,,1048003.20,-1048003.20,,,,,Component 5
+2022-01-09,1,2022,,Cost of goods sold,,2536804.00,-2536804.00,,,,,Component 6
+2022-01-09,1,2022,,Raw material inventory,,858169.20,-858169.20,,,,Component 1, Supplier A 
+2022-01-09,1,2022,,Raw material inventory,,975874.68,-975874.68,,,,Component 2, Supplier A 
+2022-01-09,1,2022,,Raw material inventory,,2491318.95,-2491318.95,,,,Component 3, Supplier A 
+2022-01-09,1,2022,,Raw material inventory,,2371257.00,-2371257.00,,,,Component 4, Supplier B 
+2022-01-09,1,2022,,Raw material inventory,,1048003.20,-1048003.20,,,,Component 5, Supplier D 
+2022-01-09,1,2022,,Raw material inventory,,2536804.00,-2536804.00,,,,Component 6, Supplier D 
+2022-01-10,1,2022,,Inventory Finished goods Product A,4770969.08,,4770969.08,,,,,
+2022-01-10,1,2022,,Inventory Finished goods Product B,1482334.99,,1482334.99,,,,,
+2022-01-10,1,2022,,Inventory Finished goods Product C,4309549.44,,4309549.44,,,,,
+2022-01-10,1,2022,,Wages payables,,281426.00,-281426.00,,,,,
+2022-01-11,1,2022,,Accounts Receivable,1839104.00,,1839104.00,,,,Product A,Client 9
+2022-01-11,1,2022,,Cost of goods sold,1214153.47,,1214153.47,,,,,Product A
+2022-01-11,1,2022,,Inventory Finished goods Product A,,1214153.47,-1214153.47,,,,,Product A
+2022-01-11,1,2022,,Sales Revenue,,1839104.00,-1839104.00,,,,Product A,Client 9
+2022-01-12,1,2022,,Accounts Receivable,1756304.00,,1756304.00,,,,Product A,Client 7
+2022-01-12,1,2022,,Cost of goods sold,1091284.66,,1091284.66,,,,,Product A
+2022-01-12,1,2022,,Inventory Finished goods Product A,,1091284.66,-1091284.66,,,,,Product A
+2022-01-12,1,2022,,Sales Revenue,,1756304.00,-1756304.00,,,,Product A,Client 7
+2022-01-17,1,2022,,Accounts Receivable,872984.00,,872984.00,,,,Product A,Client 2
+2022-01-17,1,2022,,Accounts Receivable,644640.00,,644640.00,,,,Product B,Client 4
+2022-01-17,1,2022,,Cost of goods sold,542431.18,,542431.18,,,,,Product A
+2022-01-17,1,2022,,Cost of goods sold,503729.28,,503729.28,,,,,Product B
+2022-01-17,1,2022,,Inventory Finished goods Product A,,542431.18,-542431.18,,,,,Product A
+2022-01-17,1,2022,,Inventory Finished goods Product B,,503729.28,-503729.28,,,,,Product B
+2022-01-17,1,2022,,Sales Revenue,,872984.00,-872984.00,,,,Product A,Client 2
+2022-01-17,1,2022,,Sales Revenue,,644640.00,-644640.00,,,,Product B,Client 4
+2022-01-18,1,2022,,Accounts Receivable,1115827.00,,1115827.00,,,,Product A,Client 5
+2022-01-18,1,2022,,Cost of goods sold,1003104.73,,1003104.73,,,,,Product A
+2022-01-18,1,2022,,Inventory Finished goods Product A,,1003104.73,-1003104.73,,,,,Product A
+2022-01-18,1,2022,,Sales Revenue,,1115827.00,-1115827.00,,,,Product A,Client 5
+2022-01-19,1,2022,,Accounts Receivable,1110474.00,,1110474.00,,,,Product A,Client 10
+2022-01-19,1,2022,,Cost of goods sold,919995.05,,919995.05,,,,,Product A
+2022-01-19,1,2022,,Inventory Finished goods Product A,,919995.05,-919995.05,,,,,Product A
+2022-01-19,1,2022,,Sales Revenue,,1110474.00,-1110474.00,,,,Product A,Client 10
+2022-01-20,1,2022,,Accounts Receivable,601126.00,,601126.00,,,,Product C,Client 3
+2022-01-20,1,2022,,Cost of goods sold,507463.76,,507463.76,,,,,Product C
+2022-01-20,1,2022,,Inventory Finished goods Product C,,507463.76,-507463.76,,,,,Product C
+2022-01-20,1,2022,,Sales Revenue,,601126.00,-601126.00,,,,Product C,Client 3
+2022-01-21,1,2022,,Accounts Receivable,550988.00,,550988.00,,,,Product B,Client 6
+2022-01-21,1,2022,,Cost of goods sold,414301.39,,414301.39,,,,,Product B
+2022-01-21,1,2022,,Inventory Finished goods Product B,,414301.39,-414301.39,,,,,Product B
+2022-01-21,1,2022,,Sales Revenue,,550988.00,-550988.00,,,,Product B,Client 6
+2022-01-23,1,2022,,Accounts Receivable,4248900.00,,4248900.00,,,,Product C,Client 1
+2022-01-23,1,2022,,Cost of goods sold,3802085.68,,3802085.68,,,,,Product C
+2022-01-23,1,2022,,Inventory Finished goods Product C,,3802085.68,-3802085.68,,,,,Product C
+2022-01-23,1,2022,,Sales Revenue,,4248900.00,-4248900.00,,,,Product C,Client 1
+2022-01-27,1,2022,,Accounts Receivable,1005360.00,,1005360.00,,,,Product B,Client 8
+2022-01-27,1,2022,,Cost of goods sold,564304.32,,564304.32,,,,,Product B
+2022-01-27,1,2022,,Inventory Finished goods Product B,,564304.32,-564304.32,,,,,Product B
+2022-01-27,1,2022,,Sales Revenue,,1005360.00,-1005360.00,,,,Product B,Client 8
+2022-01-31,1,2022,,Administration,795212.00,,795212.00,,,,,
+2022-01-31,1,2022,,Cash and cash equivalents,,281426.00,-281426.00,,,,,
+2022-01-31,1,2022,,Cash and cash equivalents,,991135.00,-991135.00,,,,,
+2022-01-31,1,2022,,Cash and cash equivalents,,778137.00,-778137.00,,,,,
+2022-01-31,1,2022,,Cash and cash equivalents,,795212.00,-795212.00,,,,,
+2022-01-31,1,2022,,Cash and cash equivalents,1222608.00,,1222608.00,,,,,
+2022-01-31,1,2022,,Cash and cash equivalents,,1223814.00,-1223814.00,,,,,
+2022-01-31,1,2022,,Facility,778137.00,,778137.00,,,,,
+2022-01-31,1,2022,,Financial Cost,1223814.00,,1223814.00,,,,,
+2022-01-31,1,2022,,Financial income,,1222608.00,-1222608.00,,,,,
+2022-01-31,1,2022,,Personnel,991135.00,,991135.00,,,,,
+2022-01-31,1,2022,,Wages payables,281426.00,,281426.00,,,,,
+2022-02-01,2,2022,,Cash and Cash Equivalents,6455000.00,,6455000.00,,,,,
+2022-02-01,2,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-02-01,2,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-02-01,2,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-02-01,2,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-02-04,2,2022,,Accounts Payable,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-02-04,2,2022,,Accounts Payable,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-02-04,2,2022,,Accounts Payable,,1800000.00,-1800000.00,,,,Component 3, Supplier A 
+2022-02-04,2,2022,,Accounts Payable,,1980000.00,-1980000.00,,,,Component 4, Supplier B 
+2022-02-04,2,2022,,Accounts Payable,,855000.00,-855000.00,,,,Component 5, Supplier D 
+2022-02-04,2,2022,,Accounts Payable,,2192505.00,-2192505.00,,,,Component 6, Supplier D 
+2022-02-04,2,2022,,Raw material inventory,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-02-04,2,2022,,Raw material inventory,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-02-04,2,2022,,Raw material inventory,1800000.00,,1800000.00,,,,Component 3, Supplier A 
+2022-02-04,2,2022,,Raw material inventory,1980000.00,,1980000.00,,,,Component 4, Supplier B 
+2022-02-04,2,2022,,Raw material inventory,855000.00,,855000.00,,,,Component 5, Supplier D 
+2022-02-04,2,2022,,Raw material inventory,2192505.00,,2192505.00,,,,Component 6, Supplier D 
+2022-02-11,2,2022,,Cost of goods sold,927914.80,,927914.80,,,,Supplier A,Component 1
+2022-02-11,2,2022,,Cost of goods sold,925831.56,,925831.56,,,,Supplier A,Component 2
+2022-02-11,2,2022,,Cost of goods sold,1954768.87,,1954768.87,,,,Supplier A,Component 3
+2022-02-11,2,2022,,Cost of goods sold,2153616.00,,2153616.00,,,,Supplier B,Component 4
+2022-02-11,2,2022,,Cost of goods sold,796282.75,,796282.75,,,,Supplier D,Component 5
+2022-02-11,2,2022,,Cost of goods sold,2066008.00,,2066008.00,,,,Supplier D,Component 6
+2022-02-11,2,2022,,Cost of goods sold,,927914.80,-927914.80,,,,,Component 1
+2022-02-11,2,2022,,Cost of goods sold,,925831.56,-925831.56,,,,,Component 2
+2022-02-11,2,2022,,Cost of goods sold,,1954768.87,-1954768.87,,,,,Component 3
+2022-02-11,2,2022,,Cost of goods sold,,2153616.00,-2153616.00,,,,,Component 4
+2022-02-11,2,2022,,Cost of goods sold,,796282.75,-796282.75,,,,,Component 5
+2022-02-11,2,2022,,Cost of goods sold,,2066008.00,-2066008.00,,,,,Component 6
+2022-02-11,2,2022,,Raw material inventory,,927914.80,-927914.80,,,,Component 1, Supplier A 
+2022-02-11,2,2022,,Raw material inventory,,925831.56,-925831.56,,,,Component 2, Supplier A 
+2022-02-11,2,2022,,Raw material inventory,,1954768.87,-1954768.87,,,,Component 3, Supplier A 
+2022-02-11,2,2022,,Raw material inventory,,2153616.00,-2153616.00,,,,Component 4, Supplier B 
+2022-02-11,2,2022,,Raw material inventory,,796282.75,-796282.75,,,,Component 5, Supplier D 
+2022-02-11,2,2022,,Raw material inventory,,2066008.00,-2066008.00,,,,Component 6, Supplier D 
+2022-02-12,2,2022,,Accounts Receivable,543344.00,,543344.00,,,,Product B,Client 8
+2022-02-12,2,2022,,Cost of goods sold,397784.02,,397784.02,,,,,Product B
+2022-02-12,2,2022,,Inventory Finished goods Product A,4603648.25,,4603648.25,,,,,
+2022-02-12,2,2022,,Inventory Finished goods Product B,2003314.70,,2003314.70,,,,,
+2022-02-12,2,2022,,Inventory Finished goods Product B,,397784.02,-397784.02,,,,,Product B
+2022-02-12,2,2022,,Inventory Finished goods Product C,2416655.13,,2416655.13,,,,,
+2022-02-12,2,2022,,Sales Revenue,,543344.00,-543344.00,,,,Product B,Client 8
+2022-02-12,2,2022,,Wages payables,,199196.10,-199196.10,,,,,
+2022-02-14,2,2022,,Cost of goods sold,258045.86,,258045.86,,,,,Product C
+2022-02-14,2,2022,,Inventory Finished goods Product C,,258045.86,-258045.86,,,,,Product C
+2022-02-14,2,2022,,Sales Revenue,,273400.00,-273400.00,,,,Product C,Client 3
+2022-02-15,2,2022,,Accounts Receivable,483771.00,,483771.00,,,,Product B,Client 6
+2022-02-15,2,2022,,Cost of goods sold,437061.37,,437061.37,,,,,Product B
+2022-02-15,2,2022,,Inventory Finished goods Product B,,437061.37,-437061.37,,,,,Product B
+2022-02-15,2,2022,,Sales Revenue,,483771.00,-483771.00,,,,Product B,Client 6
+2022-02-17,2,2022,,Accounts Receivable,2424273.00,,2424273.00,,,,Product C,Client 1
+2022-02-17,2,2022,,Cost of goods sold,2158609.27,,2158609.27,,,,,Product C
+2022-02-17,2,2022,,Inventory Finished goods Product C,,2158609.27,-2158609.27,,,,,Product C
+2022-02-17,2,2022,,Sales Revenue,,2424273.00,-2424273.00,,,,Product C,Client 1
+2022-02-18,2,2022,,Accounts Receivable,1348382.00,,1348382.00,,,,Product B,Client 4
+2022-02-18,2,2022,,Accounts Receivable,1282260.00,,1282260.00,,,,Product A,Client 7
+2022-02-18,2,2022,,Cost of goods sold,1168469.32,,1168469.32,,,,,Product B
+2022-02-18,2,2022,,Cost of goods sold,699427.23,,699427.23,,,,,Product A
+2022-02-18,2,2022,,Inventory Finished goods Product A,,699427.23,-699427.23,,,,,Product A
+2022-02-18,2,2022,,Inventory Finished goods Product B,,1168469.32,-1168469.32,,,,,Product B
+2022-02-18,2,2022,,Sales Revenue,,1348382.00,-1348382.00,,,,Product B,Client 4
+2022-02-18,2,2022,,Sales Revenue,,1282260.00,-1282260.00,,,,Product A,Client 7
+2022-02-19,2,2022,,Accounts Receivable,2014920.00,,2014920.00,,,,Product A,Client 10
+2022-02-19,2,2022,,Cost of goods sold,1095057.58,,1095057.58,,,,,Product A
+2022-02-19,2,2022,,Inventory Finished goods Product A,,1095057.58,-1095057.58,,,,,Product A
+2022-02-19,2,2022,,Sales Revenue,,2014920.00,-2014920.00,,,,Product A,Client 10
+2022-02-21,2,2022,,Accounts Receivable,1025715.00,,1025715.00,,,,Product A,Client 2
+2022-02-21,2,2022,,Accounts Receivable,1502664.00,,1502664.00,,,,Product A,Client 9
+2022-02-21,2,2022,,Cost of goods sold,693000.87,,693000.87,,,,,Product A
+2022-02-21,2,2022,,Cost of goods sold,1012264.21,,1012264.21,,,,,Product A
+2022-02-21,2,2022,,Inventory Finished goods Product A,,693000.87,-693000.87,,,,,Product A
+2022-02-21,2,2022,,Inventory Finished goods Product A,,1012264.21,-1012264.21,,,,,Product A
+2022-02-21,2,2022,,Sales Revenue,,1025715.00,-1025715.00,,,,Product A,Client 2
+2022-02-21,2,2022,,Sales Revenue,,1502664.00,-1502664.00,,,,Product A,Client 9
+2022-02-25,2,2022,,Accounts Payable,760000.00,,760000.00,,,,Component 1, Supplier A 
+2022-02-25,2,2022,,Cash and cash equivalents,,760000.00,-760000.00,,,,Component 1, Supplier A 
+2022-02-26,2,2022,,Accounts Receivable,1827738.00,,1827738.00,,,,Product A,Client 5
+2022-02-26,2,2022,,Cost of goods sold,1103898.37,,1103898.37,,,,,Product A
+2022-02-26,2,2022,,Inventory Finished goods Product A,,1103898.37,-1103898.37,,,,,Product A
+2022-02-26,2,2022,,Sales Revenue,,1827738.00,-1827738.00,,,,Product A,Client 5
+2022-02-14,2,2022,,Accounts Receivable,273400.00,,273400.00,,,,Product C,Client 3
+2022-02-28,2,2022,,Administration,790258.00,,790258.00,,,,,
+2022-02-28,2,2022,,Cash and cash equivalents,,199196.10,-199196.10,,,,,
+2022-02-28,2,2022,,Cash and cash equivalents,601126.00,,601126.00,,,,Product C,Client 3
+2022-02-28,2,2022,,Cash and cash equivalents,,938597.00,-938597.00,,,,,
+2022-02-28,2,2022,,Cash and cash equivalents,,783888.00,-783888.00,,,,,
+2022-02-28,2,2022,,Cash and cash equivalents,,790258.00,-790258.00,,,,,
+2022-02-28,2,2022,,Cash and cash equivalents,1229651.00,,1229651.00,,,,,
+2022-02-28,2,2022,,Cash and cash equivalents,,1206806.00,-1206806.00,,,,,
+2022-02-28,2,2022,,Facility,783888.00,,783888.00,,,,,
+2022-02-28,2,2022,,Financial Cost,1206806.00,,1206806.00,,,,,
+2022-02-28,2,2022,,Financial income,,1229651.00,-1229651.00,,,,,
+2022-02-28,2,2022,,Personnel,938597.00,,938597.00,,,,,
+2022-02-28,2,2022,,Wages payables,199196.10,,199196.10,,,,,
+2022-03-01,3,2022,,Accounts Receivable,,644640.00,-644640.00,,,,Product B,Client 4
+2022-03-01,3,2022,,Cash and cash equivalents,644640.00,,644640.00,,,,Product B,Client 4
+2022-03-01,3,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-03-01,3,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-03-01,3,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-03-01,3,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-03-01,3,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-03-04,3,2022,,Accounts Payable,,760000.00,-760000.00,,,,Component 1, Supplier A 
+2022-03-04,3,2022,,Accounts Payable,,855000.00,-855000.00,,,,Component 2, Supplier A 
+2022-03-04,3,2022,,Accounts Payable,,2000000.00,-2000000.00,,,,Component 3, Supplier A 
+2022-03-04,3,2022,,Accounts Payable,,1980000.00,-1980000.00,,,,Component 4, Supplier B 
+2022-03-04,3,2022,,Accounts Payable,,1020000.00,-1020000.00,,,,Component 5, Supplier D 
+2022-03-04,3,2022,,Accounts Payable,,3300000.00,-3300000.00,,,,Component 6, Supplier D 
+2022-03-04,3,2022,,Raw material inventory,760000.00,,760000.00,,,,Component 1, Supplier A 
+2022-03-04,3,2022,,Raw material inventory,855000.00,,855000.00,,,,Component 2, Supplier A 
+2022-03-04,3,2022,,Raw material inventory,2000000.00,,2000000.00,,,,Component 3, Supplier A 
+2022-03-04,3,2022,,Raw material inventory,1980000.00,,1980000.00,,,,Component 4, Supplier B 
+2022-03-04,3,2022,,Raw material inventory,1020000.00,,1020000.00,,,,Component 5, Supplier D 
+2022-03-04,3,2022,,Raw material inventory,3300000.00,,3300000.00,,,,Component 6, Supplier D 
+2022-03-11,3,2022,,Cost of goods sold,404875.60,,404875.60,,,,Supplier A,Component 1
+2022-03-11,3,2022,,Cost of goods sold,830798.70,,830798.70,,,,Supplier A,Component 2
+2022-03-11,3,2022,,Cost of goods sold,2022844.58,,2022844.58,,,,Supplier A,Component 3
+2022-03-11,3,2022,,Cost of goods sold,955314.00,,955314.00,,,,Supplier B,Component 4
+2022-03-11,3,2022,,Cost of goods sold,998481.35,,998481.35,,,,Supplier D,Component 5
+2022-03-11,3,2022,,Cost of goods sold,2980589.00,,2980589.00,,,,Supplier D,Component 6
+2022-03-11,3,2022,,Cost of goods sold,,404875.60,-404875.60,,,,,Component 1
+2022-03-11,3,2022,,Cost of goods sold,,830798.70,-830798.70,,,,,Component 2
+2022-03-11,3,2022,,Cost of goods sold,,2022844.58,-2022844.58,,,,,Component 3
+2022-03-11,3,2022,,Cost of goods sold,,955314.00,-955314.00,,,,,Component 4
+2022-03-11,3,2022,,Cost of goods sold,,998481.35,-998481.35,,,,,Component 5
+2022-03-11,3,2022,,Cost of goods sold,,2980589.00,-2980589.00,,,,,Component 6
+2022-03-11,3,2022,,Raw material inventory,,404875.60,-404875.60,,,,Component 1, Supplier A 
+2022-03-11,3,2022,,Raw material inventory,,830798.70,-830798.70,,,,Component 2, Supplier A 
+2022-03-11,3,2022,,Raw material inventory,,2022844.58,-2022844.58,,,,Component 3, Supplier A 
+2022-03-11,3,2022,,Raw material inventory,,955314.00,-955314.00,,,,Component 4, Supplier B 
+2022-03-11,3,2022,,Raw material inventory,,998481.35,-998481.35,,,,Component 5, Supplier D 
+2022-03-11,3,2022,,Raw material inventory,,2980589.00,-2980589.00,,,,Component 6, Supplier D 
+2022-03-12,3,2022,,Accounts Receivable,,1110474.00,-1110474.00,,,,Product A,Client 10
+2022-03-12,3,2022,,Cash and cash equivalents,1110474.00,,1110474.00,,,,Product A,Client 10
+2022-03-12,3,2022,,Inventory Finished goods Product A,2144872.11,,2144872.11,,,,,
+2022-03-12,3,2022,,Inventory Finished goods Product B,2357264.13,,2357264.13,,,,,
+2022-03-12,3,2022,,Inventory Finished goods Product C,3906412.00,,3906412.00,,,,,
+2022-03-12,3,2022,,Wages payables,,215645.00,-215645.00,,,,,
+2022-03-14,3,2022,,Accounts Receivable,664416.00,,664416.00,,,,Product A,Client 9
+2022-03-14,3,2022,,Cost of goods sold,561297.59,,561297.59,,,,,Product A
+2022-03-14,3,2022,,Inventory Finished goods Product A,,561297.59,-561297.59,,,,,Product A
+2022-03-14,3,2022,,Sales Revenue,,664416.00,-664416.00,,,,Product A,Client 9
+2022-03-15,3,2022,,Accounts Payable,810000.00,,810000.00,,,,Component 2, Supplier A 
+2022-03-15,3,2022,,Accounts Receivable,585872.00,,585872.00,,,,Product B,Client 6
+2022-03-15,3,2022,,Cash and cash equivalents,,810000.00,-810000.00,,,,Component 2, Supplier A 
+2022-03-15,3,2022,,Cost of goods sold,451142.36,,451142.36,,,,,Product B
+2022-03-15,3,2022,,Inventory Finished goods Product B,,451142.36,-451142.36,,,,,Product B
+2022-03-15,3,2022,,Sales Revenue,,585872.00,-585872.00,,,,Product B,Client 6
+2022-02-28,2,2022,,Accounts Receivable,,601126.00,-601126.00,,,,Product C,Client 3
+2022-03-16,3,2022,,Cost of goods sold,826197.97,,826197.97,,,,,Product C
+2022-03-16,3,2022,,Inventory Finished goods Product C,,826197.97,-826197.97,,,,,Product C
+2022-03-16,3,2022,,Sales Revenue,,1217721.00,-1217721.00,,,,Product C,Client 3
+2022-03-17,3,2022,,Accounts Receivable,3772578.00,,3772578.00,,,,Product C,Client 1
+2022-03-17,3,2022,,Accounts Receivable,446978.00,,446978.00,,,,Product A,Client 7
+2022-03-17,3,2022,,Accounts Receivable,372166.00,,372166.00,,,,Product A,Client 10
+2022-03-17,3,2022,,Cost of goods sold,3080214.02,,3080214.02,,,,,Product C
+2022-03-17,3,2022,,Cost of goods sold,372865.75,,372865.75,,,,,Product A
+2022-03-17,3,2022,,Cost of goods sold,289029.55,,289029.55,,,,,Product A
+2022-03-17,3,2022,,Inventory Finished goods Product A,,372865.75,-372865.75,,,,,Product A
+2022-03-17,3,2022,,Inventory Finished goods Product A,,289029.55,-289029.55,,,,,Product A
+2022-03-17,3,2022,,Inventory Finished goods Product C,,3080214.02,-3080214.02,,,,,Product C
+2022-03-17,3,2022,,Sales Revenue,,3772578.00,-3772578.00,,,,Product C,Client 1
+2022-03-17,3,2022,,Sales Revenue,,446978.00,-446978.00,,,,Product A,Client 7
+2022-03-17,3,2022,,Sales Revenue,,372166.00,-372166.00,,,,Product A,Client 10
+2022-03-18,3,2022,,Accounts Receivable,421857.00,,421857.00,,,,Product A,Client 5
+2022-03-18,3,2022,,Cost of goods sold,295462.72,,295462.72,,,,,Product A
+2022-03-18,3,2022,,Inventory Finished goods Product A,,295462.72,-295462.72,,,,,Product A
+2022-03-18,3,2022,,Sales Revenue,,421857.00,-421857.00,,,,Product A,Client 5
+2022-03-19,3,2022,,Accounts Receivable,861150.00,,861150.00,,,,Product B,Client 4
+2022-03-19,3,2022,,Cost of goods sold,742690.21,,742690.21,,,,,Product B
+2022-03-19,3,2022,,Inventory Finished goods Product B,,742690.21,-742690.21,,,,,Product B
+2022-03-19,3,2022,,Sales Revenue,,861150.00,-861150.00,,,,Product B,Client 4
+2022-03-21,3,2022,,Accounts Payable,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-03-21,3,2022,,Cash and cash equivalents,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-03-24,3,2022,,Accounts Receivable,1402960.00,,1402960.00,,,,Product B,Client 8
+2022-03-24,3,2022,,Cost of goods sold,1163431.56,,1163431.56,,,,,Product B
+2022-03-24,3,2022,,Inventory Finished goods Product B,,1163431.56,-1163431.56,,,,,Product B
+2022-03-24,3,2022,,Sales Revenue,,1402960.00,-1402960.00,,,,Product B,Client 8
+2022-03-26,3,2022,,Accounts Payable,1980000.00,,1980000.00,,,,Component 4, Supplier B 
+2022-03-26,3,2022,,Cash and cash equivalents,,1980000.00,-1980000.00,,,,Component 4, Supplier B 
+2022-03-27,3,2022,,Accounts Payable,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2022-03-27,3,2022,,Cash and cash equivalents,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2022-03-28,3,2022,,Accounts Payable,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-03-28,3,2022,,Accounts Receivable,1050962.00,,1050962.00,,,,Product A,Client 2
+2022-03-28,3,2022,,Accounts Receivable,,1502664.00,-1502664.00,,,,Product A,Client 9
+2022-03-28,3,2022,,Cash and cash equivalents,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-03-28,3,2022,,Cash and cash equivalents,1502664.00,,1502664.00,,,,Product A,Client 9
+2022-03-28,3,2022,,Cost of goods sold,626216.49,,626216.49,,,,,Product A
+2022-03-28,3,2022,,Inventory Finished goods Product A,,626216.49,-626216.49,,,,,Product A
+2022-03-28,3,2022,,Sales Revenue,,1050962.00,-1050962.00,,,,Product A,Client 2
+2022-03-30,3,2022,,Accounts Payable,1983695.00,,1983695.00,,,,Component 6, Supplier D 
+2022-03-30,3,2022,,Cash and cash equivalents,,1983695.00,-1983695.00,,,,Component 6, Supplier D 
+2022-03-31,3,2022,,Accounts Receivable,,550988.00,-550988.00,,,,Product B,Client 6
+2022-03-31,3,2022,,Administration,802157.00,,802157.00,,,,,
+2022-03-31,3,2022,,Cash and cash equivalents,,215645.00,-215645.00,,,,,
+2022-03-31,3,2022,,Cash and cash equivalents,550988.00,,550988.00,,,,Product B,Client 6
+2022-03-31,3,2022,,Cash and cash equivalents,,1007206.00,-1007206.00,,,,,
+2022-03-31,3,2022,,Cash and cash equivalents,,804347.00,-804347.00,,,,,
+2022-03-31,3,2022,,Cash and cash equivalents,,802157.00,-802157.00,,,,,
+2022-03-31,3,2022,,Cash and cash equivalents,1211408.00,,1211408.00,,,,,
+2022-03-31,3,2022,,Cash and cash equivalents,,1206834.00,-1206834.00,,,,,
+2022-03-31,3,2022,,Facility,804347.00,,804347.00,,,,,
+2022-03-31,3,2022,,Financial Cost,1206834.00,,1206834.00,,,,,
+2022-03-31,3,2022,,Financial income,,1211408.00,-1211408.00,,,,,
+2022-03-31,3,2022,,Personnel,1007206.00,,1007206.00,,,,,
+2022-03-31,3,2022,,Wages payables,215645.00,,215645.00,,,,,
+2022-04-01,4,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-04-01,4,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-04-01,4,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-04-01,4,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-04-01,4,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-04-02,4,2022,,Accounts Receivable,,2014920.00,-2014920.00,,,,Product A,Client 10
+2022-04-02,4,2022,,Cash and cash equivalents,2014920.00,,2014920.00,,,,Product A,Client 10
+2022-04-06,4,2022,,Accounts Payable,1980000.00,,1980000.00,,,,Component 4, Supplier B 
+2022-04-06,4,2022,,Cash and cash equivalents,,1980000.00,-1980000.00,,,,Component 4, Supplier B 
+2022-04-07,4,2022,,Accounts Payable,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-04-07,4,2022,,Accounts Payable,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-04-07,4,2022,,Accounts Payable,,2375000.00,-2375000.00,,,,Component 3, Supplier A 
+2022-04-07,4,2022,,Accounts Payable,,2420000.00,-2420000.00,,,,Component 4, Supplier B 
+2022-04-07,4,2022,,Accounts Payable,,935000.00,-935000.00,,,,Component 5, Supplier D 
+2022-04-07,4,2022,,Accounts Payable,,2090000.00,-2090000.00,,,,Component 6, Supplier D 
+2022-04-07,4,2022,,Raw material inventory,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-04-07,4,2022,,Raw material inventory,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-04-07,4,2022,,Raw material inventory,2375000.00,,2375000.00,,,,Component 3, Supplier A 
+2022-04-07,4,2022,,Raw material inventory,2420000.00,,2420000.00,,,,Component 4, Supplier B 
+2022-04-07,4,2022,,Raw material inventory,935000.00,,935000.00,,,,Component 5, Supplier D 
+2022-04-07,4,2022,,Raw material inventory,2090000.00,,2090000.00,,,,Component 6, Supplier D 
+2022-04-08,4,2022,,Accounts Payable,720000.00,,720000.00,,,,Component 5, Supplier D 
+2022-04-08,4,2022,,Cash and cash equivalents,,720000.00,-720000.00,,,,Component 5, Supplier D 
+2022-04-11,4,2022,,Accounts Receivable,,1115827.00,-1115827.00,,,,Product A,Client 5
+2022-04-11,4,2022,,Accounts Receivable,,1827738.00,-1827738.00,,,,Product A,Client 5
+2022-04-11,4,2022,,Cash and cash equivalents,1115827.00,,1115827.00,,,,Product A,Client 5
+2022-04-11,4,2022,,Cash and cash equivalents,1827738.00,,1827738.00,,,,Product A,Client 5
+2022-04-12,4,2022,,Accounts Payable,1900000.00,,1900000.00,,,,Component 3, Supplier A 
+2022-04-12,4,2022,,Cash and cash equivalents,,1900000.00,-1900000.00,,,,Component 3, Supplier A 
+2022-04-13,4,2022,,Accounts Receivable,,1839104.00,-1839104.00,,,,Product A,Client 9
+2022-04-13,4,2022,,Cash and cash equivalents,1839104.00,,1839104.00,,,,Product A,Client 9
+2022-04-14,4,2022,,Cost of goods sold,758612.40,,758612.40,,,,Supplier A,Component 1
+2022-04-14,4,2022,,Cost of goods sold,989612.88,,989612.88,,,,Supplier A,Component 2
+2022-04-14,4,2022,,Cost of goods sold,2277808.23,,2277808.23,,,,Supplier A,Component 3
+2022-04-14,4,2022,,Cost of goods sold,1879658.00,,1879658.00,,,,Supplier B,Component 4
+2022-04-14,4,2022,,Cost of goods sold,940346.50,,940346.50,,,,Supplier D,Component 5
+2022-04-14,4,2022,,Cost of goods sold,2479972.00,,2479972.00,,,,Supplier D,Component 6
+2022-04-14,4,2022,,Cost of goods sold,,758612.40,-758612.40,,,,,Component 1
+2022-04-14,4,2022,,Cost of goods sold,,989612.88,-989612.88,,,,,Component 2
+2022-04-14,4,2022,,Cost of goods sold,,2277808.23,-2277808.23,,,,,Component 3
+2022-04-14,4,2022,,Cost of goods sold,,1879658.00,-1879658.00,,,,,Component 4
+2022-04-14,4,2022,,Cost of goods sold,,940346.50,-940346.50,,,,,Component 5
+2022-04-14,4,2022,,Cost of goods sold,,2479972.00,-2479972.00,,,,,Component 6
+2022-04-14,4,2022,,Raw material inventory,,758612.40,-758612.40,,,,Component 1, Supplier A 
+2022-04-14,4,2022,,Raw material inventory,,989612.88,-989612.88,,,,Component 2, Supplier A 
+2022-04-14,4,2022,,Raw material inventory,,2277808.23,-2277808.23,,,,Component 3, Supplier A 
+2022-04-14,4,2022,,Raw material inventory,,1879658.00,-1879658.00,,,,Component 4, Supplier B 
+2022-04-14,4,2022,,Raw material inventory,,940346.50,-940346.50,,,,Component 5, Supplier D 
+2022-04-14,4,2022,,Raw material inventory,,2479972.00,-2479972.00,,,,Component 6, Supplier D 
+2022-04-15,4,2022,,Inventory Finished goods Product A,4050926.21,,4050926.21,,,,,
+2022-04-15,4,2022,,Inventory Finished goods Product B,1586229.04,,1586229.04,,,,,
+2022-04-15,4,2022,,Inventory Finished goods Product C,3945437.04,,3945437.04,,,,,
+2022-04-15,4,2022,,Wages payables,,256582.28,-256582.28,,,,,
+2022-04-16,4,2022,,Accounts Receivable,1658016.00,,1658016.00,,,,Product A,Client 9
+2022-04-16,4,2022,,Accounts Receivable,,4248900.00,-4248900.00,,,,Product C,Client 1
+2022-04-16,4,2022,,Cash and cash equivalents,4248900.00,,4248900.00,,,,Product C,Client 1
+2022-04-16,4,2022,,Cost of goods sold,1292684.66,,1292684.66,,,,,Product C
+2022-04-16,4,2022,,Cost of goods sold,932609.05,,932609.05,,,,,Product A
+2022-04-16,4,2022,,Inventory Finished goods Product A,,932609.05,-932609.05,,,,,Product A
+2022-04-16,4,2022,,Inventory Finished goods Product C,,1292684.66,-1292684.66,,,,,Product C
+2022-04-16,4,2022,,Sales Revenue,,1466607.00,-1466607.00,,,,Product C,Client 3
+2022-04-16,4,2022,,Sales Revenue,,1658016.00,-1658016.00,,,,Product A,Client 9
+2022-04-17,4,2022,,Accounts Receivable,1073682.00,,1073682.00,,,,Product B,Client 4
+2022-04-17,4,2022,,Accounts Receivable,,2424273.00,-2424273.00,,,,Product C,Client 1
+2022-04-17,4,2022,,Accounts Receivable,,1282260.00,-1282260.00,,,,Product A,Client 7
+2022-04-17,4,2022,,Cash and cash equivalents,2424273.00,,2424273.00,,,,Product C,Client 1
+2022-04-17,4,2022,,Cash and cash equivalents,1282260.00,,1282260.00,,,,Product A,Client 7
+2022-04-17,4,2022,,Cost of goods sold,729958.18,,729958.18,,,,,Product B
+2022-04-17,4,2022,,Inventory Finished goods Product B,,729958.18,-729958.18,,,,,Product B
+2022-04-17,4,2022,,Sales Revenue,,1073682.00,-1073682.00,,,,Product B,Client 4
+2022-04-18,4,2022,,Accounts Receivable,558195.00,,558195.00,,,,Product B,Client 6
+2022-04-18,4,2022,,Cost of goods sold,407096.69,,407096.69,,,,,Product B
+2022-04-18,4,2022,,Inventory Finished goods Product B,,407096.69,-407096.69,,,,,Product B
+2022-04-18,4,2022,,Sales Revenue,,558195.00,-558195.00,,,,Product B,Client 6
+2022-04-19,4,2022,,Accounts Receivable,440505.00,,440505.00,,,,Product A,Client 7
+2022-04-19,4,2022,,Cost of goods sold,345962.48,,345962.48,,,,,Product A
+2022-04-19,4,2022,,Inventory Finished goods Product A,,345962.48,-345962.48,,,,,Product A
+2022-04-19,4,2022,,Sales Revenue,,440505.00,-440505.00,,,,Product A,Client 7
+2022-04-22,4,2022,,Accounts Receivable,671880.00,,671880.00,,,,Product B,Client 8
+2022-04-22,4,2022,,Cost of goods sold,449174.18,,449174.18,,,,,Product B
+2022-04-22,4,2022,,Inventory Finished goods Product B,,449174.18,-449174.18,,,,,Product B
+2022-04-22,4,2022,,Sales Revenue,,671880.00,-671880.00,,,,Product B,Client 8
+2022-04-23,4,2022,,Accounts Payable,855000.00,,855000.00,,,,Component 2, Supplier A 
+2022-04-23,4,2022,,Accounts Receivable,1250755.00,,1250755.00,,,,Product A,Client 5
+2022-04-23,4,2022,,Cash and cash equivalents,,855000.00,-855000.00,,,,Component 2, Supplier A 
+2022-04-23,4,2022,,Cost of goods sold,1007699.19,,1007699.19,,,,,Product A
+2022-04-23,4,2022,,Inventory Finished goods Product A,,1007699.19,-1007699.19,,,,,Product A
+2022-04-23,4,2022,,Sales Revenue,,1250755.00,-1250755.00,,,,Product A,Client 5
+2022-04-24,4,2022,,Accounts Receivable,,543344.00,-543344.00,,,,Product B,Client 8
+2022-04-24,4,2022,,Accounts Receivable,,446978.00,-446978.00,,,,Product A,Client 7
+2022-04-24,4,2022,,Cash and cash equivalents,543344.00,,543344.00,,,,Product B,Client 8
+2022-04-24,4,2022,,Cash and cash equivalents,446978.00,,446978.00,,,,Product A,Client 7
+2022-04-25,4,2022,,Accounts Payable,1800000.00,,1800000.00,,,,Component 3, Supplier A 
+2022-04-25,4,2022,,Cash and cash equivalents,,1800000.00,-1800000.00,,,,Component 3, Supplier A 
+2022-04-28,4,2022,,Accounts Receivable,2832624.00,,2832624.00,,,,Product C,Client 1
+2022-04-28,4,2022,,Accounts Receivable,,1756304.00,-1756304.00,,,,Product A,Client 7
+2022-04-28,4,2022,,Accounts Receivable,,872984.00,-872984.00,,,,Product A,Client 2
+2022-04-28,4,2022,,Accounts Receivable,,1348382.00,-1348382.00,,,,Product B,Client 4
+2022-04-28,4,2022,,Cash and cash equivalents,1756304.00,,1756304.00,,,,Product A,Client 7
+2022-04-28,4,2022,,Cash and cash equivalents,872984.00,,872984.00,,,,Product A,Client 2
+2022-04-28,4,2022,,Cash and cash equivalents,1348382.00,,1348382.00,,,,Product B,Client 4
+2022-04-28,4,2022,,Cost of goods sold,2652752.38,,2652752.38,,,,,Product C
+2022-04-28,4,2022,,Inventory Finished goods Product C,,2652752.38,-2652752.38,,,,,Product C
+2022-04-28,4,2022,,Sales Revenue,,2832624.00,-2832624.00,,,,Product C,Client 1
+2022-04-29,4,2022,,Accounts Receivable,1429818.00,,1429818.00,,,,Product A,Client 2
+2022-04-29,4,2022,,Accounts Receivable,1096316.00,,1096316.00,,,,Product A,Client 10
+2022-04-29,4,2022,,Cost of goods sold,918233.26,,918233.26,,,,,Product A
+2022-04-29,4,2022,,Cost of goods sold,846422.21,,846422.21,,,,,Product A
+2022-04-29,4,2022,,Inventory Finished goods Product A,,918233.26,-918233.26,,,,,Product A
+2022-04-29,4,2022,,Inventory Finished goods Product A,,846422.21,-846422.21,,,,,Product A
+2022-04-29,4,2022,,Sales Revenue,,1429818.00,-1429818.00,,,,Product A,Client 2
+2022-04-29,4,2022,,Sales Revenue,,1096316.00,-1096316.00,,,,Product A,Client 10
+2022-04-30,4,2022,,Accounts Payable,1020000.00,,1020000.00,,,,Component 5, Supplier D 
+2022-04-30,4,2022,,Administration,794483.00,,794483.00,,,,,
+2022-04-30,4,2022,,Cash and cash equivalents,,1020000.00,-1020000.00,,,,Component 5, Supplier D 
+2022-04-30,4,2022,,Cash and cash equivalents,,256582.28,-256582.28,,,,,
+2022-04-30,4,2022,,Cash and cash equivalents,,1048028.00,-1048028.00,,,,,
+2022-04-30,4,2022,,Cash and cash equivalents,,797542.00,-797542.00,,,,,
+2022-04-30,4,2022,,Cash and cash equivalents,,794483.00,-794483.00,,,,,
+2022-04-30,4,2022,,Cash and cash equivalents,1214453.00,,1214453.00,,,,,
+2022-04-30,4,2022,,Cash and cash equivalents,,1204994.00,-1204994.00,,,,,
+2022-04-30,4,2022,,Facility,797542.00,,797542.00,,,,,
+2022-04-30,4,2022,,Financial Cost,1204994.00,,1204994.00,,,,,
+2022-04-30,4,2022,,Financial income,,1214453.00,-1214453.00,,,,,
+2022-04-30,4,2022,,Personnel,1048028.00,,1048028.00,,,,,
+2022-04-30,4,2022,,Wages payables,256582.28,,256582.28,,,,,
+2022-05-01,5,2022,,Accounts Payable,,720000.00,-720000.00,,,,Component 1, Supplier A 
+2022-05-01,5,2022,,Accounts Payable,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-05-01,5,2022,,Accounts Payable,,2200000.00,-2200000.00,,,,Component 3, Supplier A 
+2022-05-01,5,2022,,Accounts Payable,,2200000.00,-2200000.00,,,,Component 4, Supplier B 
+2022-05-01,5,2022,,Accounts Payable,,1071000.00,-1071000.00,,,,Component 5, Supplier D 
+2022-05-01,5,2022,,Accounts Payable,,2470000.00,-2470000.00,,,,Component 6, Supplier D 
+2022-05-01,5,2022,,Accounts Payable,2192505.00,,2192505.00,,,,Component 6, Supplier D 
+2022-05-01,5,2022,,Cash and cash equivalents,,2192505.00,-2192505.00,,,,Component 6, Supplier D 
+2022-05-01,5,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-05-01,5,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-05-01,5,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-05-01,5,2022,,Raw material inventory,720000.00,,720000.00,,,,Component 1, Supplier A 
+2022-05-01,5,2022,,Raw material inventory,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-05-01,5,2022,,Raw material inventory,2200000.00,,2200000.00,,,,Component 3, Supplier A 
+2022-05-01,5,2022,,Raw material inventory,2200000.00,,2200000.00,,,,Component 4, Supplier B 
+2022-05-01,5,2022,,Raw material inventory,1071000.00,,1071000.00,,,,Component 5, Supplier D 
+2022-05-01,5,2022,,Raw material inventory,2470000.00,,2470000.00,,,,Component 6, Supplier D 
+2022-05-01,5,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-05-01,5,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-05-04,5,2022,,Accounts Payable,855000.00,,855000.00,,,,Component 5, Supplier D 
+2022-05-04,5,2022,,Accounts Receivable,,372166.00,-372166.00,,,,Product A,Client 10
+2022-05-04,5,2022,,Cash and cash equivalents,,855000.00,-855000.00,,,,Component 5, Supplier D 
+2022-05-04,5,2022,,Cash and cash equivalents,372166.00,,372166.00,,,,Product A,Client 10
+2022-03-16,3,2022,,Accounts Receivable,1217721.00,,1217721.00,,,,Product C,Client 3
+2022-05-05,5,2022,,Cash and cash equivalents,1217721.00,,1217721.00,,,,Product C,Client 3
+2022-05-08,5,2022,,Cost of goods sold,661583.20,,661583.20,,,,Supplier A,Component 1
+2022-05-08,5,2022,,Cost of goods sold,957947.76,,957947.76,,,,Supplier A,Component 2
+2022-05-08,5,2022,,Cost of goods sold,2363213.31,,2363213.31,,,,Supplier A,Component 3
+2022-05-08,5,2022,,Cost of goods sold,1875578.00,,1875578.00,,,,Supplier B,Component 4
+2022-05-08,5,2022,,Cost of goods sold,1080370.00,,1080370.00,,,,Supplier D,Component 5
+2022-05-08,5,2022,,Cost of goods sold,2306429.00,,2306429.00,,,,Supplier D,Component 6
+2022-05-08,5,2022,,Cost of goods sold,,661583.20,-661583.20,,,,,Component 1
+2022-05-08,5,2022,,Cost of goods sold,,957947.76,-957947.76,,,,,Component 2
+2022-05-08,5,2022,,Cost of goods sold,,2363213.31,-2363213.31,,,,,Component 3
+2022-05-08,5,2022,,Cost of goods sold,,1875578.00,-1875578.00,,,,,Component 4
+2022-05-08,5,2022,,Cost of goods sold,,1080370.00,-1080370.00,,,,,Component 5
+2022-05-08,5,2022,,Cost of goods sold,,2306429.00,-2306429.00,,,,,Component 6
+2022-05-08,5,2022,,Raw material inventory,,661583.20,-661583.20,,,,Component 1, Supplier A 
+2022-05-08,5,2022,,Raw material inventory,,957947.76,-957947.76,,,,Component 2, Supplier A 
+2022-05-08,5,2022,,Raw material inventory,,2363213.31,-2363213.31,,,,Component 3, Supplier A 
+2022-05-08,5,2022,,Raw material inventory,,1875578.00,-1875578.00,,,,Component 4, Supplier B 
+2022-05-08,5,2022,,Raw material inventory,,1080370.00,-1080370.00,,,,Component 5, Supplier D 
+2022-05-08,5,2022,,Raw material inventory,,2306429.00,-2306429.00,,,,Component 6, Supplier D 
+2022-05-09,5,2022,,Accounts Receivable,3776886.00,,3776886.00,,,,Product C,Client 1
+2022-05-09,5,2022,,Cost of goods sold,3472739.78,,3472739.78,,,,,Product C
+2022-05-09,5,2022,,Inventory Finished goods Product A,3829096.64,,3829096.64,,,,,
+2022-05-09,5,2022,,Inventory Finished goods Product B,1995966.76,,1995966.76,,,,,
+2022-05-09,5,2022,,Inventory Finished goods Product C,3656849.28,,3656849.28,,,,,
+2022-05-09,5,2022,,Inventory Finished goods Product C,,3472739.78,-3472739.78,,,,,Product C
+2022-05-09,5,2022,,Sales Revenue,,3776886.00,-3776886.00,,,,Product C,Client 1
+2022-05-09,5,2022,,Wages payables,,236791.42,-236791.42,,,,,
+2022-05-10,5,2022,,Accounts Receivable,567120.00,,567120.00,,,,Product A,Client 5
+2022-05-10,5,2022,,Accounts Receivable,1392341.00,,1392341.00,,,,Product B,Client 8
+2022-05-10,5,2022,,Accounts Receivable,,1025715.00,-1025715.00,,,,Product A,Client 2
+2022-05-10,5,2022,,Cash and cash equivalents,1025715.00,,1025715.00,,,,Product A,Client 2
+2022-05-10,5,2022,,Cost of goods sold,506414.53,,506414.53,,,,,Product A
+2022-05-10,5,2022,,Cost of goods sold,1016220.14,,1016220.14,,,,,Product B
+2022-05-10,5,2022,,Inventory Finished goods Product A,,506414.53,-506414.53,,,,,Product A
+2022-05-10,5,2022,,Inventory Finished goods Product B,,1016220.14,-1016220.14,,,,,Product B
+2022-05-10,5,2022,,Sales Revenue,,567120.00,-567120.00,,,,Product A,Client 5
+2022-05-10,5,2022,,Sales Revenue,,1392341.00,-1392341.00,,,,Product B,Client 8
+2022-05-11,5,2022,,Accounts Payable,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-05-11,5,2022,,Accounts Receivable,846009.00,,846009.00,,,,Product B,Client 4
+2022-05-11,5,2022,,Cash and cash equivalents,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-05-11,5,2022,,Cost of goods sold,527983.18,,527983.18,,,,,Product B
+2022-05-11,5,2022,,Inventory Finished goods Product B,,527983.18,-527983.18,,,,,Product B
+2022-05-11,5,2022,,Sales Revenue,,846009.00,-846009.00,,,,Product B,Client 4
+2022-05-12,5,2022,,Accounts Receivable,902070.00,,902070.00,,,,Product A,Client 2
+2022-05-12,5,2022,,Accounts Receivable,,1005360.00,-1005360.00,,,,Product B,Client 8
+2022-05-12,5,2022,,Cash and cash equivalents,1005360.00,,1005360.00,,,,Product B,Client 8
+2022-05-12,5,2022,,Cost of goods sold,594838.84,,594838.84,,,,,Product A
+2022-05-12,5,2022,,Inventory Finished goods Product A,,594838.84,-594838.84,,,,,Product A
+2022-05-12,5,2022,,Sales Revenue,,902070.00,-902070.00,,,,Product A,Client 2
+2022-05-13,5,2022,,Accounts Payable,935000.00,,935000.00,,,,Component 5, Supplier D 
+2022-05-13,5,2022,,Cash and cash equivalents,,935000.00,-935000.00,,,,Component 5, Supplier D 
+2022-05-15,5,2022,,Accounts Payable,2090000.00,,2090000.00,,,,Component 6, Supplier D 
+2022-05-15,5,2022,,Cash and cash equivalents,,2090000.00,-2090000.00,,,,Component 6, Supplier D 
+2022-05-16,5,2022,,Accounts Receivable,,3772578.00,-3772578.00,,,,Product C,Client 1
+2022-05-16,5,2022,,Cash and cash equivalents,3772578.00,,3772578.00,,,,Product C,Client 1
+2022-05-17,5,2022,,Accounts Payable,760000.00,,760000.00,,,,Component 1, Supplier A 
+2022-05-17,5,2022,,Cash and cash equivalents,,760000.00,-760000.00,,,,Component 1, Supplier A 
+2022-05-17,5,2022,,Cash and cash equivalents,273400.00,,273400.00,,,,Product C,Client 3
+2022-04-16,4,2022,,Accounts Receivable,1466607.00,,1466607.00,,,,Product C,Client 3
+2022-05-18,5,2022,,Accounts Receivable,713388.00,,713388.00,,,,Product B,Client 6
+2022-05-18,5,2022,,Cost of goods sold,184109.50,,184109.50,,,,,Product C
+2022-05-18,5,2022,,Cost of goods sold,451763.44,,451763.44,,,,,Product B
+2022-05-18,5,2022,,Inventory Finished goods Product B,,451763.44,-451763.44,,,,,Product B
+2022-05-18,5,2022,,Inventory Finished goods Product C,,184109.50,-184109.50,,,,,Product C
+2022-05-18,5,2022,,Sales Revenue,,173788.00,-173788.00,,,,Product C,Client 3
+2022-05-18,5,2022,,Sales Revenue,,713388.00,-713388.00,,,,Product B,Client 6
+2022-05-19,5,2022,,Accounts Receivable,,585872.00,-585872.00,,,,Product B,Client 6
+2022-05-19,5,2022,,Cash and cash equivalents,585872.00,,585872.00,,,,Product B,Client 6
+2022-05-23,5,2022,,Accounts Receivable,,1402960.00,-1402960.00,,,,Product B,Client 8
+2022-05-23,5,2022,,Cash and cash equivalents,1402960.00,,1402960.00,,,,Product B,Client 8
+2022-05-25,5,2022,,Accounts Receivable,933504.00,,933504.00,,,,Product A,Client 7
+2022-05-25,5,2022,,Accounts Receivable,1233648.00,,1233648.00,,,,Product A,Client 9
+2022-05-25,5,2022,,Accounts Receivable,1338336.00,,1338336.00,,,,Product A,Client 10
+2022-05-25,5,2022,,Cost of goods sold,817727.86,,817727.86,,,,,Product A
+2022-05-25,5,2022,,Cost of goods sold,1065127.32,,1065127.32,,,,,Product A
+2022-05-25,5,2022,,Cost of goods sold,844988.09,,844988.09,,,,,Product A
+2022-05-25,5,2022,,Inventory Finished goods Product A,,817727.86,-817727.86,,,,,Product A
+2022-05-25,5,2022,,Inventory Finished goods Product A,,1065127.32,-1065127.32,,,,,Product A
+2022-05-25,5,2022,,Inventory Finished goods Product A,,844988.09,-844988.09,,,,,Product A
+2022-05-25,5,2022,,Sales Revenue,,933504.00,-933504.00,,,,Product A,Client 7
+2022-05-25,5,2022,,Sales Revenue,,1233648.00,-1233648.00,,,,Product A,Client 9
+2022-05-25,5,2022,,Sales Revenue,,1338336.00,-1338336.00,,,,Product A,Client 10
+2022-05-27,5,2022,,Accounts Payable,3300000.00,,3300000.00,,,,Component 6, Supplier D 
+2022-05-27,5,2022,,Cash and cash equivalents,,3300000.00,-3300000.00,,,,Component 6, Supplier D 
+2022-05-28,5,2022,,Accounts Receivable,,421857.00,-421857.00,,,,Product A,Client 5
+2022-05-28,5,2022,,Cash and cash equivalents,421857.00,,421857.00,,,,Product A,Client 5
+2022-05-31,5,2022,,Administration,784197.00,,784197.00,,,,,
+2022-05-31,5,2022,,Cash and cash equivalents,,236791.42,-236791.42,,,,,
+2022-05-31,5,2022,,Cash and cash equivalents,,900412.00,-900412.00,,,,,
+2022-05-31,5,2022,,Cash and cash equivalents,,791922.00,-791922.00,,,,,
+2022-05-31,5,2022,,Cash and cash equivalents,,784197.00,-784197.00,,,,,
+2022-05-31,5,2022,,Cash and cash equivalents,1201645.00,,1201645.00,,,,,
+2022-05-31,5,2022,,Cash and cash equivalents,,1229227.00,-1229227.00,,,,,
+2022-05-31,5,2022,,Facility,791922.00,,791922.00,,,,,
+2022-05-31,5,2022,,Financial Cost,1229227.00,,1229227.00,,,,,
+2022-05-31,5,2022,,Financial income,,1201645.00,-1201645.00,,,,,
+2022-05-31,5,2022,,Personnel,900412.00,,900412.00,,,,,
+2022-05-31,5,2022,,Wages payables,236791.42,,236791.42,,,,,
+2022-06-01,6,2022,,Accounts Payable,2000000.00,,2000000.00,,,,Component 3, Supplier A 
+2022-06-01,6,2022,,Accounts Receivable,,483771.00,-483771.00,,,,Product B,Client 6
+2022-06-01,6,2022,,Cash and cash equivalents,,2000000.00,-2000000.00,,,,Component 3, Supplier A 
+2022-06-01,6,2022,,Cash and cash equivalents,483771.00,,483771.00,,,,Product B,Client 6
+2022-06-01,6,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-06-01,6,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-06-01,6,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-06-01,6,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-06-01,6,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-06-02,6,2022,,Accounts Payable,2375000.00,,2375000.00,,,,Component 3, Supplier A 
+2022-06-02,6,2022,,Cash and cash equivalents,,2375000.00,-2375000.00,,,,Component 3, Supplier A 
+2022-06-03,6,2022,,Accounts Receivable,,1050962.00,-1050962.00,,,,Product A,Client 2
+2022-06-03,6,2022,,Cash and cash equivalents,1050962.00,,1050962.00,,,,Product A,Client 2
+2022-06-04,6,2022,,Accounts Payable,2470000.00,,2470000.00,,,,Component 6, Supplier D 
+2022-06-04,6,2022,,Cash and cash equivalents,,2470000.00,-2470000.00,,,,Component 6, Supplier D 
+2022-06-05,6,2022,,Accounts Payable,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-06-05,6,2022,,Accounts Payable,,810000.00,-810000.00,,,,Component 2, Supplier A 
+2022-06-05,6,2022,,Accounts Payable,,2210000.00,-2210000.00,,,,Component 3, Supplier A 
+2022-06-05,6,2022,,Accounts Payable,,2420000.00,-2420000.00,,,,Component 4, Supplier B 
+2022-06-05,6,2022,,Accounts Payable,,884000.00,-884000.00,,,,Component 5, Supplier D 
+2022-06-05,6,2022,,Accounts Payable,,1870000.00,-1870000.00,,,,Component 6, Supplier D 
+2022-06-05,6,2022,,Raw material inventory,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-06-05,6,2022,,Raw material inventory,810000.00,,810000.00,,,,Component 2, Supplier A 
+2022-06-05,6,2022,,Raw material inventory,2210000.00,,2210000.00,,,,Component 3, Supplier A 
+2022-06-05,6,2022,,Raw material inventory,2420000.00,,2420000.00,,,,Component 4, Supplier B 
+2022-06-05,6,2022,,Raw material inventory,884000.00,,884000.00,,,,Component 5, Supplier D 
+2022-06-05,6,2022,,Raw material inventory,1870000.00,,1870000.00,,,,Component 6, Supplier D 
+2022-06-06,6,2022,,Accounts Payable,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-06-06,6,2022,,Cash and cash equivalents,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-06-10,6,2022,,Accounts Receivable,,3776886.00,-3776886.00,,,,Product C,Client 1
+2022-06-10,6,2022,,Cash and cash equivalents,3776886.00,,3776886.00,,,,Product C,Client 1
+2022-06-12,6,2022,,Cost of goods sold,563456.80,,563456.80,,,,Supplier A,Component 1
+2022-06-12,6,2022,,Cost of goods sold,838781.94,,838781.94,,,,Supplier A,Component 2
+2022-06-12,6,2022,,Cost of goods sold,1794753.06,,1794753.06,,,,Supplier A,Component 3
+2022-06-12,6,2022,,Cost of goods sold,1493282.00,,1493282.00,,,,Supplier B,Component 4
+2022-06-12,6,2022,,Cost of goods sold,894125.60,,894125.60,,,,Supplier D,Component 5
+2022-06-12,6,2022,,Cost of goods sold,2065456.00,,2065456.00,,,,Supplier D,Component 6
+2022-06-12,6,2022,,Cost of goods sold,,563456.80,-563456.80,,,,,Component 1
+2022-06-12,6,2022,,Cost of goods sold,,838781.94,-838781.94,,,,,Component 2
+2022-06-12,6,2022,,Cost of goods sold,,1794753.06,-1794753.06,,,,,Component 3
+2022-06-12,6,2022,,Cost of goods sold,,1493282.00,-1493282.00,,,,,Component 4
+2022-06-12,6,2022,,Cost of goods sold,,894125.60,-894125.60,,,,,Component 5
+2022-06-12,6,2022,,Cost of goods sold,,2065456.00,-2065456.00,,,,,Component 6
+2022-06-12,6,2022,,Raw material inventory,,563456.80,-563456.80,,,,Component 1, Supplier A 
+2022-06-12,6,2022,,Raw material inventory,,838781.94,-838781.94,,,,Component 2, Supplier A 
+2022-06-12,6,2022,,Raw material inventory,,1794753.06,-1794753.06,,,,Component 3, Supplier A 
+2022-06-12,6,2022,,Raw material inventory,,1493282.00,-1493282.00,,,,Component 4, Supplier B 
+2022-06-12,6,2022,,Raw material inventory,,894125.60,-894125.60,,,,Component 5, Supplier D 
+2022-06-12,6,2022,,Raw material inventory,,2065456.00,-2065456.00,,,,Component 6, Supplier D 
+2022-06-13,6,2022,,Accounts Receivable,675328.00,,675328.00,,,,Product B,Client 6
+2022-06-13,6,2022,,Cost of goods sold,385696.70,,385696.70,,,,,Product B
+2022-06-13,6,2022,,Inventory Finished goods Product A,3149465.91,,3149465.91,,,,,
+2022-06-13,6,2022,,Inventory Finished goods Product B,1622981.90,,1622981.90,,,,,
+2022-06-13,6,2022,,Inventory Finished goods Product B,,385696.70,-385696.70,,,,,Product B
+2022-06-13,6,2022,,Inventory Finished goods Product C,3102727.62,,3102727.62,,,,,
+2022-06-13,6,2022,,Sales Revenue,,675328.00,-675328.00,,,,Product B,Client 6
+2022-06-13,6,2022,,Wages payables,,225320.03,-225320.03,,,,,
+2022-06-14,6,2022,,Accounts Receivable,1641031.00,,1641031.00,,,,Product A,Client 9
+2022-06-14,6,2022,,Accounts Receivable,,1096316.00,-1096316.00,,,,Product A,Client 10
+2022-06-14,6,2022,,Cash and cash equivalents,1096316.00,,1096316.00,,,,Product A,Client 10
+2022-06-14,6,2022,,Cost of goods sold,997180.01,,997180.01,,,,,Product A
+2022-06-14,6,2022,,Inventory Finished goods Product A,,997180.01,-997180.01,,,,,Product A
+2022-06-14,6,2022,,Sales Revenue,,1641031.00,-1641031.00,,,,Product A,Client 9
+2022-06-16,6,2022,,Accounts Receivable,3504204.00,,3504204.00,,,,Product C,Client 1
+2022-06-16,6,2022,,Accounts Receivable,804344.00,,804344.00,,,,Product A,Client 5
+2022-06-16,6,2022,,Cost of goods sold,2175367.37,,2175367.37,,,,,Product C
+2022-06-16,6,2022,,Cost of goods sold,592884.74,,592884.74,,,,,Product A
+2022-06-16,6,2022,,Inventory Finished goods Product A,,592884.74,-592884.74,,,,,Product A
+2022-06-16,6,2022,,Inventory Finished goods Product C,,2175367.37,-2175367.37,,,,,Product C
+2022-06-16,6,2022,,Sales Revenue,,3504204.00,-3504204.00,,,,Product C,Client 1
+2022-06-16,6,2022,,Sales Revenue,,804344.00,-804344.00,,,,Product A,Client 5
+2022-06-17,6,2022,,Accounts Receivable,600600.00,,600600.00,,,,Product A,Client 10
+2022-06-17,6,2022,,Accounts Receivable,,664416.00,-664416.00,,,,Product A,Client 9
+2022-06-17,6,2022,,Cash and cash equivalents,664416.00,,664416.00,,,,Product A,Client 9
+2022-06-17,6,2022,,Cost of goods sold,443840.87,,443840.87,,,,,Product A
+2022-06-17,6,2022,,Inventory Finished goods Product A,,443840.87,-443840.87,,,,,Product A
+2022-06-17,6,2022,,Sales Revenue,,600600.00,-600600.00,,,,Product A,Client 10
+2022-06-18,6,2022,,Accounts Receivable,1159740.00,,1159740.00,,,,Product A,Client 7
+2022-06-18,6,2022,,Cost of goods sold,776408.68,,776408.68,,,,,Product A
+2022-06-18,6,2022,,Inventory Finished goods Product A,,776408.68,-776408.68,,,,,Product A
+2022-06-18,6,2022,,Sales Revenue,,1159740.00,-1159740.00,,,,Product A,Client 7
+2022-06-21,6,2022,,Accounts Receivable,,671880.00,-671880.00,,,,Product B,Client 8
+2022-06-21,6,2022,,Cash and cash equivalents,671880.00,,671880.00,,,,Product B,Client 8
+2022-06-22,6,2022,,Accounts Receivable,915151.00,,915151.00,,,,Product B,Client 4
+2022-06-22,6,2022,,Accounts Receivable,1177393.00,,1177393.00,,,,Product B,Client 8
+2022-06-22,6,2022,,Cost of goods sold,631143.38,,631143.38,,,,,Product B
+2022-06-22,6,2022,,Cost of goods sold,606141.82,,606141.82,,,,,Product B
+2022-06-22,6,2022,,Inventory Finished goods Product B,,631143.38,-631143.38,,,,,Product B
+2022-06-22,6,2022,,Inventory Finished goods Product B,,606141.82,-606141.82,,,,,Product B
+2022-06-22,6,2022,,Sales Revenue,,915151.00,-915151.00,,,,Product B,Client 4
+2022-06-22,6,2022,,Sales Revenue,,1177393.00,-1177393.00,,,,Product B,Client 8
+2022-06-25,6,2022,,Accounts Receivable,515645.00,,515645.00,,,,Product A,Client 2
+2022-06-25,6,2022,,Cost of goods sold,339151.62,,339151.62,,,,,Product A
+2022-06-25,6,2022,,Inventory Finished goods Product A,,339151.62,-339151.62,,,,,Product A
+2022-06-25,6,2022,,Sales Revenue,,515645.00,-515645.00,,,,Product A,Client 2
+2022-06-27,6,2022,,Accounts Payable,1071000.00,,1071000.00,,,,Component 5, Supplier D 
+2022-06-27,6,2022,,Cash and cash equivalents,,1071000.00,-1071000.00,,,,Component 5, Supplier D 
+2022-06-29,6,2022,,Accounts Payable,2200000.00,,2200000.00,,,,Component 4, Supplier B 
+2022-06-29,6,2022,,Cash and cash equivalents,,2200000.00,-2200000.00,,,,Component 4, Supplier B 
+2022-06-29,6,2022,,Cost of goods sold,927360.25,,927360.25,,,,,Product C
+2022-06-29,6,2022,,Inventory Finished goods Product C,,927360.25,-927360.25,,,,,Product C
+2022-06-29,6,2022,,Sales Revenue,,1584380.00,-1584380.00,,,,Product C,Client 3
+2022-06-30,6,2022,,Administration,794583.00,,794583.00,,,,,
+2022-06-30,6,2022,,Cash and cash equivalents,,225320.03,-225320.03,,,,,
+2022-06-30,6,2022,,Cash and cash equivalents,,926816.00,-926816.00,,,,,
+2022-06-30,6,2022,,Cash and cash equivalents,,781895.00,-781895.00,,,,,
+2022-06-30,6,2022,,Cash and cash equivalents,,794583.00,-794583.00,,,,,
+2022-06-30,6,2022,,Cash and cash equivalents,1212469.00,,1212469.00,,,,,
+2022-06-30,6,2022,,Cash and cash equivalents,,1223784.00,-1223784.00,,,,,
+2022-06-30,6,2022,,Facility,781895.00,,781895.00,,,,,
+2022-06-30,6,2022,,Financial Cost,1223784.00,,1223784.00,,,,,
+2022-06-30,6,2022,,Financial income,,1212469.00,-1212469.00,,,,,
+2022-06-30,6,2022,,Personnel,926816.00,,926816.00,,,,,
+2022-06-30,6,2022,,Wages payables,225320.03,,225320.03,,,,,
+2022-07-01,7,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-07-01,7,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-07-01,7,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-07-01,7,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-07-01,7,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-07-02,7,2022,,Accounts Receivable,,1073682.00,-1073682.00,,,,Product B,Client 4
+2022-07-02,7,2022,,Cash and cash equivalents,1073682.00,,1073682.00,,,,Product B,Client 4
+2022-07-04,7,2022,,Accounts Payable,,760000.00,-760000.00,,,,Component 1, Supplier A 
+2022-07-04,7,2022,,Accounts Payable,,900000.00,-900000.00,,,,Component 2, Supplier A 
+2022-07-04,7,2022,,Accounts Payable,,2100000.00,-2100000.00,,,,Component 3, Supplier A 
+2022-07-04,7,2022,,Accounts Payable,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2022-07-04,7,2022,,Accounts Payable,,1400000.00,-1400000.00,,,,Component 5, Supplier D 
+2022-07-04,7,2022,,Accounts Payable,,2380000.00,-2380000.00,,,,Component 6, Supplier D 
+2022-07-04,7,2022,,Raw material inventory,760000.00,,760000.00,,,,Component 1, Supplier A 
+2022-07-04,7,2022,,Raw material inventory,900000.00,,900000.00,,,,Component 2, Supplier A 
+2022-07-04,7,2022,,Raw material inventory,2100000.00,,2100000.00,,,,Component 3, Supplier A 
+2022-07-04,7,2022,,Raw material inventory,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2022-07-04,7,2022,,Raw material inventory,1400000.00,,1400000.00,,,,Component 5, Supplier D 
+2022-07-04,7,2022,,Raw material inventory,2380000.00,,2380000.00,,,,Component 6, Supplier D 
+2022-07-05,7,2022,,Accounts Payable,2420000.00,,2420000.00,,,,Component 4, Supplier B 
+2022-07-05,7,2022,,Accounts Receivable,,1392341.00,-1392341.00,,,,Product B,Client 8
+2022-07-05,7,2022,,Cash and cash equivalents,,2420000.00,-2420000.00,,,,Component 4, Supplier B 
+2022-07-05,7,2022,,Cash and cash equivalents,1392341.00,,1392341.00,,,,Product B,Client 8
+2022-07-06,7,2022,,Accounts Receivable,,861150.00,-861150.00,,,,Product B,Client 4
+2022-07-06,7,2022,,Cash and cash equivalents,861150.00,,861150.00,,,,Product B,Client 4
+2022-05-05,5,2022,,Accounts Receivable,,1217721.00,-1217721.00,,,,Product C,Client 3
+2022-07-10,7,2022,,Cash and cash equivalents,1466607.00,,1466607.00,,,,Product C,Client 3
+2022-07-11,7,2022,,Accounts Payable,2420000.00,,2420000.00,,,,Component 4, Supplier B 
+2022-07-11,7,2022,,Accounts Receivable,,1250755.00,-1250755.00,,,,Product A,Client 5
+2022-07-11,7,2022,,Cash and cash equivalents,,2420000.00,-2420000.00,,,,Component 4, Supplier B 
+2022-07-11,7,2022,,Cash and cash equivalents,1250755.00,,1250755.00,,,,Product A,Client 5
+2022-07-11,7,2022,,Cost of goods sold,704544.80,,704544.80,,,,Supplier A,Component 1
+2022-07-11,7,2022,,Cost of goods sold,934816.88,,934816.88,,,,Supplier A,Component 2
+2022-07-11,7,2022,,Cost of goods sold,2350592.48,,2350592.48,,,,Supplier A,Component 3
+2022-07-11,7,2022,,Cost of goods sold,1982123.00,,1982123.00,,,,Supplier B,Component 4
+2022-07-11,7,2022,,Cost of goods sold,1144563.60,,1144563.60,,,,Supplier D,Component 5
+2022-07-11,7,2022,,Cost of goods sold,2276895.00,,2276895.00,,,,Supplier D,Component 6
+2022-07-11,7,2022,,Cost of goods sold,,704544.80,-704544.80,,,,,Component 1
+2022-07-11,7,2022,,Cost of goods sold,,934816.88,-934816.88,,,,,Component 2
+2022-07-11,7,2022,,Cost of goods sold,,2350592.48,-2350592.48,,,,,Component 3
+2022-07-11,7,2022,,Cost of goods sold,,1982123.00,-1982123.00,,,,,Component 4
+2022-07-11,7,2022,,Cost of goods sold,,1144563.60,-1144563.60,,,,,Component 5
+2022-07-11,7,2022,,Cost of goods sold,,2276895.00,-2276895.00,,,,,Component 6
+2022-07-11,7,2022,,Raw material inventory,,704544.80,-704544.80,,,,Component 1, Supplier A 
+2022-07-11,7,2022,,Raw material inventory,,934816.88,-934816.88,,,,Component 2, Supplier A 
+2022-07-11,7,2022,,Raw material inventory,,2350592.48,-2350592.48,,,,Component 3, Supplier A 
+2022-07-11,7,2022,,Raw material inventory,,1982123.00,-1982123.00,,,,Component 4, Supplier B 
+2022-07-11,7,2022,,Raw material inventory,,1144563.60,-1144563.60,,,,Component 5, Supplier D 
+2022-07-11,7,2022,,Raw material inventory,,2276895.00,-2276895.00,,,,Component 6, Supplier D 
+2022-07-12,7,2022,,Inventory Finished goods Product A,3840368.05,,3840368.05,,,,,
+2022-07-12,7,2022,,Inventory Finished goods Product B,2028074.30,,2028074.30,,,,,
+2022-07-12,7,2022,,Inventory Finished goods Product C,3778490.65,,3778490.65,,,,,
+2022-07-12,7,2022,,Wages payables,,253397.24,-253397.24,,,,,
+2022-07-14,7,2022,,Accounts Receivable,,1429818.00,-1429818.00,,,,Product A,Client 2
+2022-07-14,7,2022,,Cash and cash equivalents,1429818.00,,1429818.00,,,,Product A,Client 2
+2022-07-15,7,2022,,Accounts Receivable,,567120.00,-567120.00,,,,Product A,Client 5
+2022-07-15,7,2022,,Cash and cash equivalents,567120.00,,567120.00,,,,Product A,Client 5
+2022-07-16,7,2022,,Accounts Receivable,522000.00,,522000.00,,,,Product B,Client 8
+2022-07-16,7,2022,,Accounts Receivable,907731.00,,907731.00,,,,Product A,Client 9
+2022-07-16,7,2022,,Cost of goods sold,434913.00,,434913.00,,,,,Product B
+2022-07-16,7,2022,,Cost of goods sold,748692.61,,748692.61,,,,,Product A
+2022-07-16,7,2022,,Inventory Finished goods Product A,,748692.61,-748692.61,,,,,Product A
+2022-07-16,7,2022,,Inventory Finished goods Product B,,434913.00,-434913.00,,,,,Product B
+2022-07-16,7,2022,,Sales Revenue,,522000.00,-522000.00,,,,Product B,Client 8
+2022-07-16,7,2022,,Sales Revenue,,907731.00,-907731.00,,,,Product A,Client 9
+2022-07-18,7,2022,,Accounts Receivable,577216.00,,577216.00,,,,Product A,Client 10
+2022-07-18,7,2022,,Cost of goods sold,395248.67,,395248.67,,,,,Product A
+2022-07-18,7,2022,,Inventory Finished goods Product A,,395248.67,-395248.67,,,,,Product A
+2022-07-18,7,2022,,Sales Revenue,,577216.00,-577216.00,,,,Product A,Client 10
+2022-07-19,7,2022,,Accounts Payable,720000.00,,720000.00,,,,Component 1, Supplier A 
+2022-07-19,7,2022,,Cash and cash equivalents,,720000.00,-720000.00,,,,Component 1, Supplier A 
+2022-07-20,7,2022,,Accounts Receivable,,1658016.00,-1658016.00,,,,Product A,Client 9
+2022-07-20,7,2022,,Cash and cash equivalents,1658016.00,,1658016.00,,,,Product A,Client 9
+2022-07-21,7,2022,,Accounts Receivable,,558195.00,-558195.00,,,,Product B,Client 6
+2022-07-21,7,2022,,Accounts Receivable,,902070.00,-902070.00,,,,Product A,Client 2
+2022-07-21,7,2022,,Cash and cash equivalents,558195.00,,558195.00,,,,Product B,Client 6
+2022-07-21,7,2022,,Cash and cash equivalents,902070.00,,902070.00,,,,Product A,Client 2
+2022-05-17,5,2022,,Accounts Receivable,,273400.00,-273400.00,,,,Product C,Client 3
+2022-07-22,7,2022,,Accounts Receivable,754700.00,,754700.00,,,,Product A,Client 5
+2022-07-22,7,2022,,Accounts Receivable,,713388.00,-713388.00,,,,Product B,Client 6
+2022-07-22,7,2022,,Cash and cash equivalents,713388.00,,713388.00,,,,Product B,Client 6
+2022-07-22,7,2022,,Cost of goods sold,1169056.10,,1169056.10,,,,,Product C
+2022-07-22,7,2022,,Cost of goods sold,657977.65,,657977.65,,,,,Product A
+2022-07-22,7,2022,,Inventory Finished goods Product A,,657977.65,-657977.65,,,,,Product A
+2022-07-22,7,2022,,Inventory Finished goods Product C,,1169056.10,-1169056.10,,,,,Product C
+2022-07-22,7,2022,,Sales Revenue,,1750932.00,-1750932.00,,,,Product C,Client 3
+2022-07-22,7,2022,,Sales Revenue,,754700.00,-754700.00,,,,Product A,Client 5
+2022-07-25,7,2022,,Accounts Payable,2200000.00,,2200000.00,,,,Component 3, Supplier A 
+2022-07-25,7,2022,,Cash and cash equivalents,,2200000.00,-2200000.00,,,,Component 3, Supplier A 
+2022-07-26,7,2022,,Accounts Receivable,3161070.00,,3161070.00,,,,Product C,Client 1
+2022-07-26,7,2022,,Accounts Receivable,1990443.00,,1990443.00,,,,Product B,Client 4
+2022-07-26,7,2022,,Cost of goods sold,2609434.55,,2609434.55,,,,,Product C
+2022-07-26,7,2022,,Cost of goods sold,1153649.22,,1153649.22,,,,,Product B
+2022-07-26,7,2022,,Inventory Finished goods Product B,,1153649.22,-1153649.22,,,,,Product B
+2022-07-26,7,2022,,Inventory Finished goods Product C,,2609434.55,-2609434.55,,,,,Product C
+2022-07-26,7,2022,,Sales Revenue,,3161070.00,-3161070.00,,,,Product C,Client 1
+2022-07-26,7,2022,,Sales Revenue,,1990443.00,-1990443.00,,,,Product B,Client 4
+2022-07-29,7,2022,,Accounts Receivable,1764378.00,,1764378.00,,,,Product A,Client 7
+2022-05-18,5,2022,,Accounts Receivable,173788.00,,173788.00,,,,Product C,Client 3
+2022-07-29,7,2022,,Cash and cash equivalents,1584380.00,,1584380.00,,,,Product C,Client 3
+2022-07-29,7,2022,,Cost of goods sold,1167437.36,,1167437.36,,,,,Product A
+2022-07-29,7,2022,,Inventory Finished goods Product A,,1167437.36,-1167437.36,,,,,Product A
+2022-07-29,7,2022,,Sales Revenue,,1764378.00,-1764378.00,,,,Product A,Client 7
+2022-07-30,7,2022,,Accounts Receivable,1019031.00,,1019031.00,,,,Product A,Client 2
+2022-07-30,7,2022,,Accounts Receivable,670390.00,,670390.00,,,,Product B,Client 6
+2022-07-30,7,2022,,Cost of goods sold,871011.75,,871011.75,,,,,Product A
+2022-07-30,7,2022,,Cost of goods sold,439512.08,,439512.08,,,,,Product B
+2022-07-30,7,2022,,Inventory Finished goods Product A,,871011.75,-871011.75,,,,,Product A
+2022-07-30,7,2022,,Inventory Finished goods Product B,,439512.08,-439512.08,,,,,Product B
+2022-07-30,7,2022,,Sales Revenue,,1019031.00,-1019031.00,,,,Product A,Client 2
+2022-07-30,7,2022,,Sales Revenue,,670390.00,-670390.00,,,,Product B,Client 6
+2022-07-31,7,2022,,Accounts Receivable,,440505.00,-440505.00,,,,Product A,Client 7
+2022-07-31,7,2022,,Administration,796511.00,,796511.00,,,,,
+2022-07-31,7,2022,,Cash and cash equivalents,,253397.24,-253397.24,,,,,
+2022-07-31,7,2022,,Cash and cash equivalents,440505.00,,440505.00,,,,Product A,Client 7
+2022-07-31,7,2022,,Cash and cash equivalents,,1130206.00,-1130206.00,,,,,
+2022-07-31,7,2022,,Cash and cash equivalents,,784848.00,-784848.00,,,,,
+2022-07-31,7,2022,,Cash and cash equivalents,,796511.00,-796511.00,,,,,
+2022-07-31,7,2022,,Cash and cash equivalents,1218014.00,,1218014.00,,,,,
+2022-07-31,7,2022,,Cash and cash equivalents,,1209257.00,-1209257.00,,,,,
+2022-07-31,7,2022,,Facility,784848.00,,784848.00,,,,,
+2022-07-31,7,2022,,Financial Cost,1209257.00,,1209257.00,,,,,
+2022-07-31,7,2022,,Financial income,,1218014.00,-1218014.00,,,,,
+2022-07-31,7,2022,,Personnel,1130206.00,,1130206.00,,,,,
+2022-07-31,7,2022,,Wages payables,253397.24,,253397.24,,,,,
+2022-08-01,8,2022,,Accounts Payable,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-08-01,8,2022,,Accounts Payable,,810000.00,-810000.00,,,,Component 2, Supplier A 
+2022-08-01,8,2022,,Accounts Payable,,2000000.00,-2000000.00,,,,Component 3, Supplier A 
+2022-08-01,8,2022,,Accounts Payable,,2090000.00,-2090000.00,,,,Component 4, Supplier B 
+2022-08-01,8,2022,,Accounts Payable,,880000.00,-880000.00,,,,Component 5, Supplier D 
+2022-08-01,8,2022,,Accounts Payable,,2192505.00,-2192505.00,,,,Component 6, Supplier D 
+2022-08-01,8,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-08-01,8,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-08-01,8,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-08-01,8,2022,,Raw material inventory,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-08-01,8,2022,,Raw material inventory,810000.00,,810000.00,,,,Component 2, Supplier A 
+2022-08-01,8,2022,,Raw material inventory,2000000.00,,2000000.00,,,,Component 3, Supplier A 
+2022-08-01,8,2022,,Raw material inventory,2090000.00,,2090000.00,,,,Component 4, Supplier B 
+2022-08-01,8,2022,,Raw material inventory,880000.00,,880000.00,,,,Component 5, Supplier D 
+2022-08-01,8,2022,,Raw material inventory,2192505.00,,2192505.00,,,,Component 6, Supplier D 
+2022-08-01,8,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-08-01,8,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-08-02,8,2022,,Accounts Payable,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-08-02,8,2022,,Accounts Payable,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-08-02,8,2022,,Accounts Receivable,,515645.00,-515645.00,,,,Product A,Client 2
+2022-08-02,8,2022,,Cash and cash equivalents,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-08-02,8,2022,,Cash and cash equivalents,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-08-02,8,2022,,Cash and cash equivalents,515645.00,,515645.00,,,,Product A,Client 2
+2022-08-08,8,2022,,Accounts Receivable,,2832624.00,-2832624.00,,,,Product C,Client 1
+2022-08-08,8,2022,,Cash and cash equivalents,2832624.00,,2832624.00,,,,Product C,Client 1
+2022-08-08,8,2022,,Cost of goods sold,729079.20,,729079.20,,,,Supplier A,Component 1
+2022-08-08,8,2022,,Cost of goods sold,822659.92,,822659.92,,,,Supplier A,Component 2
+2022-08-08,8,2022,,Cost of goods sold,1968576.92,,1968576.92,,,,Supplier A,Component 3
+2022-08-08,8,2022,,Cost of goods sold,2143001.00,,2143001.00,,,,Supplier B,Component 4
+2022-08-08,8,2022,,Cost of goods sold,917779.70,,917779.70,,,,Supplier D,Component 5
+2022-08-08,8,2022,,Cost of goods sold,2131550.00,,2131550.00,,,,Supplier D,Component 6
+2022-08-08,8,2022,,Cost of goods sold,,729079.20,-729079.20,,,,,Component 1
+2022-08-08,8,2022,,Cost of goods sold,,822659.92,-822659.92,,,,,Component 2
+2022-08-08,8,2022,,Cost of goods sold,,1968576.92,-1968576.92,,,,,Component 3
+2022-08-08,8,2022,,Cost of goods sold,,2143001.00,-2143001.00,,,,,Component 4
+2022-08-08,8,2022,,Cost of goods sold,,917779.70,-917779.70,,,,,Component 5
+2022-08-08,8,2022,,Cost of goods sold,,2131550.00,-2131550.00,,,,,Component 6
+2022-08-08,8,2022,,Raw material inventory,,729079.20,-729079.20,,,,Component 1, Supplier A 
+2022-08-08,8,2022,,Raw material inventory,,822659.92,-822659.92,,,,Component 2, Supplier A 
+2022-08-08,8,2022,,Raw material inventory,,1968576.92,-1968576.92,,,,Component 3, Supplier A 
+2022-08-08,8,2022,,Raw material inventory,,2143001.00,-2143001.00,,,,Component 4, Supplier B 
+2022-08-08,8,2022,,Raw material inventory,,917779.70,-917779.70,,,,Component 5, Supplier D 
+2022-08-08,8,2022,,Raw material inventory,,2131550.00,-2131550.00,,,,Component 6, Supplier D 
+2022-08-09,8,2022,,Accounts Receivable,1654350.00,,1654350.00,,,,Product C,Client 1
+2022-08-09,8,2022,,Cost of goods sold,1627946.57,,1627946.57,,,,,Product C
+2022-08-09,8,2022,,Inventory Finished goods Product A,4212716.98,,4212716.98,,,,,
+2022-08-09,8,2022,,Inventory Finished goods Product B,2796030.58,,2796030.58,,,,,
+2022-08-09,8,2022,,Inventory Finished goods Product C,1931375.31,,1931375.31,,,,,
+2022-08-09,8,2022,,Inventory Finished goods Product C,,1627946.57,-1627946.57,,,,,Product C
+2022-08-09,8,2022,,Sales Revenue,,1654350.00,-1654350.00,,,,Product C,Client 1
+2022-08-09,8,2022,,Wages payables,,227476.12,-227476.12,,,,,
+2022-08-11,8,2022,,Accounts Receivable,1299942.00,,1299942.00,,,,Product A,Client 9
+2022-08-11,8,2022,,Cost of goods sold,1075011.97,,1075011.97,,,,,Product A
+2022-08-11,8,2022,,Inventory Finished goods Product A,,1075011.97,-1075011.97,,,,,Product A
+2022-08-11,8,2022,,Sales Revenue,,1299942.00,-1299942.00,,,,Product A,Client 9
+2022-08-12,8,2022,,Accounts Receivable,,804344.00,-804344.00,,,,Product A,Client 5
+2022-08-12,8,2022,,Cash and cash equivalents,804344.00,,804344.00,,,,Product A,Client 5
+2022-08-14,8,2022,,Accounts Receivable,708324.00,,708324.00,,,,Product B,Client 6
+2022-08-14,8,2022,,Accounts Receivable,1618086.00,,1618086.00,,,,Product B,Client 8
+2022-08-14,8,2022,,Cost of goods sold,303428.73,,303428.73,,,,,Product C
+2022-08-14,8,2022,,Cost of goods sold,464131.94,,464131.94,,,,,Product B
+2022-08-14,8,2022,,Cost of goods sold,1164544.45,,1164544.45,,,,,Product B
+2022-08-14,8,2022,,Inventory Finished goods Product B,,464131.94,-464131.94,,,,,Product B
+2022-08-14,8,2022,,Inventory Finished goods Product B,,1164544.45,-1164544.45,,,,,Product B
+2022-08-14,8,2022,,Inventory Finished goods Product C,,303428.73,-303428.73,,,,,Product C
+2022-08-14,8,2022,,Sales Revenue,,444024.00,-444024.00,,,,Product C,Client 3
+2022-08-14,8,2022,,Sales Revenue,,708324.00,-708324.00,,,,Product B,Client 6
+2022-08-14,8,2022,,Sales Revenue,,1618086.00,-1618086.00,,,,Product B,Client 8
+2022-08-15,8,2022,,Accounts Payable,1870000.00,,1870000.00,,,,Component 6, Supplier D 
+2022-08-15,8,2022,,Accounts Receivable,1462450.00,,1462450.00,,,,Product B,Client 4
+2022-08-15,8,2022,,Accounts Receivable,756884.00,,756884.00,,,,Product A,Client 5
+2022-08-15,8,2022,,Cash and cash equivalents,,1870000.00,-1870000.00,,,,Component 6, Supplier D 
+2022-08-15,8,2022,,Cost of goods sold,1167354.18,,1167354.18,,,,,Product B
+2022-08-15,8,2022,,Cost of goods sold,676292.31,,676292.31,,,,,Product A
+2022-08-15,8,2022,,Inventory Finished goods Product A,,676292.31,-676292.31,,,,,Product A
+2022-08-15,8,2022,,Inventory Finished goods Product B,,1167354.18,-1167354.18,,,,,Product B
+2022-08-15,8,2022,,Sales Revenue,,1462450.00,-1462450.00,,,,Product B,Client 4
+2022-08-15,8,2022,,Sales Revenue,,756884.00,-756884.00,,,,Product A,Client 5
+2022-08-17,8,2022,,Accounts Receivable,605178.00,,605178.00,,,,Product A,Client 10
+2022-08-17,8,2022,,Accounts Receivable,,3504204.00,-3504204.00,,,,Product C,Client 1
+2022-08-17,8,2022,,Accounts Receivable,,600600.00,-600600.00,,,,Product A,Client 10
+2022-08-17,8,2022,,Cash and cash equivalents,3504204.00,,3504204.00,,,,Product C,Client 1
+2022-08-17,8,2022,,Cash and cash equivalents,600600.00,,600600.00,,,,Product A,Client 10
+2022-08-17,8,2022,,Cost of goods sold,480389.34,,480389.34,,,,,Product A
+2022-08-17,8,2022,,Inventory Finished goods Product A,,480389.34,-480389.34,,,,,Product A
+2022-08-17,8,2022,,Sales Revenue,,605178.00,-605178.00,,,,Product A,Client 10
+2022-08-18,8,2022,,Accounts Payable,900000.00,,900000.00,,,,Component 2, Supplier A 
+2022-08-18,8,2022,,Accounts Receivable,,846009.00,-846009.00,,,,Product B,Client 4
+2022-08-18,8,2022,,Cash and cash equivalents,,900000.00,-900000.00,,,,Component 2, Supplier A 
+2022-08-18,8,2022,,Cash and cash equivalents,846009.00,,846009.00,,,,Product B,Client 4
+2022-08-20,8,2022,,Accounts Payable,810000.00,,810000.00,,,,Component 2, Supplier A 
+2022-08-20,8,2022,,Cash and cash equivalents,,810000.00,-810000.00,,,,Component 2, Supplier A 
+2022-08-25,8,2022,,Accounts Receivable,1355424.00,,1355424.00,,,,Product A,Client 2
+2022-06-29,6,2022,,Accounts Receivable,1584380.00,,1584380.00,,,,Product C,Client 3
+2022-08-25,8,2022,,Cash and cash equivalents,173788.00,,173788.00,,,,Product C,Client 3
+2022-08-25,8,2022,,Cost of goods sold,1160638.28,,1160638.28,,,,,Product A
+2022-08-25,8,2022,,Inventory Finished goods Product A,,1160638.28,-1160638.28,,,,,Product A
+2022-08-25,8,2022,,Sales Revenue,,1355424.00,-1355424.00,,,,Product A,Client 2
+2022-08-27,8,2022,,Accounts Receivable,1162070.00,,1162070.00,,,,Product A,Client 7
+2022-08-27,8,2022,,Accounts Receivable,,1338336.00,-1338336.00,,,,Product A,Client 10
+2022-08-27,8,2022,,Cash and cash equivalents,1338336.00,,1338336.00,,,,Product A,Client 10
+2022-08-27,8,2022,,Cost of goods sold,820385.08,,820385.08,,,,,Product A
+2022-08-27,8,2022,,Inventory Finished goods Product A,,820385.08,-820385.08,,,,,Product A
+2022-08-27,8,2022,,Sales Revenue,,1162070.00,-1162070.00,,,,Product A,Client 7
+2022-08-29,8,2022,,Accounts Payable,884000.00,,884000.00,,,,Component 5, Supplier D 
+2022-08-29,8,2022,,Cash and cash equivalents,,884000.00,-884000.00,,,,Component 5, Supplier D 
+2022-08-31,8,2022,,Administration,803857.00,,803857.00,,,,,
+2022-08-31,8,2022,,Cash and cash equivalents,,227476.12,-227476.12,,,,,
+2022-08-31,8,2022,,Cash and cash equivalents,,1034305.00,-1034305.00,,,,,
+2022-08-31,8,2022,,Cash and cash equivalents,,804178.00,-804178.00,,,,,
+2022-08-31,8,2022,,Cash and cash equivalents,,803857.00,-803857.00,,,,,
+2022-08-31,8,2022,,Cash and cash equivalents,1214125.00,,1214125.00,,,,,
+2022-08-31,8,2022,,Cash and cash equivalents,,1200455.00,-1200455.00,,,,,
+2022-08-31,8,2022,,Facility,804178.00,,804178.00,,,,,
+2022-08-31,8,2022,,Financial Cost,1200455.00,,1200455.00,,,,,
+2022-08-31,8,2022,,Financial income,,1214125.00,-1214125.00,,,,,
+2022-08-31,8,2022,,Personnel,1034305.00,,1034305.00,,,,,
+2022-08-31,8,2022,,Wages payables,227476.12,,227476.12,,,,,
+2022-09-01,9,2022,,Accounts Payable,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2022-09-01,9,2022,,Accounts Receivable,,1233648.00,-1233648.00,,,,Product A,Client 9
+2022-09-01,9,2022,,Cash and cash equivalents,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2022-09-01,9,2022,,Cash and cash equivalents,1233648.00,,1233648.00,,,,Product A,Client 9
+2022-09-01,9,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-09-01,9,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-09-01,9,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-09-01,9,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-09-01,9,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-09-02,9,2022,,Accounts Payable,2210000.00,,2210000.00,,,,Component 3, Supplier A 
+2022-09-02,9,2022,,Accounts Payable,880000.00,,880000.00,,,,Component 5, Supplier D 
+2022-09-02,9,2022,,Cash and cash equivalents,,2210000.00,-2210000.00,,,,Component 3, Supplier A 
+2022-09-02,9,2022,,Cash and cash equivalents,,880000.00,-880000.00,,,,Component 5, Supplier D 
+2022-09-05,9,2022,,Accounts Payable,800000.00,,800000.00,,,,Component 1, Supplier A 
+2022-09-05,9,2022,,Accounts Receivable,,933504.00,-933504.00,,,,Product A,Client 7
+2022-09-05,9,2022,,Cash and cash equivalents,,800000.00,-800000.00,,,,Component 1, Supplier A 
+2022-09-05,9,2022,,Cash and cash equivalents,933504.00,,933504.00,,,,Product A,Client 7
+2022-09-06,9,2022,,Accounts Payable,,840000.00,-840000.00,,,,Component 1, Supplier A 
+2022-09-06,9,2022,,Accounts Payable,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-09-06,9,2022,,Accounts Payable,,2200000.00,-2200000.00,,,,Component 3, Supplier A 
+2022-09-06,9,2022,,Accounts Payable,,2200000.00,-2200000.00,,,,Component 4, Supplier B 
+2022-09-06,9,2022,,Accounts Payable,,720000.00,-720000.00,,,,Component 5, Supplier D 
+2022-09-06,9,2022,,Accounts Payable,,1774885.00,-1774885.00,,,,Component 6, Supplier D 
+2022-09-06,9,2022,,Accounts Payable,2192505.00,,2192505.00,,,,Component 6, Supplier D 
+2022-09-06,9,2022,,Cash and cash equivalents,,2192505.00,-2192505.00,,,,Component 6, Supplier D 
+2022-09-06,9,2022,,Raw material inventory,840000.00,,840000.00,,,,Component 1, Supplier A 
+2022-09-06,9,2022,,Raw material inventory,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-09-06,9,2022,,Raw material inventory,2200000.00,,2200000.00,,,,Component 3, Supplier A 
+2022-09-06,9,2022,,Raw material inventory,2200000.00,,2200000.00,,,,Component 4, Supplier B 
+2022-09-06,9,2022,,Raw material inventory,720000.00,,720000.00,,,,Component 5, Supplier D 
+2022-09-06,9,2022,,Raw material inventory,1774885.00,,1774885.00,,,,Component 6, Supplier D 
+2022-09-08,9,2022,,Accounts Receivable,,1641031.00,-1641031.00,,,,Product A,Client 9
+2022-09-08,9,2022,,Cash and cash equivalents,1641031.00,,1641031.00,,,,Product A,Client 9
+2022-09-09,9,2022,,Accounts Receivable,,522000.00,-522000.00,,,,Product B,Client 8
+2022-09-09,9,2022,,Cash and cash equivalents,522000.00,,522000.00,,,,Product B,Client 8
+2022-09-10,9,2022,,Accounts Payable,760000.00,,760000.00,,,,Component 1, Supplier A 
+2022-09-10,9,2022,,Cash and cash equivalents,,760000.00,-760000.00,,,,Component 1, Supplier A 
+2022-09-13,9,2022,,Accounts Payable,2100000.00,,2100000.00,,,,Component 3, Supplier A 
+2022-09-13,9,2022,,Cash and cash equivalents,,2100000.00,-2100000.00,,,,Component 3, Supplier A 
+2022-09-13,9,2022,,Cost of goods sold,715560.80,,715560.80,,,,Supplier A,Component 1
+2022-09-13,9,2022,,Cost of goods sold,843424.50,,843424.50,,,,Supplier A,Component 2
+2022-09-13,9,2022,,Cost of goods sold,2132295.12,,2132295.12,,,,Supplier A,Component 3
+2022-09-13,9,2022,,Cost of goods sold,1633814.00,,1633814.00,,,,Supplier B,Component 4
+2022-09-13,9,2022,,Cost of goods sold,845158.00,,845158.00,,,,Supplier D,Component 5
+2022-09-13,9,2022,,Cost of goods sold,1805512.00,,1805512.00,,,,Supplier D,Component 6
+2022-09-13,9,2022,,Cost of goods sold,,715560.80,-715560.80,,,,,Component 1
+2022-09-13,9,2022,,Cost of goods sold,,843424.50,-843424.50,,,,,Component 2
+2022-09-13,9,2022,,Cost of goods sold,,2132295.12,-2132295.12,,,,,Component 3
+2022-09-13,9,2022,,Cost of goods sold,,1633814.00,-1633814.00,,,,,Component 4
+2022-09-13,9,2022,,Cost of goods sold,,845158.00,-845158.00,,,,,Component 5
+2022-09-13,9,2022,,Cost of goods sold,,1805512.00,-1805512.00,,,,,Component 6
+2022-09-13,9,2022,,Raw material inventory,,715560.80,-715560.80,,,,Component 1, Supplier A 
+2022-09-13,9,2022,,Raw material inventory,,843424.50,-843424.50,,,,Component 2, Supplier A 
+2022-09-13,9,2022,,Raw material inventory,,2132295.12,-2132295.12,,,,Component 3, Supplier A 
+2022-09-13,9,2022,,Raw material inventory,,1633814.00,-1633814.00,,,,Component 4, Supplier B 
+2022-09-13,9,2022,,Raw material inventory,,845158.00,-845158.00,,,,Component 5, Supplier D 
+2022-09-13,9,2022,,Raw material inventory,,1805512.00,-1805512.00,,,,Component 6, Supplier D 
+2022-09-14,9,2022,,Inventory Finished goods Product A,3768187.03,,3768187.03,,,,,
+2022-09-14,9,2022,,Inventory Finished goods Product B,2123448.74,,2123448.74,,,,,
+2022-09-14,9,2022,,Inventory Finished goods Product C,2306040.95,,2306040.95,,,,,
+2022-09-14,9,2022,,Wages payables,,221912.30,-221912.30,,,,,
+2022-09-16,9,2022,,Accounts Receivable,1976853.00,,1976853.00,,,,Product A,Client 5
+2022-09-16,9,2022,,Cost of goods sold,1226818.27,,1226818.27,,,,,Product A
+2022-09-16,9,2022,,Inventory Finished goods Product A,,1226818.27,-1226818.27,,,,,Product A
+2022-09-16,9,2022,,Sales Revenue,,1976853.00,-1976853.00,,,,Product A,Client 5
+2022-09-17,9,2022,,Accounts Receivable,,1177393.00,-1177393.00,,,,Product B,Client 8
+2022-09-17,9,2022,,Cash and cash equivalents,1177393.00,,1177393.00,,,,Product B,Client 8
+2022-09-18,9,2022,,Cash and cash equivalents,1750932.00,,1750932.00,,,,Product C,Client 3
+2022-09-20,9,2022,,Accounts Receivable,,675328.00,-675328.00,,,,Product B,Client 6
+2022-09-20,9,2022,,Cash and cash equivalents,675328.00,,675328.00,,,,Product B,Client 6
+2022-09-21,9,2022,,Accounts Payable,1400000.00,,1400000.00,,,,Component 5, Supplier D 
+2022-09-21,9,2022,,Accounts Receivable,554164.00,,554164.00,,,,Product A,Client 10
+2022-09-21,9,2022,,Cash and cash equivalents,,1400000.00,-1400000.00,,,,Component 5, Supplier D 
+2022-09-21,9,2022,,Cost of goods sold,400319.55,,400319.55,,,,,Product A
+2022-09-21,9,2022,,Inventory Finished goods Product A,,400319.55,-400319.55,,,,,Product A
+2022-09-21,9,2022,,Sales Revenue,,554164.00,-554164.00,,,,Product A,Client 10
+2022-09-22,9,2022,,Accounts Receivable,1400236.00,,1400236.00,,,,Product B,Client 4
+2022-09-22,9,2022,,Cost of goods sold,962348.40,,962348.40,,,,,Product B
+2022-09-22,9,2022,,Inventory Finished goods Product B,,962348.40,-962348.40,,,,,Product B
+2022-09-22,9,2022,,Sales Revenue,,1400236.00,-1400236.00,,,,Product B,Client 4
+2022-07-10,7,2022,,Accounts Receivable,,1466607.00,-1466607.00,,,,Product C,Client 3
+2022-09-23,9,2022,,Cost of goods sold,362284.51,,362284.51,,,,,Product C
+2022-09-23,9,2022,,Inventory Finished goods Product C,,362284.51,-362284.51,,,,,Product C
+2022-09-23,9,2022,,Sales Revenue,,383184.00,-383184.00,,,,Product C,Client 3
+2022-09-24,9,2022,,Accounts Receivable,,1159740.00,-1159740.00,,,,Product A,Client 7
+2022-09-24,9,2022,,Accounts Receivable,,1299942.00,-1299942.00,,,,Product A,Client 9
+2022-09-24,9,2022,,Cash and cash equivalents,1159740.00,,1159740.00,,,,Product A,Client 7
+2022-09-24,9,2022,,Cash and cash equivalents,1299942.00,,1299942.00,,,,Product A,Client 9
+2022-09-26,9,2022,,Accounts Receivable,1397760.00,,1397760.00,,,,Product A,Client 2
+2022-09-26,9,2022,,Cost of goods sold,962314.08,,962314.08,,,,,Product A
+2022-09-26,9,2022,,Inventory Finished goods Product A,,962314.08,-962314.08,,,,,Product A
+2022-09-26,9,2022,,Sales Revenue,,1397760.00,-1397760.00,,,,Product A,Client 2
+2022-09-27,9,2022,,Accounts Payable,810000.00,,810000.00,,,,Component 2, Supplier A 
+2022-09-27,9,2022,,Accounts Receivable,489124.00,,489124.00,,,,Product A,Client 7
+2022-09-27,9,2022,,Accounts Receivable,1051848.00,,1051848.00,,,,Product B,Client 8
+2022-09-27,9,2022,,Accounts Receivable,,754700.00,-754700.00,,,,Product A,Client 5
+2022-09-27,9,2022,,Cash and cash equivalents,,810000.00,-810000.00,,,,Component 2, Supplier A 
+2022-09-27,9,2022,,Cash and cash equivalents,754700.00,,754700.00,,,,Product A,Client 5
+2022-09-27,9,2022,,Cost of goods sold,247688.79,,247688.79,,,,,Product A
+2022-09-27,9,2022,,Cost of goods sold,748727.95,,748727.95,,,,,Product B
+2022-09-27,9,2022,,Inventory Finished goods Product A,,247688.79,-247688.79,,,,,Product A
+2022-09-27,9,2022,,Inventory Finished goods Product B,,748727.95,-748727.95,,,,,Product B
+2022-09-27,9,2022,,Sales Revenue,,489124.00,-489124.00,,,,Product A,Client 7
+2022-09-27,9,2022,,Sales Revenue,,1051848.00,-1051848.00,,,,Product B,Client 8
+2022-09-28,9,2022,,Accounts Receivable,682770.00,,682770.00,,,,Product B,Client 6
+2022-09-28,9,2022,,Cost of goods sold,412372.39,,412372.39,,,,,Product B
+2022-09-28,9,2022,,Inventory Finished goods Product B,,412372.39,-412372.39,,,,,Product B
+2022-09-28,9,2022,,Sales Revenue,,682770.00,-682770.00,,,,Product B,Client 6
+2022-09-29,9,2022,,Accounts Receivable,2098719.00,,2098719.00,,,,Product C,Client 1
+2022-07-22,7,2022,,Accounts Receivable,1750932.00,,1750932.00,,,,Product C,Client 3
+2022-09-29,9,2022,,Cash and cash equivalents,444024.00,,444024.00,,,,Product C,Client 3
+2022-09-29,9,2022,,Cost of goods sold,1943756.44,,1943756.44,,,,,Product C
+2022-09-29,9,2022,,Inventory Finished goods Product C,,1943756.44,-1943756.44,,,,,Product C
+2022-09-29,9,2022,,Sales Revenue,,2098719.00,-2098719.00,,,,Product C,Client 1
+2022-09-30,9,2022,,Accounts Receivable,1452928.00,,1452928.00,,,,Product A,Client 9
+2022-09-30,9,2022,,Administration,789374.00,,789374.00,,,,,
+2022-09-30,9,2022,,Cash and cash equivalents,,221912.30,-221912.30,,,,,
+2022-09-30,9,2022,,Cash and cash equivalents,,926975.00,-926975.00,,,,,
+2022-09-30,9,2022,,Cash and cash equivalents,,776615.00,-776615.00,,,,,
+2022-09-30,9,2022,,Cash and cash equivalents,,789374.00,-789374.00,,,,,
+2022-09-30,9,2022,,Cash and cash equivalents,1232767.00,,1232767.00,,,,,
+2022-09-30,9,2022,,Cash and cash equivalents,,1223081.00,-1223081.00,,,,,
+2022-09-30,9,2022,,Cost of goods sold,931046.34,,931046.34,,,,,Product A
+2022-09-30,9,2022,,Facility,776615.00,,776615.00,,,,,
+2022-09-30,9,2022,,Financial Cost,1223081.00,,1223081.00,,,,,
+2022-09-30,9,2022,,Financial income,,1232767.00,-1232767.00,,,,,
+2022-09-30,9,2022,,Inventory Finished goods Product A,,931046.34,-931046.34,,,,,Product A
+2022-09-30,9,2022,,Personnel,926975.00,,926975.00,,,,,
+2022-09-30,9,2022,,Sales Revenue,,1452928.00,-1452928.00,,,,Product A,Client 9
+2022-09-30,9,2022,,Wages payables,221912.30,,221912.30,,,,,
+2022-10-01,10,2022,, Cash and Cash Equivalents ,6455000.00,,6455000.00,,,,,
+2022-10-01,10,2022,, Intangible Assets ,9045000.00,,9045000.00,,,,,
+2022-10-01,10,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-10-01,10,2022,, Share Capital ,,50000000.00,-50000000.00,,,,,
+2022-10-01,10,2022,, Short-term Debt ,,10500000.00,-10500000.00,,,,,
+2022-10-03,10,2022,,Accounts Payable,,720000.00,-720000.00,,,,Component 1, Supplier A 
+2022-10-03,10,2022,,Accounts Payable,,855000.00,-855000.00,,,,Component 2, Supplier A 
+2022-10-03,10,2022,,Accounts Payable,,2000000.00,-2000000.00,,,,Component 3, Supplier A 
+2022-10-03,10,2022,,Accounts Payable,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2022-10-03,10,2022,,Accounts Payable,,800000.00,-800000.00,,,,Component 5, Supplier D 
+2022-10-03,10,2022,,Accounts Payable,,1983695.00,-1983695.00,,,,Component 6, Supplier D 
+2022-10-03,10,2022,,Accounts Receivable,,915151.00,-915151.00,,,,Product B,Client 4
+2022-10-03,10,2022,,Cash and cash equivalents,915151.00,,915151.00,,,,Product B,Client 4
+2022-10-03,10,2022,,Raw material inventory,720000.00,,720000.00,,,,Component 1, Supplier A 
+2022-10-03,10,2022,,Raw material inventory,855000.00,,855000.00,,,,Component 2, Supplier A 
+2022-10-03,10,2022,,Raw material inventory,2000000.00,,2000000.00,,,,Component 3, Supplier A 
+2022-10-03,10,2022,,Raw material inventory,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2022-10-03,10,2022,,Raw material inventory,800000.00,,800000.00,,,,Component 5, Supplier D 
+2022-10-03,10,2022,,Raw material inventory,1983695.00,,1983695.00,,,,Component 6, Supplier D 
+2022-10-04,10,2022,,Accounts Receivable,,1990443.00,-1990443.00,,,,Product B,Client 4
+2022-10-04,10,2022,,Accounts Receivable,,708324.00,-708324.00,,,,Product B,Client 6
+2022-10-04,10,2022,,Cash and cash equivalents,1990443.00,,1990443.00,,,,Product B,Client 4
+2022-10-04,10,2022,,Cash and cash equivalents,708324.00,,708324.00,,,,Product B,Client 6
+2022-10-08,10,2022,,Accounts Payable,2380000.00,,2380000.00,,,,Component 6, Supplier D 
+2022-10-08,10,2022,,Cash and cash equivalents,,2380000.00,-2380000.00,,,,Component 6, Supplier D 
+2022-10-10,10,2022,,Accounts Receivable,,1162070.00,-1162070.00,,,,Product A,Client 7
+2022-10-10,10,2022,,Cash and cash equivalents,1162070.00,,1162070.00,,,,Product A,Client 7
+2022-10-10,10,2022,,Cost of goods sold,851001.60,,851001.60,,,,Supplier A,Component 1
+2022-10-10,10,2022,,Cost of goods sold,851028.88,,851028.88,,,,Supplier A,Component 2
+2022-10-10,10,2022,,Cost of goods sold,1972135.28,,1972135.28,,,,Supplier A,Component 3
+2022-10-10,10,2022,,Cost of goods sold,1886144.00,,1886144.00,,,,Supplier B,Component 4
+2022-10-10,10,2022,,Cost of goods sold,790023.30,,790023.30,,,,Supplier D,Component 5
+2022-10-10,10,2022,,Cost of goods sold,1785537.00,,1785537.00,,,,Supplier D,Component 6
+2022-10-10,10,2022,,Cost of goods sold,,851001.60,-851001.60,,,,,Component 1
+2022-10-10,10,2022,,Cost of goods sold,,851028.88,-851028.88,,,,,Component 2
+2022-10-10,10,2022,,Cost of goods sold,,1972135.28,-1972135.28,,,,,Component 3
+2022-10-10,10,2022,,Cost of goods sold,,1886144.00,-1886144.00,,,,,Component 4
+2022-10-10,10,2022,,Cost of goods sold,,790023.30,-790023.30,,,,,Component 5
+2022-10-10,10,2022,,Cost of goods sold,,1785537.00,-1785537.00,,,,,Component 6
+2022-10-10,10,2022,,Raw material inventory,,851001.60,-851001.60,,,,Component 1, Supplier A 
+2022-10-10,10,2022,,Raw material inventory,,851028.88,-851028.88,,,,Component 2, Supplier A 
+2022-10-10,10,2022,,Raw material inventory,,1972135.28,-1972135.28,,,,Component 3, Supplier A 
+2022-10-10,10,2022,,Raw material inventory,,1886144.00,-1886144.00,,,,Component 4, Supplier B 
+2022-10-10,10,2022,,Raw material inventory,,790023.30,-790023.30,,,,Component 5, Supplier D 
+2022-10-10,10,2022,,Raw material inventory,,1785537.00,-1785537.00,,,,Component 6, Supplier D 
+2022-10-11,10,2022,,Inventory Finished goods Product A,4188887.93,,4188887.93,,,,,
+2022-10-11,10,2022,,Inventory Finished goods Product B,1981224.61,,1981224.61,,,,,
+2022-10-11,10,2022,,Inventory Finished goods Product C,2187138.79,,2187138.79,,,,,
+2022-10-11,10,2022,,Wages payables,,221381.27,-221381.27,,,,,
+2022-10-13,10,2022,,Accounts Receivable,2665260.00,,2665260.00,,,,Product C,Client 1
+2022-10-13,10,2022,,Cost of goods sold,2066553.76,,2066553.76,,,,,Product C
+2022-10-13,10,2022,,Inventory Finished goods Product C,,2066553.76,-2066553.76,,,,,Product C
+2022-10-13,10,2022,,Sales Revenue,,2665260.00,-2665260.00,,,,Product C,Client 1
+2022-10-15,10,2022,,Accounts Receivable,,3161070.00,-3161070.00,,,,Product C,Client 1
+2022-10-15,10,2022,,Cash and cash equivalents,3161070.00,,3161070.00,,,,Product C,Client 1
+2022-10-16,10,2022,,Accounts Receivable,487665.00,,487665.00,,,,Product B,Client 6
+2022-10-16,10,2022,,Cost of goods sold,447806.51,,447806.51,,,,,Product B
+2022-10-16,10,2022,,Inventory Finished goods Product B,,447806.51,-447806.51,,,,,Product B
+2022-10-16,10,2022,,Sales Revenue,,487665.00,-487665.00,,,,Product B,Client 6
+2022-10-17,10,2022,,Accounts Receivable,947030.00,,947030.00,,,,Product B,Client 4
+2022-10-17,10,2022,,Cost of goods sold,559045.34,,559045.34,,,,,Product B
+2022-10-17,10,2022,,Inventory Finished goods Product B,,559045.34,-559045.34,,,,,Product B
+2022-10-17,10,2022,,Sales Revenue,,947030.00,-947030.00,,,,Product B,Client 4
+2022-10-18,10,2022,,Accounts Receivable,425961.00,,425961.00,,,,Product A,Client 2
+2022-10-18,10,2022,,Accounts Receivable,,1019031.00,-1019031.00,,,,Product A,Client 2
+2022-10-18,10,2022,,Cash and cash equivalents,1019031.00,,1019031.00,,,,Product A,Client 2
+2022-10-18,10,2022,,Cost of goods sold,341749.31,,341749.31,,,,,Product A
+2022-10-18,10,2022,,Inventory Finished goods Product A,,341749.31,-341749.31,,,,,Product A
+2022-10-18,10,2022,,Sales Revenue,,425961.00,-425961.00,,,,Product A,Client 2
+2022-10-19,10,2022,,Accounts Receivable,,1764378.00,-1764378.00,,,,Product A,Client 7
+2022-10-19,10,2022,,Accounts Receivable,,1462450.00,-1462450.00,,,,Product B,Client 4
+2022-10-19,10,2022,,Cash and cash equivalents,1764378.00,,1764378.00,,,,Product A,Client 7
+2022-10-19,10,2022,,Cash and cash equivalents,1462450.00,,1462450.00,,,,Product B,Client 4
+2022-10-20,10,2022,,Accounts Receivable,1125402.00,,1125402.00,,,,Product A,Client 9
+2022-10-20,10,2022,,Accounts Receivable,,907731.00,-907731.00,,,,Product A,Client 9
+2022-10-20,10,2022,,Cash and cash equivalents,907731.00,,907731.00,,,,Product A,Client 9
+2022-10-20,10,2022,,Cost of goods sold,897470.39,,897470.39,,,,,Product A
+2022-10-20,10,2022,,Inventory Finished goods Product A,,897470.39,-897470.39,,,,,Product A
+2022-10-20,10,2022,,Sales Revenue,,1125402.00,-1125402.00,,,,Product A,Client 9
+2022-10-21,10,2022,,Accounts Payable,2200000.00,,2200000.00,,,,Component 3, Supplier A 
+2022-10-21,10,2022,,Accounts Receivable,1398420.00,,1398420.00,,,,Product A,Client 5
+2022-10-21,10,2022,,Cash and cash equivalents,,2200000.00,-2200000.00,,,,Component 3, Supplier A 
+2022-10-21,10,2022,,Cost of goods sold,874464.93,,874464.93,,,,,Product A
+2022-10-21,10,2022,,Inventory Finished goods Product A,,874464.93,-874464.93,,,,,Product A
+2022-10-21,10,2022,,Sales Revenue,,1398420.00,-1398420.00,,,,Product A,Client 5
+2022-10-22,10,2022,,Accounts Receivable,,670390.00,-670390.00,,,,Product B,Client 6
+2022-10-22,10,2022,,Cash and cash equivalents,670390.00,,670390.00,,,,Product B,Client 6
+2022-10-23,10,2022,,Accounts Receivable,1149234.00,,1149234.00,,,,Product A,Client 7
+2022-10-23,10,2022,,Cost of goods sold,851886.81,,851886.81,,,,,Product A
+2022-10-23,10,2022,,Inventory Finished goods Product A,,851886.81,-851886.81,,,,,Product A
+2022-10-23,10,2022,,Sales Revenue,,1149234.00,-1149234.00,,,,Product A,Client 7
+2022-10-24,10,2022,,Accounts Receivable,1391220.00,,1391220.00,,,,Product B,Client 8
+2022-10-24,10,2022,,Cost of goods sold,974372.76,,974372.76,,,,,Product B
+2022-10-24,10,2022,,Inventory Finished goods Product B,,974372.76,-974372.76,,,,,Product B
+2022-10-24,10,2022,,Sales Revenue,,1391220.00,-1391220.00,,,,Product B,Client 8
+2022-10-25,10,2022,,Accounts Receivable,1589335.00,,1589335.00,,,,Product A,Client 10
+2022-10-25,10,2022,,Cost of goods sold,1223316.48,,1223316.48,,,,,Product A
+2022-10-25,10,2022,,Inventory Finished goods Product A,,1223316.48,-1223316.48,,,,,Product A
+2022-10-25,10,2022,,Sales Revenue,,1589335.00,-1589335.00,,,,Product A,Client 10
+2022-10-26,10,2022,,Accounts Payable,945000.00,,945000.00,,,,Component 2, Supplier A 
+2022-10-26,10,2022,,Accounts Receivable,,1618086.00,-1618086.00,,,,Product B,Client 8
+2022-10-26,10,2022,,Cash and cash equivalents,,945000.00,-945000.00,,,,Component 2, Supplier A 
+2022-10-26,10,2022,,Cash and cash equivalents,1618086.00,,1618086.00,,,,Product B,Client 8
+2022-07-29,7,2022,,Accounts Receivable,,1584380.00,-1584380.00,,,,Product C,Client 3
+2022-10-27,10,2022,,Accounts Receivable,,605178.00,-605178.00,,,,Product A,Client 10
+2022-10-27,10,2022,,Cash and cash equivalents,605178.00,,605178.00,,,,Product A,Client 10
+2022-10-27,10,2022,,Cost of goods sold,120585.02,,120585.02,,,,,Product C
+2022-10-27,10,2022,,Inventory Finished goods Product C,,120585.02,-120585.02,,,,,Product C
+2022-10-27,10,2022,,Sales Revenue,,173664.00,-173664.00,,,,Product C,Client 3
+2022-10-28,10,2022,,Accounts Receivable,,577216.00,-577216.00,,,,Product A,Client 10
+2022-10-28,10,2022,,Cash and cash equivalents,577216.00,,577216.00,,,,Product A,Client 10
+2022-10-30,10,2022,,Accounts Payable,2000000.00,,2000000.00,,,,Component 3, Supplier A 
+2022-10-30,10,2022,,Accounts Receivable,,756884.00,-756884.00,,,,Product A,Client 5
+2022-10-30,10,2022,,Cash and cash equivalents,,2000000.00,-2000000.00,,,,Component 3, Supplier A 
+2022-10-30,10,2022,,Cash and cash equivalents,756884.00,,756884.00,,,,Product A,Client 5
+2022-10-31,10,2022,,Administration,796762.00,,796762.00,,,,,
+2022-10-31,10,2022,,Cash and cash equivalents,,221381.27,-221381.27,,,,,
+2022-10-31,10,2022,,Cash and cash equivalents,,1071231.00,-1071231.00,,,,,
+2022-10-31,10,2022,,Cash and cash equivalents,,789096.00,-789096.00,,,,,
+2022-10-31,10,2022,,Cash and cash equivalents,,796762.00,-796762.00,,,,,
+2022-10-31,10,2022,,Cash and cash equivalents,1205676.00,,1205676.00,,,,,
+2022-10-31,10,2022,,Cash and cash equivalents,,1216045.00,-1216045.00,,,,,
+2022-10-31,10,2022,,Facility,789096.00,,789096.00,,,,,
+2022-10-31,10,2022,,Financial Cost,1216045.00,,1216045.00,,,,,
+2022-10-31,10,2022,,Financial income,,1205676.00,-1205676.00,,,,,
+2022-10-31,10,2022,,Personnel,1071231.00,,1071231.00,,,,,
+2022-10-31,10,2022,,Wages payables,221381.27,,221381.27,,,,,
+2022-11-01,11,2022,,Accounts Payable,,880000.00,-880000.00,,,,Component 1, Supplier A 
+2022-11-01,11,2022,,Accounts Payable,,765000.00,-765000.00,,,,Component 2, Supplier A 
+2022-11-01,11,2022,,Accounts Payable,,1800000.00,-1800000.00,,,,Component 3, Supplier A 
+2022-11-01,11,2022,,Accounts Payable,,2090000.00,-2090000.00,,,,Component 4, Supplier B 
+2022-11-01,11,2022,,Accounts Payable,,800000.00,-800000.00,,,,Component 5, Supplier D 
+2022-11-01,11,2022,,Accounts Payable,,1774885.00,-1774885.00,,,,Component 6, Supplier D 
+2022-11-01,11,2022,,Cash and Cash Equivalents,6455000.00,,6455000.00,,,,,
+2022-11-01,11,2022,,Intangible Assets,9045000.00,,9045000.00,,,,,
+2022-11-01,11,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-11-01,11,2022,,Raw material inventory,880000.00,,880000.00,,,,Component 1, Supplier A 
+2022-11-01,11,2022,,Raw material inventory,765000.00,,765000.00,,,,Component 2, Supplier A 
+2022-11-01,11,2022,,Raw material inventory,1800000.00,,1800000.00,,,,Component 3, Supplier A 
+2022-11-01,11,2022,,Raw material inventory,2090000.00,,2090000.00,,,,Component 4, Supplier B 
+2022-11-01,11,2022,,Raw material inventory,800000.00,,800000.00,,,,Component 5, Supplier D 
+2022-11-01,11,2022,,Raw material inventory,1774885.00,,1774885.00,,,,Component 6, Supplier D 
+2022-11-01,11,2022,,Share Capital,,50000000.00,-50000000.00,,,,,
+2022-11-01,11,2022,,Short-term Debt,,10500000.00,-10500000.00,,,,,
+2022-11-06,11,2022,,Accounts Payable,2090000.00,,2090000.00,,,,Component 4, Supplier B 
+2022-11-06,11,2022,,Cash and cash equivalents,,2090000.00,-2090000.00,,,,Component 4, Supplier B 
+2022-11-07,11,2022,,Accounts Payable,1774885.00,,1774885.00,,,,Component 6, Supplier D 
+2022-11-07,11,2022,,Accounts Receivable,,1654350.00,-1654350.00,,,,Product C,Client 1
+2022-11-07,11,2022,,Cash and cash equivalents,,1774885.00,-1774885.00,,,,Component 6, Supplier D 
+2022-11-07,11,2022,,Cash and cash equivalents,1654350.00,,1654350.00,,,,Product C,Client 1
+2022-11-08,11,2022,,Cost of goods sold,636362.40,,636362.40,,,,Supplier A,Component 1
+2022-11-08,11,2022,,Cost of goods sold,790902.64,,790902.64,,,,Supplier A,Component 2
+2022-11-08,11,2022,,Cost of goods sold,1931439.82,,1931439.82,,,,Supplier A,Component 3
+2022-11-08,11,2022,,Cost of goods sold,2181323.00,,2181323.00,,,,Supplier B,Component 4
+2022-11-08,11,2022,,Cost of goods sold,920426.00,,920426.00,,,,Supplier D,Component 5
+2022-11-08,11,2022,,Cost of goods sold,1835445.00,,1835445.00,,,,Supplier D,Component 6
+2022-11-08,11,2022,,Cost of goods sold,,636362.40,-636362.40,,,,,Component 1
+2022-11-08,11,2022,,Cost of goods sold,,790902.64,-790902.64,,,,,Component 2
+2022-11-08,11,2022,,Cost of goods sold,,1931439.82,-1931439.82,,,,,Component 3
+2022-11-08,11,2022,,Cost of goods sold,,2181323.00,-2181323.00,,,,,Component 4
+2022-11-08,11,2022,,Cost of goods sold,,920426.00,-920426.00,,,,,Component 5
+2022-11-08,11,2022,,Cost of goods sold,,1835445.00,-1835445.00,,,,,Component 6
+2022-11-08,11,2022,,Raw material inventory,,636362.40,-636362.40,,,,Component 1, Supplier A 
+2022-11-08,11,2022,,Raw material inventory,,790902.64,-790902.64,,,,Component 2, Supplier A 
+2022-11-08,11,2022,,Raw material inventory,,1931439.82,-1931439.82,,,,Component 3, Supplier A 
+2022-11-08,11,2022,,Raw material inventory,,2181323.00,-2181323.00,,,,Component 4, Supplier B 
+2022-11-08,11,2022,,Raw material inventory,,920426.00,-920426.00,,,,Component 5, Supplier D 
+2022-11-08,11,2022,,Raw material inventory,,1835445.00,-1835445.00,,,,Component 6, Supplier D 
+2022-11-09,11,2022,,Accounts Receivable,718977.00,,718977.00,,,,Product B,Client 6
+2022-11-09,11,2022,,Cost of goods sold,407584.84,,407584.84,,,,,Product B
+2022-11-09,11,2022,,Inventory Finished goods Product A,4151178.18,,4151178.18,,,,,
+2022-11-09,11,2022,,Inventory Finished goods Product B,1192141.03,,1192141.03,,,,,
+2022-11-09,11,2022,,Inventory Finished goods Product B,,407584.84,-407584.84,,,,,Product B
+2022-11-09,11,2022,,Inventory Finished goods Product C,3180209.94,,3180209.94,,,,,
+2022-11-09,11,2022,,Sales Revenue,,718977.00,-718977.00,,,,Product B,Client 6
+2022-11-09,11,2022,,Wages payables,,227630.29,-227630.29,,,,,
+2022-11-13,11,2022,,Accounts Payable,720000.00,,720000.00,,,,Component 5, Supplier D 
+2022-11-13,11,2022,,Cash and cash equivalents,,720000.00,-720000.00,,,,Component 5, Supplier D 
+2022-11-14,11,2022,,Accounts Receivable,415476.00,,415476.00,,,,Product B,Client 8
+2022-11-14,11,2022,,Accounts Receivable,1233232.00,,1233232.00,,,,Product A,Client 9
+2022-11-14,11,2022,,Cost of goods sold,292233.51,,292233.51,,,,,Product B
+2022-11-14,11,2022,,Cost of goods sold,1138150.45,,1138150.45,,,,,Product A
+2022-11-14,11,2022,,Inventory Finished goods Product A,,1138150.45,-1138150.45,,,,,Product A
+2022-11-14,11,2022,,Inventory Finished goods Product B,,292233.51,-292233.51,,,,,Product B
+2022-11-14,11,2022,,Sales Revenue,,415476.00,-415476.00,,,,Product B,Client 8
+2022-11-14,11,2022,,Sales Revenue,,1233232.00,-1233232.00,,,,Product A,Client 9
+2022-11-15,11,2022,,Accounts Receivable,756560.00,,756560.00,,,,Product A,Client 7
+2022-11-15,11,2022,,Cost of goods sold,741423.15,,741423.15,,,,,Product A
+2022-11-15,11,2022,,Inventory Finished goods Product A,,741423.15,-741423.15,,,,,Product A
+2022-11-15,11,2022,,Sales Revenue,,756560.00,-756560.00,,,,Product A,Client 7
+2022-11-16,11,2022,,Accounts Receivable,,2098719.00,-2098719.00,,,,Product C,Client 1
+2022-11-16,11,2022,,Cash and cash equivalents,2098719.00,,2098719.00,,,,Product C,Client 1
+2022-11-17,11,2022,,Accounts Receivable,1111460.00,,1111460.00,,,,Product A,Client 10
+2022-11-17,11,2022,,Cost of goods sold,778330.86,,778330.86,,,,,Product A
+2022-11-17,11,2022,,Inventory Finished goods Product A,,778330.86,-778330.86,,,,,Product A
+2022-11-17,11,2022,,Sales Revenue,,1111460.00,-1111460.00,,,,Product A,Client 10
+2022-11-18,11,2022,,Accounts Receivable,,2665260.00,-2665260.00,,,,Product C,Client 1
+2022-11-18,11,2022,,Cash and cash equivalents,2665260.00,,2665260.00,,,,Product C,Client 1
+2022-11-18,11,2022,,Cost of goods sold,769844.29,,769844.29,,,,,Product C
+2022-11-18,11,2022,,Inventory Finished goods Product C,,769844.29,-769844.29,,,,,Product C
+2022-11-18,11,2022,,Sales Revenue,,846141.00,-846141.00,,,,Product C,Client 3
+2022-11-19,11,2022,,Accounts Receivable,761550.00,,761550.00,,,,Product A,Client 2
+2022-11-19,11,2022,,Cost of goods sold,621150.64,,621150.64,,,,,Product A
+2022-11-19,11,2022,,Inventory Finished goods Product A,,621150.64,-621150.64,,,,,Product A
+2022-11-19,11,2022,,Sales Revenue,,761550.00,-761550.00,,,,Product A,Client 2
+2022-11-21,11,2022,,Accounts Receivable,,682770.00,-682770.00,,,,Product B,Client 6
+2022-11-21,11,2022,,Cash and cash equivalents,682770.00,,682770.00,,,,Product B,Client 6
+2022-11-25,11,2022,,Accounts Payable,2200000.00,,2200000.00,,,,Component 4, Supplier B 
+2022-11-25,11,2022,,Cash and cash equivalents,,2200000.00,-2200000.00,,,,Component 4, Supplier B 
+2022-11-26,11,2022,,Accounts Receivable,829568.00,,829568.00,,,,Product B,Client 4
+2022-11-26,11,2022,,Cost of goods sold,492322.68,,492322.68,,,,,Product B
+2022-11-26,11,2022,,Inventory Finished goods Product B,,492322.68,-492322.68,,,,,Product B
+2022-11-26,11,2022,,Sales Revenue,,829568.00,-829568.00,,,,Product B,Client 4
+2022-11-27,11,2022,,Accounts Payable,800000.00,,800000.00,,,,Component 5, Supplier D 
+2022-11-27,11,2022,,Accounts Receivable,,489124.00,-489124.00,,,,Product A,Client 7
+2022-11-27,11,2022,,Accounts Receivable,,1391220.00,-1391220.00,,,,Product B,Client 8
+2022-11-27,11,2022,,Cash and cash equivalents,,800000.00,-800000.00,,,,Component 5, Supplier D 
+2022-11-27,11,2022,,Cash and cash equivalents,489124.00,,489124.00,,,,Product A,Client 7
+2022-11-27,11,2022,,Cash and cash equivalents,1391220.00,,1391220.00,,,,Product B,Client 8
+2022-11-28,11,2022,,Accounts Receivable,1112020.00,,1112020.00,,,,Product A,Client 5
+2022-11-28,11,2022,,Cost of goods sold,872123.07,,872123.07,,,,,Product A
+2022-11-28,11,2022,,Inventory Finished goods Product A,,872123.07,-872123.07,,,,,Product A
+2022-11-28,11,2022,,Sales Revenue,,1112020.00,-1112020.00,,,,Product A,Client 5
+2022-11-29,11,2022,,Accounts Receivable,3494754.00,,3494754.00,,,,Product C,Client 1
+2022-11-29,11,2022,,Cost of goods sold,2410365.65,,2410365.65,,,,,Product C
+2022-11-29,11,2022,,Inventory Finished goods Product C,,2410365.65,-2410365.65,,,,,Product C
+2022-11-29,11,2022,,Sales Revenue,,3494754.00,-3494754.00,,,,Product C,Client 1
+2022-11-30,11,2022,,Administration,793038.00,,793038.00,,,,,
+2022-11-30,11,2022,,Cash and cash equivalents,,227630.29,-227630.29,,,,,
+2022-11-30,11,2022,,Cash and cash equivalents,,1065789.00,-1065789.00,,,,,
+2022-11-30,11,2022,,Cash and cash equivalents,,797691.00,-797691.00,,,,,
+2022-11-30,11,2022,,Cash and cash equivalents,,793038.00,-793038.00,,,,,
+2022-11-30,11,2022,,Cash and cash equivalents,1225635.00,,1225635.00,,,,,
+2022-11-30,11,2022,,Cash and cash equivalents,,1232187.00,-1232187.00,,,,,
+2022-11-30,11,2022,,Facility,797691.00,,797691.00,,,,,
+2022-11-30,11,2022,,Financial Cost,1232187.00,,1232187.00,,,,,
+2022-11-30,11,2022,,Financial income,,1225635.00,-1225635.00,,,,,
+2022-11-30,11,2022,,Personnel,1065789.00,,1065789.00,,,,,
+2022-11-30,11,2022,,Wages payables,227630.29,,227630.29,,,,,
+2022-12-01,12,2022,,Cash and Cash Equivalents,6455000.00,,6455000.00,,,,,
+2022-12-01,12,2022,,Intangible Assets,9045000.00,,9045000.00,,,,,
+2022-12-01,12,2022,,"Property, Plant, and Equipment (PPE)",45000000.00,,45000000.00,,,,,
+2022-12-01,12,2022,,Share Capital,,50000000.00,-50000000.00,,,,,
+2022-12-01,12,2022,,Short-term Debt,,10500000.00,-10500000.00,,,,,
+2022-12-02,12,2022,,Accounts Receivable,,1398420.00,-1398420.00,,,,Product A,Client 5
+2022-12-02,12,2022,,Cash and cash equivalents,1398420.00,,1398420.00,,,,Product A,Client 5
+2022-12-04,12,2022,,Accounts Receivable,,1397760.00,-1397760.00,,,,Product A,Client 2
+2022-12-04,12,2022,,Cash and cash equivalents,1397760.00,,1397760.00,,,,Product A,Client 2
+2022-12-05,12,2022,,Accounts Payable,,720000.00,-720000.00,,,,Component 1, Supplier A 
+2022-12-05,12,2022,,Accounts Payable,,990000.00,-990000.00,,,,Component 2, Supplier A 
+2022-12-05,12,2022,,Accounts Payable,,1800000.00,-1800000.00,,,,Component 3, Supplier A 
+2022-12-05,12,2022,,Accounts Payable,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2022-12-05,12,2022,,Accounts Payable,,720000.00,-720000.00,,,,Component 5, Supplier D 
+2022-12-05,12,2022,,Accounts Payable,,1774885.00,-1774885.00,,,,Component 6, Supplier D 
+2022-12-05,12,2022,,Raw material inventory,720000.00,,720000.00,,,,Component 1, Supplier A 
+2022-12-05,12,2022,,Raw material inventory,990000.00,,990000.00,,,,Component 2, Supplier A 
+2022-12-05,12,2022,,Raw material inventory,1800000.00,,1800000.00,,,,Component 3, Supplier A 
+2022-12-05,12,2022,,Raw material inventory,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2022-12-05,12,2022,,Raw material inventory,720000.00,,720000.00,,,,Component 5, Supplier D 
+2022-12-05,12,2022,,Raw material inventory,1774885.00,,1774885.00,,,,Component 6, Supplier D 
+2022-12-06,12,2022,,Accounts Payable,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2022-12-06,12,2022,,Cash and cash equivalents,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2022-12-07,12,2022,,Accounts Receivable,,1125402.00,-1125402.00,,,,Product A,Client 9
+2022-12-07,12,2022,,Cash and cash equivalents,1125402.00,,1125402.00,,,,Product A,Client 9
+2022-12-08,12,2022,,Accounts Payable,2000000.00,,2000000.00,,,,Component 3, Supplier A 
+2022-12-08,12,2022,,Cash and cash equivalents,,2000000.00,-2000000.00,,,,Component 3, Supplier A 
+2022-12-09,12,2022,,Accounts Receivable,,1355424.00,-1355424.00,,,,Product A,Client 2
+2022-12-09,12,2022,,Accounts Receivable,,947030.00,-947030.00,,,,Product B,Client 4
+2022-12-09,12,2022,,Cash and cash equivalents,1355424.00,,1355424.00,,,,Product A,Client 2
+2022-12-09,12,2022,,Cash and cash equivalents,947030.00,,947030.00,,,,Product B,Client 4
+2022-12-11,12,2022,,Accounts Payable,840000.00,,840000.00,,,,Component 1, Supplier A 
+2022-12-11,12,2022,,Cash and cash equivalents,,840000.00,-840000.00,,,,Component 1, Supplier A 
+2022-12-12,12,2022,,Accounts Payable,720000.00,,720000.00,,,,Component 1, Supplier A 
+2022-12-12,12,2022,,Cash and cash equivalents,,720000.00,-720000.00,,,,Component 1, Supplier A 
+2022-12-12,12,2022,,Cost of goods sold,918443.20,,918443.20,,,,Supplier A,Component 1
+2022-12-12,12,2022,,Cost of goods sold,825855.30,,825855.30,,,,Supplier A,Component 2
+2022-12-12,12,2022,,Cost of goods sold,1778721.12,,1778721.12,,,,Supplier A,Component 3
+2022-12-12,12,2022,,Cost of goods sold,1666860.00,,1666860.00,,,,Supplier B,Component 4
+2022-12-12,12,2022,,Cost of goods sold,735751.40,,735751.40,,,,Supplier D,Component 5
+2022-12-12,12,2022,,Cost of goods sold,1617142.00,,1617142.00,,,,Supplier D,Component 6
+2022-12-12,12,2022,,Cost of goods sold,,918443.20,-918443.20,,,,,Component 1
+2022-12-12,12,2022,,Cost of goods sold,,825855.30,-825855.30,,,,,Component 2
+2022-12-12,12,2022,,Cost of goods sold,,1778721.12,-1778721.12,,,,,Component 3
+2022-12-12,12,2022,,Cost of goods sold,,1666859.51,-1666859.51,,,,,Component 4
+2022-12-12,12,2022,,Cost of goods sold,,735751.40,-735751.40,,,,,Component 5
+2022-12-12,12,2022,,Cost of goods sold,,1617142.00,-1617142.00,,,,,Component 6
+2022-12-12,12,2022,,Raw material inventory,,918443.20,-918443.20,,,,Component 1, Supplier A 
+2022-12-12,12,2022,,Raw material inventory,,825855.30,-825855.30,,,,Component 2, Supplier A 
+2022-12-12,12,2022,,Raw material inventory,,1778721.12,-1778721.12,,,,Component 3, Supplier A 
+2022-12-12,12,2022,,Raw material inventory,,1666860.00,-1666860.00,,,,Component 4, Supplier B 
+2022-12-12,12,2022,,Raw material inventory,,735751.40,-735751.40,,,,Component 5, Supplier D 
+2022-12-12,12,2022,,Raw material inventory,,1617142.00,-1617142.00,,,,Component 6, Supplier D 
+2022-12-13,12,2022,,Accounts Receivable,,1400236.00,-1400236.00,,,,Product B,Client 4
+2022-12-13,12,2022,,Cash and cash equivalents,1400236.00,,1400236.00,,,,Product B,Client 4
+2022-12-13,12,2022,,Inventory Finished goods Product A,3880322.53,,3880322.53,,,,,
+2022-12-13,12,2022,,Inventory Finished goods Product B,1646968.20,,1646968.20,,,,,
+2022-12-13,12,2022,,Inventory Finished goods Product C,2238492.05,,2238492.05,,,,,
+2022-12-13,12,2022,,Wages payables,,223010.25,-223010.25,,,,,
+2022-12-15,12,2022,,Accounts Receivable,2085210.00,,2085210.00,,,,Product C,Client 1
+2022-12-15,12,2022,,Accounts Receivable,677376.00,,677376.00,,,,Product A,Client 5
+2022-12-15,12,2022,,Accounts Receivable,1075932.00,,1075932.00,,,,Product B,Client 8
+2022-12-15,12,2022,,Cost of goods sold,1990773.16,,1990773.16,,,,,Product C
+2022-12-15,12,2022,,Cost of goods sold,447512.69,,447512.69,,,,,Product A
+2022-12-15,12,2022,,Cost of goods sold,624073.16,,624073.16,,,,,Product B
+2022-12-15,12,2022,,Inventory Finished goods Product A,,447512.69,-447512.69,,,,,Product A
+2022-12-15,12,2022,,Inventory Finished goods Product B,,624073.16,-624073.16,,,,,Product B
+2022-12-15,12,2022,,Inventory Finished goods Product C,,1990773.16,-1990773.16,,,,,Product C
+2022-12-15,12,2022,,Sales Revenue,,2085210.00,-2085210.00,,,,Product C,Client 1
+2022-12-15,12,2022,,Sales Revenue,,677376.00,-677376.00,,,,Product A,Client 5
+2022-12-15,12,2022,,Sales Revenue,,1075932.00,-1075932.00,,,,Product B,Client 8
+2022-12-16,12,2022,,Accounts Payable,880000.00,,880000.00,,,,Component 1, Supplier A 
+2022-12-16,12,2022,,Cash and cash equivalents,,880000.00,-880000.00,,,,Component 1, Supplier A 
+2022-12-17,12,2022,,Accounts Receivable,1640576.00,,1640576.00,,,,Product A,Client 10
+2022-12-17,12,2022,,Cost of goods sold,1120563.84,,1120563.84,,,,,Product A
+2022-12-17,12,2022,,Inventory Finished goods Product A,,1120563.84,-1120563.84,,,,,Product A
+2022-12-17,12,2022,,Sales Revenue,,1640576.00,-1640576.00,,,,Product A,Client 10
+2022-12-18,12,2022,,Accounts Receivable,567736.00,,567736.00,,,,Product B,Client 6
+2022-12-18,12,2022,,Accounts Receivable,1199400.00,,1199400.00,,,,Product A,Client 7
+2022-12-18,12,2022,,Cost of goods sold,410076.78,,410076.78,,,,,Product B
+2022-12-18,12,2022,,Cost of goods sold,896130.98,,896130.98,,,,,Product A
+2022-12-18,12,2022,,Inventory Finished goods Product A,,896130.98,-896130.98,,,,,Product A
+2022-12-18,12,2022,,Inventory Finished goods Product B,,410076.78,-410076.78,,,,,Product B
+2022-12-18,12,2022,,Sales Revenue,,567736.00,-567736.00,,,,Product B,Client 6
+2022-12-18,12,2022,,Sales Revenue,,1199400.00,-1199400.00,,,,Product A,Client 7
+2022-12-21,12,2022,,Accounts Receivable,976488.00,,976488.00,,,,Product B,Client 4
+2022-12-21,12,2022,,Cost of goods sold,612818.26,,612818.26,,,,,Product B
+2022-12-21,12,2022,,Inventory Finished goods Product B,,612818.26,-612818.26,,,,,Product B
+2022-12-21,12,2022,,Sales Revenue,,976488.00,-976488.00,,,,Product B,Client 4
+2022-12-22,12,2022,,Accounts Receivable,,1976853.00,-1976853.00,,,,Product A,Client 5
+2022-12-22,12,2022,,Accounts Receivable,,554164.00,-554164.00,,,,Product A,Client 10
+2022-12-22,12,2022,,Cash and cash equivalents,1976853.00,,1976853.00,,,,Product A,Client 5
+2022-12-22,12,2022,,Cash and cash equivalents,554164.00,,554164.00,,,,Product A,Client 10
+2022-12-23,12,2022,,Accounts Payable,1983695.00,,1983695.00,,,,Component 6, Supplier D 
+2022-12-23,12,2022,,Cash and cash equivalents,,1983695.00,-1983695.00,,,,Component 6, Supplier D 
+2022-12-24,12,2022,,Accounts Payable,800000.00,,800000.00,,,,Component 5, Supplier D 
+2022-08-14,8,2022,,Accounts Receivable,444024.00,,444024.00,,,,Product C,Client 3
+2022-12-24,12,2022,,Accounts Receivable,,718977.00,-718977.00,,,,Product B,Client 6
+2022-12-24,12,2022,,Cash and cash equivalents,,800000.00,-800000.00,,,,Component 5, Supplier D 
+2022-12-24,12,2022,,Cash and cash equivalents,718977.00,,718977.00,,,,Product B,Client 6
+2022-12-24,12,2022,,Cost of goods sold,247718.89,,247718.89,,,,,Product C
+2022-12-24,12,2022,,Inventory Finished goods Product C,,247718.89,-247718.89,,,,,Product C
+2022-12-24,12,2022,,Sales Revenue,,369024.00,-369024.00,,,,Product C,Client 3
+2022-12-26,12,2022,,Accounts Receivable,,761550.00,-761550.00,,,,Product A,Client 2
+2022-12-26,12,2022,,Cash and cash equivalents,761550.00,,761550.00,,,,Product A,Client 2
+2022-08-25,8,2022,,Accounts Receivable,,173788.00,-173788.00,,,,Product C,Client 3
+2022-12-28,12,2022,,Cash and cash equivalents,846141.00,,846141.00,,,,Product C,Client 3
+2022-12-29,12,2022,,Cash and cash equivalents,383184.00,,383184.00,,,,Product C,Client 3
+2022-12-30,12,2022,,Accounts Receivable,457200.00,,457200.00,,,,Product A,Client 2
+2022-12-30,12,2022,,Accounts Receivable,1748626.00,,1748626.00,,,,Product A,Client 9
+2022-12-30,12,2022,,Accounts Receivable,,425961.00,-425961.00,,,,Product A,Client 2
+2022-12-30,12,2022,,Cash and cash equivalents,425961.00,,425961.00,,,,Product A,Client 2
+2022-12-30,12,2022,,Cost of goods sold,322188.84,,322188.84,,,,,Product A
+2022-12-30,12,2022,,Cost of goods sold,1093926.18,,1093926.18,,,,,Product A
+2022-12-30,12,2022,,Inventory Finished goods Product A,,322188.84,-322188.84,,,,,Product A
+2022-12-30,12,2022,,Inventory Finished goods Product A,,1093926.18,-1093926.18,,,,,Product A
+2022-12-30,12,2022,,Sales Revenue,,457200.00,-457200.00,,,,Product A,Client 2
+2022-12-30,12,2022,,Sales Revenue,,1748626.00,-1748626.00,,,,Product A,Client 9
+2022-12-31,12,2022,,Administration,796575.00,,796575.00,,,,,
+2022-12-31,12,2022,Balance sheet cutoff,Balance sheet Cash and Cash Equivalents,,71005000.00,-71005000.00,,,,,
+2022-12-31,12,2022,Balance sheet cutoff,Balance sheet Share cap,550000000.00,,550000000.00,,,,,
+2022-12-31,12,2022,Balance sheet cutoff,Balance sheetShort-term Debt,115500000.00,,115500000.00,,,,,
+2022-12-31,12,2022,,Cash and cash equivalents,,223010.25,-223010.25,,,,,
+2022-12-31,12,2022,,Cash and cash equivalents,,1033220.00,-1033220.00,,,,,
+2022-12-31,12,2022,,Cash and cash equivalents,,804188.00,-804188.00,,,,,
+2022-12-31,12,2022,,Cash and cash equivalents,,796575.00,-796575.00,,,,,
+2022-12-31,12,2022,,Cash and cash equivalents,1201981.00,,1201981.00,,,,,
+2022-12-31,12,2022,,Cash and cash equivalents,,1204389.00,-1204389.00,,,,,
+2022-12-31,12,2022,,Facility,804188.00,,804188.00,,,,,
+2022-12-31,12,2022,,Financial Cost,1204389.00,,1204389.00,,,,,
+2022-12-31,12,2022,,Financial income,,1201981.00,-1201981.00,,,,,
+2022-12-31,12,2022,Balance sheet cutoff,Intangible Balance sheet,,99495000.00,-99495000.00,,,,,
+2022-12-31,12,2022,,Personnel,1033220.00,,1033220.00,,,,,
+2022-12-31,12,2022,Balance sheet cutoff,PPE Balance sheet,,495000000.00,-495000000.00,,,,,
+2022-12-31,12,2022,,Wages payables,223010.25,,223010.25,,,,,
+2023-01-01,1,2023,,Accounts Payable,855000.00,,855000.00,,,,Component 2, Supplier A 
+2023-01-01,1,2023,,Cash and cash equivalents,,855000.00,-855000.00,,,,Component 2, Supplier A 
+2023-01-02,1,2023,,Accounts Receivable,,1452928.00,-1452928.00,,,,Product A,Client 9
+2023-01-02,1,2023,,Accounts Receivable,,1149234.00,-1149234.00,,,,Product A,Client 7
+2023-01-02,1,2023,,Cash and cash equivalents,1452928.00,,1452928.00,,,,Product A,Client 9
+2023-01-02,1,2023,,Cash and cash equivalents,1149234.00,,1149234.00,,,,Product A,Client 7
+2023-01-04,1,2023,,Accounts Payable,990000.00,,990000.00,,,,Component 2, Supplier A 
+2023-01-04,1,2023,,Cash and cash equivalents,,990000.00,-990000.00,,,,Component 2, Supplier A 
+2023-01-09,1,2023,,Accounts Payable,720000.00,,720000.00,,,,Component 5, Supplier D 
+2023-01-09,1,2023,,Cash and cash equivalents,,720000.00,-720000.00,,,,Component 5, Supplier D 
+2023-01-14,1,2023,,Accounts Receivable,,1051848.00,-1051848.00,,,,Product B,Client 8
+2023-01-14,1,2023,,Cash and cash equivalents,1051848.00,,1051848.00,,,,Product B,Client 8
+2023-01-15,1,2023,,Accounts Payable,2310000.00,,2310000.00,,,,Component 4, Supplier B 
+2023-01-15,1,2023,,Cash and cash equivalents,,2310000.00,-2310000.00,,,,Component 4, Supplier B 
+2023-01-20,1,2023,,Accounts Receivable,,415476.00,-415476.00,,,,Product B,Client 8
+2023-01-20,1,2023,,Cash and cash equivalents,415476.00,,415476.00,,,,Product B,Client 8
+2023-01-21,1,2023,,Accounts Receivable,,1075932.00,-1075932.00,,,,Product B,Client 8
+2023-01-21,1,2023,,Cash and cash equivalents,1075932.00,,1075932.00,,,,Product B,Client 8
+2023-01-24,1,2023,,Accounts Receivable,,487665.00,-487665.00,,,,Product B,Client 6
+2023-01-24,1,2023,,Cash and cash equivalents,487665.00,,487665.00,,,,Product B,Client 6
+2023-01-27,1,2023,,Accounts Payable,765000.00,,765000.00,,,,Component 2, Supplier A 
+2023-01-27,1,2023,,Accounts Receivable,,976488.00,-976488.00,,,,Product B,Client 4
+2023-01-27,1,2023,,Cash and cash equivalents,,765000.00,-765000.00,,,,Component 2, Supplier A 
+2023-01-27,1,2023,,Cash and cash equivalents,976488.00,,976488.00,,,,Product B,Client 4
+2022-09-18,9,2022,,Accounts Receivable,,1750932.00,-1750932.00,,,,Product C,Client 3
+2023-01-28,1,2023,,Accounts Receivable,,1233232.00,-1233232.00,,,,Product A,Client 9
+2023-01-28,1,2023,,Cash and cash equivalents,173664.00,,173664.00,,,,Product C,Client 3
+2023-01-28,1,2023,,Cash and cash equivalents,1233232.00,,1233232.00,,,,Product A,Client 9
+2023-01-30,1,2023,,Accounts Payable,2090000.00,,2090000.00,,,,Component 4, Supplier B 
+2023-01-30,1,2023,,Accounts Receivable,,829568.00,-829568.00,,,,Product B,Client 4
+2023-01-30,1,2023,,Cash and cash equivalents,,2090000.00,-2090000.00,,,,Component 4, Supplier B 
+2023-01-30,1,2023,,Cash and cash equivalents,829568.00,,829568.00,,,,Product B,Client 4
+2023-02-02,2,2023,,Accounts Receivable,,567736.00,-567736.00,,,,Product B,Client 6
+2023-02-02,2,2023,,Accounts Receivable,,1199400.00,-1199400.00,,,,Product A,Client 7
+2023-02-02,2,2023,,Cash and cash equivalents,567736.00,,567736.00,,,,Product B,Client 6
+2023-02-02,2,2023,,Cash and cash equivalents,1199400.00,,1199400.00,,,,Product A,Client 7
+2023-02-06,2,2023,,Accounts Payable,1800000.00,,1800000.00,,,,Component 3, Supplier A 
+2023-02-06,2,2023,,Cash and cash equivalents,,1800000.00,-1800000.00,,,,Component 3, Supplier A 
+2023-02-07,2,2023,,Accounts Payable,1774885.00,,1774885.00,,,,Component 6, Supplier D 
+2023-02-07,2,2023,,Cash and cash equivalents,,1774885.00,-1774885.00,,,,Component 6, Supplier D 
+2023-02-10,2,2023,,Accounts Payable,720000.00,,720000.00,,,,Component 1, Supplier A 
+2023-02-10,2,2023,,Cash and cash equivalents,,720000.00,-720000.00,,,,Component 1, Supplier A 
+2023-02-11,2,2023,,Accounts Receivable,,1589335.00,-1589335.00,,,,Product A,Client 10
+2023-02-11,2,2023,,Cash and cash equivalents,1589335.00,,1589335.00,,,,Product A,Client 10
+2023-02-19,2,2023,,Accounts Receivable,,457200.00,-457200.00,,,,Product A,Client 2
+2023-02-19,2,2023,,Cash and cash equivalents,457200.00,,457200.00,,,,Product A,Client 2
+2023-02-21,2,2023,,Accounts Receivable,,1112020.00,-1112020.00,,,,Product A,Client 5
+2023-02-21,2,2023,,Cash and cash equivalents,1112020.00,,1112020.00,,,,Product A,Client 5
+2023-02-28,2,2023,,Accounts Receivable,,1111460.00,-1111460.00,,,,Product A,Client 10
+2023-02-28,2,2023,,Cash and cash equivalents,1111460.00,,1111460.00,,,,Product A,Client 10
+2023-03-01,3,2023,,Accounts Receivable,,756560.00,-756560.00,,,,Product A,Client 7
+2023-03-01,3,2023,,Cash and cash equivalents,756560.00,,756560.00,,,,Product A,Client 7
+2023-03-05,3,2023,,Accounts Receivable,,3494754.00,-3494754.00,,,,Product C,Client 1
+2023-03-05,3,2023,,Accounts Receivable,,677376.00,-677376.00,,,,Product A,Client 5
+2023-03-05,3,2023,,Cash and cash equivalents,3494754.00,,3494754.00,,,,Product C,Client 1
+2023-03-05,3,2023,,Cash and cash equivalents,677376.00,,677376.00,,,,Product A,Client 5
+2023-03-06,3,2023,,Accounts Receivable,,2085210.00,-2085210.00,,,,Product C,Client 1
+2023-03-06,3,2023,,Cash and cash equivalents,2085210.00,,2085210.00,,,,Product C,Client 1
+2023-03-09,3,2023,,Accounts Payable,1774885.00,,1774885.00,,,,Component 6, Supplier D 
+2023-03-09,3,2023,,Cash and cash equivalents,,1774885.00,-1774885.00,,,,Component 6, Supplier D 
+2023-03-14,3,2023,,Accounts Receivable,,1640576.00,-1640576.00,,,,Product A,Client 10
+2023-03-14,3,2023,,Cash and cash equivalents,1640576.00,,1640576.00,,,,Product A,Client 10
+2023-03-15,3,2023,,Accounts Payable,1800000.00,,1800000.00,,,,Component 3, Supplier A 
+2023-03-15,3,2023,,Cash and cash equivalents,,1800000.00,-1800000.00,,,,Component 3, Supplier A 
+2022-09-23,9,2022,,Accounts Receivable,383184.00,,383184.00,,,,Product C,Client 3
+2023-03-26,3,2023,,Cash and cash equivalents,369024.00,,369024.00,,,,Product C,Client 3
+2023-04-09,4,2023,,Accounts Receivable,,1748626.00,-1748626.00,,,,Product A,Client 9
+2023-04-09,4,2023,,Cash and cash equivalents,1748626.00,,1748626.00,,,,Product A,Client 9
+2022-03-01,3,2022,,Balance sheet AccPay,10965000.00,,10965000.00,,,,,Supplier A
+2022-03-01,3,2022,,Balance sheet AccPay,6104000.00,,6104000.00,,,,,Supplier B
+2022-03-01,3,2022,,Balance sheet AccPay,13663505.00,,13663505.00,,,,,Supplier D
+2022-03-01,3,2022,,Accounts Payable,,10965000.00,-10965000.00,,,,,Supplier A
+2022-03-01,3,2022,,Accounts Payable,,6104000.00,-6104000.00,,,,,Supplier B
+2022-03-01,3,2022,,Accounts Payable,,13663505.00,-13663505.00,,,,,Supplier D
+2022-04-01,4,2022,,Balance sheet AccPay,10530000.00, $-   ,10530000.00,,,,,Supplier A
+2022-04-01,4,2022,,Balance sheet AccPay,6544000.00, $-   ,6544000.00,,,,,Supplier B
+2022-04-01,4,2022,,Balance sheet AccPay,14948505.00, $-   ,14948505.00,,,,,Supplier D
+2022-04-01,4,2022,,Accounts Payable, $-   ,10530000.00,-10530000.00,,,,,Supplier A
+2022-04-01,4,2022,,Accounts Payable, $-   ,6544000.00,-6544000.00,,,,,Supplier B
+2022-04-01,4,2022,,Accounts Payable, $-   ,14948505.00,-14948505.00,,,,,Supplier D
+2022-05-01,5,2022,,Balance sheet AccPay,12690000.00, $-   ,12690000.00,,,,,Supplier A
+2022-05-01,5,2022,,Balance sheet AccPay,8744000.00, $-   ,8744000.00,,,,,Supplier B
+2022-05-01,5,2022,,Balance sheet AccPay,9117000.00, $-   ,9117000.00,,,,,Supplier D
+2022-05-01,5,2022,,Accounts Payable, $-   ,12690000.00,-12690000.00,,,,,Supplier A
+2022-05-01,5,2022,,Accounts Payable, $-   ,8744000.00,-8744000.00,,,,,Supplier B
+2022-05-01,5,2022,,Accounts Payable, $-   ,9117000.00,-9117000.00,,,,,Supplier D
+2022-06-01,6,2022,,Balance sheet AccPay,11335000.00, $-   ,11335000.00,,,,,Supplier A
+2022-06-01,6,2022,,Balance sheet AccPay,8964000.00, $-   ,8964000.00,,,,,Supplier B
+2022-06-01,6,2022,,Balance sheet AccPay,8330000.00, $-   ,8330000.00,,,,,Supplier D
+2022-06-01,6,2022,,Accounts Payable, $-   ,11335000.00,-11335000.00,,,,,Supplier A
+2022-06-01,6,2022,,Accounts Payable, $-   ,8964000.00,-8964000.00,,,,,Supplier B
+2022-06-01,6,2022,,Accounts Payable, $-   ,8330000.00,-8330000.00,,,,,Supplier D
+2022-07-01,7,2022,,Balance sheet AccPay,12175000.00, $-   ,12175000.00,,,,,Supplier A
+2022-07-01,7,2022,,Balance sheet AccPay,6434000.00, $-   ,6434000.00,,,,,Supplier B
+2022-07-01,7,2022,,Balance sheet AccPay,12110000.00, $-   ,12110000.00,,,,,Supplier D
+2022-07-01,7,2022,,Accounts Payable, $-   ,12175000.00,-12175000.00,,,,,Supplier A
+2022-07-01,7,2022,,Accounts Payable, $-   ,6434000.00,-6434000.00,,,,,Supplier B
+2022-07-01,7,2022,,Accounts Payable, $-   ,12110000.00,-12110000.00,,,,,Supplier D
+2022-08-01,8,2022,,Balance sheet AccPay,12330000.00, $-   ,12330000.00,,,,,Supplier A
+2022-08-01,8,2022,,Balance sheet AccPay,8524000.00, $-   ,8524000.00,,,,,Supplier B
+2022-08-01,8,2022,,Balance sheet AccPay,12428505.00, $-   ,12428505.00,,,,,Supplier D
+2022-08-01,8,2022,,Accounts Payable, $-   ,12330000.00,-12330000.00,,,,,Supplier A
+2022-08-01,8,2022,,Accounts Payable, $-   ,8524000.00,-8524000.00,,,,,Supplier B
+2022-08-01,8,2022,,Accounts Payable, $-   ,12428505.00,-12428505.00,,,,,Supplier D
+2022-09-01,9,2022,,Balance sheet AccPay,9635000.00, $-   ,9635000.00,,,,,Supplier A
+2022-09-01,9,2022,,Balance sheet AccPay,8414000.00, $-   ,8414000.00,,,,,Supplier B
+2022-09-01,9,2022,,Balance sheet AccPay,10450885.00, $-   ,10450885.00,,,,,Supplier D
+2022-09-01,9,2022,,Accounts Payable, $-   ,9635000.00,-9635000.00,,,,,Supplier A
+2022-09-01,9,2022,,Accounts Payable, $-   ,8414000.00,-8414000.00,,,,,Supplier B
+2022-09-01,9,2022,,Accounts Payable, $-   ,10450885.00,-10450885.00,,,,,Supplier D
+2022-10-01,10,2022,,Balance sheet AccPay,8065000.00, $-   ,8065000.00,,,,,Supplier A
+2022-10-01,10,2022,,Balance sheet AccPay,10724000.00, $-   ,10724000.00,,,,,Supplier B
+2022-10-01,10,2022,,Balance sheet AccPay,10854580.00, $-   ,10854580.00,,,,,Supplier D
+2022-10-01,10,2022,,Accounts Payable, $-   ,8065000.00,-8065000.00,,,,,Supplier A
+2022-10-01,10,2022,,Accounts Payable, $-   ,10724000.00,-10724000.00,,,,,Supplier B
+2022-10-01,10,2022,,Accounts Payable, $-   ,10854580.00,-10854580.00,,,,,Supplier D
+2022-11-01,11,2022,,Balance sheet AccPay,11510000.00, $-   ,11510000.00,,,,,Supplier A
+2022-11-01,11,2022,,Balance sheet AccPay,8524000.00, $-   ,8524000.00,,,,,Supplier B
+2022-11-01,11,2022,,Balance sheet AccPay,10134580.00, $-   ,10134580.00,,,,,Supplier D
+2022-11-01,11,2022,,Accounts Payable, $-   ,11510000.00,-11510000.00,,,,,Supplier A
+2022-11-01,11,2022,,Accounts Payable, $-   ,8524000.00,-8524000.00,,,,,Supplier B
+2022-11-01,11,2022,,Accounts Payable, $-   ,10134580.00,-10134580.00,,,,,Supplier D
+2022-12-01,12,2022,,Balance sheet AccPay,10580000.00, $-   ,10580000.00,,,,,Supplier A
+2022-12-01,12,2022,,Balance sheet AccPay,8524000.00, $-   ,8524000.00,,,,,Supplier B
+2022-12-01,12,2022,,Balance sheet AccPay,9845770.00, $-   ,9845770.00,,,,,Supplier D
+2022-12-01,12,2022,,Accounts Payable, $-   ,10580000.00,-10580000.00,,,,,Supplier A
+2022-12-01,12,2022,,Accounts Payable, $-   ,8524000.00,-8524000.00,,,,,Supplier B
+2022-12-01,12,2022,,Accounts Payable, $-   ,9845770.00,-9845770.00,,,,,Supplier D
+2022-09-29,9,2022,,Accounts Receivable,,444024.00,-444024.00,,,,Product C,Client 3
+2022-10-27,10,2022,,Accounts Receivable,173664.00,,173664.00,,,,Product C,Client 3
+2022-11-18,11,2022,,Accounts Receivable,846141.00,,846141.00,,,,Product C,Client 3
+2022-12-24,12,2022,,Accounts Receivable,369024.00,,369024.00,,,,Product C,Client 3
+2022-12-28,12,2022,,Accounts Receivable,,846141.00,-846141.00,,,,Product C,Client 3
+2022-12-29,12,2022,,Accounts Receivable,,383184.00,-383184.00,,,,Product C,Client 3
+2023-01-28,1,2023,,Accounts Receivable,,173664.00,-173664.00,,,,Product C,Client 3
+2023-03-26,3,2023,,Accounts Receivable,,369024.00,-369024.00,,,,Product C,Client 3
+2022-02-01,2,2022,,Accounts Receivable,4248900.00,,4248900.00,,,,, Client 1 
+2022-02-01,2,2022,,Accounts Receivable,1110474.00,,1110474.00,,,,, Client 10 
+2022-02-01,2,2022,,Accounts Receivable,872984.00,,872984.00,,,,, Client 2 
+2022-02-01,2,2022,,Accounts Receivable,601126.00,,601126.00,,,,, Client 3 
+2022-02-01,2,2022,,Accounts Receivable,2644640.00,,2644640.00,,,,, Client 4 
+2022-02-01,2,2022,,Accounts Receivable,1115827.00,,1115827.00,,,,, Client 5 
+2022-02-01,2,2022,,Accounts Receivable,550988.00,,550988.00,,,,, Client 6 
+2022-02-01,2,2022,,Accounts Receivable,1756304.00,,1756304.00,,,,, Client 7 
+2022-02-01,2,2022,,Accounts Receivable,1005360.00,,1005360.00,,,,, Client 8 
+2022-02-01,2,2022,,Accounts Receivable,1839104.00,,1839104.00,,,,, Client 9 
+2022-03-01,3,2022,,Accounts Receivable,6673173.00,,6673173.00,,,,, Client 1 
+2022-03-01,3,2022,,Accounts Receivable,3125394.00,,3125394.00,,,,, Client 10 
+2022-03-01,3,2022,,Accounts Receivable,1898699.00,,1898699.00,,,,, Client 2 
+2022-03-01,3,2022,,Accounts Receivable,273400.00,,273400.00,,,,, Client 3 
+2022-03-01,3,2022,,Accounts Receivable,3993022.00,,3993022.00,,,,, Client 4 
+2022-03-01,3,2022,,Accounts Receivable,2943565.00,,2943565.00,,,,, Client 5 
+2022-03-01,3,2022,,Accounts Receivable,1034759.00,,1034759.00,,,,, Client 6 
+2022-03-01,3,2022,,Accounts Receivable,3038564.00,,3038564.00,,,,, Client 7 
+2022-03-01,3,2022,,Accounts Receivable,1548704.00,,1548704.00,,,,, Client 8 
+2022-03-01,3,2022,,Accounts Receivable,3341768.00,,3341768.00,,,,, Client 9 
+2022-04-01,4,2022,,Accounts Receivable,10445751.00,,10445751.00,,,,, Client 1 
+2022-04-01,4,2022,,Accounts Receivable,2387086.00,,2387086.00,,,,, Client 10 
+2022-04-01,4,2022,,Accounts Receivable,2949661.00,,2949661.00,,,,, Client 2 
+2022-04-01,4,2022,,Accounts Receivable,1491121.00,,1491121.00,,,,, Client 3 
+2022-04-01,4,2022,,Accounts Receivable,4209532.00,,4209532.00,,,,, Client 4 
+2022-04-01,4,2022,,Accounts Receivable,3365422.00,,3365422.00,,,,, Client 5 
+2022-04-01,4,2022,,Accounts Receivable,1069643.00,,1069643.00,,,,, Client 6 
+2022-04-01,4,2022,,Accounts Receivable,3485542.00,,3485542.00,,,,, Client 7 
+2022-04-01,4,2022,,Accounts Receivable,2951664.00,,2951664.00,,,,, Client 8 
+2022-04-01,4,2022,,Accounts Receivable,2503520.00,,2503520.00,,,,, Client 9 
+2022-05-01,5,2022,,Accounts Receivable,6605202.00,,6605202.00,,,,, Client 1 
+2022-05-01,5,2022,,Accounts Receivable,1468482.00,,1468482.00,,,,, Client 10 
+2022-05-01,5,2022,,Accounts Receivable,3506495.00,,3506495.00,,,,, Client 2 
+2022-05-01,5,2022,,Accounts Receivable,2957728.00,,2957728.00,,,,, Client 3 
+2022-05-01,5,2022,,Accounts Receivable,1934832.00,,1934832.00,,,,, Client 4 
+2022-05-01,5,2022,,Accounts Receivable,1672612.00,,1672612.00,,,,, Client 5 
+2022-05-01,5,2022,,Accounts Receivable,1627838.00,,1627838.00,,,,, Client 6 
+2022-05-01,5,2022,,Accounts Receivable,440505.00,,440505.00,,,,, Client 7 
+2022-05-01,5,2022,,Accounts Receivable,3080200.00,,3080200.00,,,,, Client 8 
+2022-05-01,5,2022,,Accounts Receivable,2322432.00,,2322432.00,,,,, Client 9 
+2022-06-01,6,2022,,Accounts Receivable,6609510.00,,6609510.00,,,,, Client 1 
+2022-06-01,6,2022,,Accounts Receivable,2434652.00,,2434652.00,,,,, Client 10 
+2022-06-01,6,2022,,Accounts Receivable,3382850.00,,3382850.00,,,,, Client 2 
+2022-06-01,6,2022,,Accounts Receivable,1640395.00,,1640395.00,,,,, Client 3 
+2022-06-01,6,2022,,Accounts Receivable,2780841.00,,2780841.00,,,,, Client 4 
+2022-06-01,6,2022,,Accounts Receivable,1817875.00,,1817875.00,,,,, Client 5 
+2022-06-01,6,2022,,Accounts Receivable,1755354.00,,1755354.00,,,,, Client 6 
+2022-06-01,6,2022,,Accounts Receivable,1374009.00,,1374009.00,,,,, Client 7 
+2022-06-01,6,2022,,Accounts Receivable,2064221.00,,2064221.00,,,,, Client 8 
+2022-06-01,6,2022,,Accounts Receivable,3556080.00,,3556080.00,,,,, Client 9 
+2022-07-01,7,2022,,Accounts Receivable,6336828.00,,6336828.00,,,,, Client 1 
+2022-07-01,7,2022,,Accounts Receivable,1938936.00,,1938936.00,,,,, Client 10 
+2022-07-01,7,2022,,Accounts Receivable,2847533.00,,2847533.00,,,,, Client 2 
+2022-07-01,7,2022,,Accounts Receivable,3224775.00,,3224775.00,,,,, Client 3 
+2022-07-01,7,2022,,Accounts Receivable,3695992.00,,3695992.00,,,,, Client 4 
+2022-07-01,7,2022,,Accounts Receivable,2622219.00,,2622219.00,,,,, Client 5 
+2022-07-01,7,2022,,Accounts Receivable,1946911.00,,1946911.00,,,,, Client 6 
+2022-07-01,7,2022,,Accounts Receivable,2533749.00,,2533749.00,,,,, Client 7 
+2022-07-01,7,2022,,Accounts Receivable,2569734.00,,2569734.00,,,,, Client 8 
+2022-07-01,7,2022,,Accounts Receivable,4532695.00,,4532695.00,,,,, Client 9 
+2022-08-01,8,2022,,Accounts Receivable,9497898.00,,9497898.00,,,,, Client 1 
+2022-08-01,8,2022,,Accounts Receivable,2516152.00,,2516152.00,,,,, Client 10 
+2022-08-01,8,2022,,Accounts Receivable,1534676.00,,1534676.00,,,,, Client 2 
+2022-08-01,8,2022,,Accounts Receivable,1924720.00,,1924720.00,,,,, Client 3 
+2022-08-01,8,2022,,Accounts Receivable,3751603.00,,3751603.00,,,,, Client 4 
+2022-08-01,8,2022,,Accounts Receivable,1559044.00,,1559044.00,,,,, Client 5 
+2022-08-01,8,2022,,Accounts Receivable,1345718.00,,1345718.00,,,,, Client 6 
+2022-08-01,8,2022,,Accounts Receivable,3857622.00,,3857622.00,,,,, Client 7 
+2022-08-01,8,2022,,Accounts Receivable,1699393.00,,1699393.00,,,,, Client 8 
+2022-08-01,8,2022,,Accounts Receivable,3782410.00,,3782410.00,,,,, Client 9 
+2022-09-01,9,2022,,Accounts Receivable,4815420.00,,4815420.00,,,,, Client 1 
+2022-09-01,9,2022,,Accounts Receivable,1182394.00,,1182394.00,,,,, Client 10 
+2022-09-01,9,2022,,Accounts Receivable,2374455.00,,2374455.00,,,,, Client 2 
+2022-09-01,9,2022,,Accounts Receivable,2194956.00,,2194956.00,,,,, Client 3 
+2022-09-01,9,2022,,Accounts Receivable,4368044.00,,4368044.00,,,,, Client 4 
+2022-09-01,9,2022,,Accounts Receivable,1511584.00,,1511584.00,,,,, Client 5 
+2022-09-01,9,2022,,Accounts Receivable,2054042.00,,2054042.00,,,,, Client 6 
+2022-09-01,9,2022,,Accounts Receivable,5019692.00,,5019692.00,,,,, Client 7 
+2022-09-01,9,2022,,Accounts Receivable,3317479.00,,3317479.00,,,,, Client 8 
+2022-09-01,9,2022,,Accounts Receivable,5082352.00,,5082352.00,,,,, Client 9 
+2022-10-01,10,2022,,Accounts Receivable,6914139.00,,6914139.00,,,,, Client 1 
+2022-10-01,10,2022,,Accounts Receivable,1736558.00,,1736558.00,,,,, Client 10 
+2022-10-01,10,2022,,Accounts Receivable,3772215.00,,3772215.00,,,,, Client 2 
+2022-10-01,10,2022,,Accounts Receivable,383184.00,,383184.00,,,,, Client 3 
+2022-10-01,10,2022,,Accounts Receivable,5768280.00,,5768280.00,,,,, Client 4 
+2022-10-01,10,2022,,Accounts Receivable,2733737.00,,2733737.00,,,,, Client 5 
+2022-10-01,10,2022,,Accounts Receivable,2061484.00,,2061484.00,,,,, Client 6 
+2022-10-01,10,2022,,Accounts Receivable,3415572.00,,3415572.00,,,,, Client 7 
+2022-10-01,10,2022,,Accounts Receivable,2669934.00,,2669934.00,,,,, Client 8 
+2022-10-01,10,2022,,Accounts Receivable,2360659.00,,2360659.00,,,,, Client 9 
+2022-11-01,11,2022,,Accounts Receivable,6418329.00,,6418329.00,,,,, Client 1 
+2022-11-01,11,2022,,Accounts Receivable,2143499.00,,2143499.00,,,,, Client 10 
+2022-11-01,11,2022,,Accounts Receivable,3179145.00,,3179145.00,,,,, Client 2 
+2022-11-01,11,2022,,Accounts Receivable,556848.00,,556848.00,,,,, Client 3 
+2022-11-01,11,2022,,Accounts Receivable,2347266.00,,2347266.00,,,,, Client 4 
+2022-11-01,11,2022,,Accounts Receivable,3375273.00,,3375273.00,,,,, Client 5 
+2022-11-01,11,2022,,Accounts Receivable,1170435.00,,1170435.00,,,,, Client 6 
+2022-11-01,11,2022,,Accounts Receivable,1638358.00,,1638358.00,,,,, Client 7 
+2022-11-01,11,2022,,Accounts Receivable,2443068.00,,2443068.00,,,,, Client 8 
+2022-11-01,11,2022,,Accounts Receivable,2578330.00,,2578330.00,,,,, Client 9 
+2022-12-01,12,2022,,Accounts Receivable,3494754.00,,3494754.00,,,,, Client 1 
+2022-12-01,12,2022,,Accounts Receivable,3254959.00,,3254959.00,,,,, Client 10 
+2022-12-01,12,2022,,Accounts Receivable,3940695.00,,3940695.00,,,,, Client 2 
+2022-12-01,12,2022,,Accounts Receivable,1402989.00,,1402989.00,,,,, Client 3 
+2022-12-01,12,2022,,Accounts Receivable,3176834.00,,3176834.00,,,,, Client 4 
+2022-12-01,12,2022,,Accounts Receivable,4487293.00,,4487293.00,,,,, Client 5 
+2022-12-01,12,2022,,Accounts Receivable,1206642.00,,1206642.00,,,,, Client 6 
+2022-12-01,12,2022,,Accounts Receivable,1905794.00,,1905794.00,,,,, Client 7 
+2022-12-01,12,2022,,Accounts Receivable,1467324.00,,1467324.00,,,,, Client 8 
+2022-12-01,12,2022,,Accounts Receivable,3811562.00,,3811562.00,,,,, Client 9 
+2022-02-01,2,2022,,Balance sheet AccRec,,4248900.00,-4248900.00,,,,, Client 1 
+2022-02-01,2,2022,,Balance sheet AccRec,,1110474.00,-1110474.00,,,,, Client 10 
+2022-02-01,2,2022,,Balance sheet AccRec,,872984.00,-872984.00,,,,, Client 2 
+2022-02-01,2,2022,,Balance sheet AccRec,,601126.00,-601126.00,,,,, Client 3 
+2022-02-01,2,2022,,Balance sheet AccRec,,2644640.00,-2644640.00,,,,, Client 4 
+2022-02-01,2,2022,,Balance sheet AccRec,,1115827.00,-1115827.00,,,,, Client 5 
+2022-02-01,2,2022,,Balance sheet AccRec,,550988.00,-550988.00,,,,, Client 6 
+2022-02-01,2,2022,,Balance sheet AccRec,,1756304.00,-1756304.00,,,,, Client 7 
+2022-02-01,2,2022,,Balance sheet AccRec,,1005360.00,-1005360.00,,,,, Client 8 
+2022-02-01,2,2022,,Balance sheet AccRec,,1839104.00,-1839104.00,,,,, Client 9 
+2022-03-01,3,2022,,Balance sheet AccRec,,6673173.00,-6673173.00,,,,, Client 1 
+2022-03-01,3,2022,,Balance sheet AccRec,,3125394.00,-3125394.00,,,,, Client 10 
+2022-03-01,3,2022,,Balance sheet AccRec,,1898699.00,-1898699.00,,,,, Client 2 
+2022-03-01,3,2022,,Balance sheet AccRec,,273400.00,-273400.00,,,,, Client 3 
+2022-03-01,3,2022,,Balance sheet AccRec,,3993022.00,-3993022.00,,,,, Client 4 
+2022-03-01,3,2022,,Balance sheet AccRec,,2943565.00,-2943565.00,,,,, Client 5 
+2022-03-01,3,2022,,Balance sheet AccRec,,1034759.00,-1034759.00,,,,, Client 6 
+2022-03-01,3,2022,,Balance sheet AccRec,,3038564.00,-3038564.00,,,,, Client 7 
+2022-03-01,3,2022,,Balance sheet AccRec,,1548704.00,-1548704.00,,,,, Client 8 
+2022-03-01,3,2022,,Balance sheet AccRec,,3341768.00,-3341768.00,,,,, Client 9 
+2022-04-01,4,2022,,Balance sheet AccRec,,10445751.00,-10445751.00,,,,, Client 1 
+2022-04-01,4,2022,,Balance sheet AccRec,,2387086.00,-2387086.00,,,,, Client 10 
+2022-04-01,4,2022,,Balance sheet AccRec,,2949661.00,-2949661.00,,,,, Client 2 
+2022-04-01,4,2022,,Balance sheet AccRec,,1491121.00,-1491121.00,,,,, Client 3 
+2022-04-01,4,2022,,Balance sheet AccRec,,4209532.00,-4209532.00,,,,, Client 4 
+2022-04-01,4,2022,,Balance sheet AccRec,,3365422.00,-3365422.00,,,,, Client 5 
+2022-04-01,4,2022,,Balance sheet AccRec,,1069643.00,-1069643.00,,,,, Client 6 
+2022-04-01,4,2022,,Balance sheet AccRec,,3485542.00,-3485542.00,,,,, Client 7 
+2022-04-01,4,2022,,Balance sheet AccRec,,2951664.00,-2951664.00,,,,, Client 8 
+2022-04-01,4,2022,,Balance sheet AccRec,,2503520.00,-2503520.00,,,,, Client 9 
+2022-05-01,5,2022,,Balance sheet AccRec,,6605202.00,-6605202.00,,,,, Client 1 
+2022-05-01,5,2022,,Balance sheet AccRec,,1468482.00,-1468482.00,,,,, Client 10 
+2022-05-01,5,2022,,Balance sheet AccRec,,3506495.00,-3506495.00,,,,, Client 2 
+2022-05-01,5,2022,,Balance sheet AccRec,,2957728.00,-2957728.00,,,,, Client 3 
+2022-05-01,5,2022,,Balance sheet AccRec,,1934832.00,-1934832.00,,,,, Client 4 
+2022-05-01,5,2022,,Balance sheet AccRec,,1672612.00,-1672612.00,,,,, Client 5 
+2022-05-01,5,2022,,Balance sheet AccRec,,1627838.00,-1627838.00,,,,, Client 6 
+2022-05-01,5,2022,,Balance sheet AccRec,,440505.00,-440505.00,,,,, Client 7 
+2022-05-01,5,2022,,Balance sheet AccRec,,3080200.00,-3080200.00,,,,, Client 8 
+2022-05-01,5,2022,,Balance sheet AccRec,,2322432.00,-2322432.00,,,,, Client 9 
+2022-06-01,6,2022,,Balance sheet AccRec,,6609510.00,-6609510.00,,,,, Client 1 
+2022-06-01,6,2022,,Balance sheet AccRec,,2434652.00,-2434652.00,,,,, Client 10 
+2022-06-01,6,2022,,Balance sheet AccRec,,3382850.00,-3382850.00,,,,, Client 2 
+2022-06-01,6,2022,,Balance sheet AccRec,,1640395.00,-1640395.00,,,,, Client 3 
+2022-06-01,6,2022,,Balance sheet AccRec,,2780841.00,-2780841.00,,,,, Client 4 
+2022-06-01,6,2022,,Balance sheet AccRec,,1817875.00,-1817875.00,,,,, Client 5 
+2022-06-01,6,2022,,Balance sheet AccRec,,1755354.00,-1755354.00,,,,, Client 6 
+2022-06-01,6,2022,,Balance sheet AccRec,,1374009.00,-1374009.00,,,,, Client 7 
+2022-06-01,6,2022,,Balance sheet AccRec,,2064221.00,-2064221.00,,,,, Client 8 
+2022-06-01,6,2022,,Balance sheet AccRec,,3556080.00,-3556080.00,,,,, Client 9 
+2022-07-01,7,2022,,Balance sheet AccRec,,6336828.00,-6336828.00,,,,, Client 1 
+2022-07-01,7,2022,,Balance sheet AccRec,,1938936.00,-1938936.00,,,,, Client 10 
+2022-07-01,7,2022,,Balance sheet AccRec,,2847533.00,-2847533.00,,,,, Client 2 
+2022-07-01,7,2022,,Balance sheet AccRec,,3224775.00,-3224775.00,,,,, Client 3 
+2022-07-01,7,2022,,Balance sheet AccRec,,3695992.00,-3695992.00,,,,, Client 4 
+2022-07-01,7,2022,,Balance sheet AccRec,,2622219.00,-2622219.00,,,,, Client 5 
+2022-07-01,7,2022,,Balance sheet AccRec,,1946911.00,-1946911.00,,,,, Client 6 
+2022-07-01,7,2022,,Balance sheet AccRec,,2533749.00,-2533749.00,,,,, Client 7 
+2022-07-01,7,2022,,Balance sheet AccRec,,2569734.00,-2569734.00,,,,, Client 8 
+2022-07-01,7,2022,,Balance sheet AccRec,,4532695.00,-4532695.00,,,,, Client 9 
+2022-08-01,8,2022,,Balance sheet AccRec,,9497898.00,-9497898.00,,,,, Client 1 
+2022-08-01,8,2022,,Balance sheet AccRec,,2516152.00,-2516152.00,,,,, Client 10 
+2022-08-01,8,2022,,Balance sheet AccRec,,1534676.00,-1534676.00,,,,, Client 2 
+2022-08-01,8,2022,,Balance sheet AccRec,,1924720.00,-1924720.00,,,,, Client 3 
+2022-08-01,8,2022,,Balance sheet AccRec,,3751603.00,-3751603.00,,,,, Client 4 
+2022-08-01,8,2022,,Balance sheet AccRec,,1559044.00,-1559044.00,,,,, Client 5 
+2022-08-01,8,2022,,Balance sheet AccRec,,1345718.00,-1345718.00,,,,, Client 6 
+2022-08-01,8,2022,,Balance sheet AccRec,,3857622.00,-3857622.00,,,,, Client 7 
+2022-08-01,8,2022,,Balance sheet AccRec,,1699393.00,-1699393.00,,,,, Client 8 
+2022-08-01,8,2022,,Balance sheet AccRec,,3782410.00,-3782410.00,,,,, Client 9 
+2022-09-01,9,2022,,Balance sheet AccRec,,4815420.00,-4815420.00,,,,, Client 1 
+2022-09-01,9,2022,,Balance sheet AccRec,,1182394.00,-1182394.00,,,,, Client 10 
+2022-09-01,9,2022,,Balance sheet AccRec,,2374455.00,-2374455.00,,,,, Client 2 
+2022-09-01,9,2022,,Balance sheet AccRec,,2194956.00,-2194956.00,,,,, Client 3 
+2022-09-01,9,2022,,Balance sheet AccRec,,4368044.00,-4368044.00,,,,, Client 4 
+2022-09-01,9,2022,,Balance sheet AccRec,,1511584.00,-1511584.00,,,,, Client 5 
+2022-09-01,9,2022,,Balance sheet AccRec,,2054042.00,-2054042.00,,,,, Client 6 
+2022-09-01,9,2022,,Balance sheet AccRec,,5019692.00,-5019692.00,,,,, Client 7 
+2022-09-01,9,2022,,Balance sheet AccRec,,3317479.00,-3317479.00,,,,, Client 8 
+2022-09-01,9,2022,,Balance sheet AccRec,,5082352.00,-5082352.00,,,,, Client 9 
+2022-10-01,10,2022,,Balance sheet AccRec,,6914139.00,-6914139.00,,,,, Client 1 
+2022-10-01,10,2022,,Balance sheet AccRec,,1736558.00,-1736558.00,,,,, Client 10 
+2022-10-01,10,2022,,Balance sheet AccRec,,3772215.00,-3772215.00,,,,, Client 2 
+2022-10-01,10,2022,,Balance sheet AccRec,,383184.00,-383184.00,,,,, Client 3 
+2022-10-01,10,2022,,Balance sheet AccRec,,5768280.00,-5768280.00,,,,, Client 4 
+2022-10-01,10,2022,,Balance sheet AccRec,,2733737.00,-2733737.00,,,,, Client 5 
+2022-10-01,10,2022,,Balance sheet AccRec,,2061484.00,-2061484.00,,,,, Client 6 
+2022-10-01,10,2022,,Balance sheet AccRec,,3415572.00,-3415572.00,,,,, Client 7 
+2022-10-01,10,2022,,Balance sheet AccRec,,2669934.00,-2669934.00,,,,, Client 8 
+2022-10-01,10,2022,,Balance sheet AccRec,,2360659.00,-2360659.00,,,,, Client 9 
+2022-11-01,11,2022,,Balance sheet AccRec,,6418329.00,-6418329.00,,,,, Client 1 
+2022-11-01,11,2022,,Balance sheet AccRec,,2143499.00,-2143499.00,,,,, Client 10 
+2022-11-01,11,2022,,Balance sheet AccRec,,3179145.00,-3179145.00,,,,, Client 2 
+2022-11-01,11,2022,,Balance sheet AccRec,,556848.00,-556848.00,,,,, Client 3 
+2022-11-01,11,2022,,Balance sheet AccRec,,2347266.00,-2347266.00,,,,, Client 4 
+2022-11-01,11,2022,,Balance sheet AccRec,,3375273.00,-3375273.00,,,,, Client 5 
+2022-11-01,11,2022,,Balance sheet AccRec,,1170435.00,-1170435.00,,,,, Client 6 
+2022-11-01,11,2022,,Balance sheet AccRec,,1638358.00,-1638358.00,,,,, Client 7 
+2022-11-01,11,2022,,Balance sheet AccRec,,2443068.00,-2443068.00,,,,, Client 8 
+2022-11-01,11,2022,,Balance sheet AccRec,,2578330.00,-2578330.00,,,,, Client 9 
+2022-12-01,12,2022,,Balance sheet AccRec,,3494754.00,-3494754.00,,,,, Client 1 
+2022-12-01,12,2022,,Balance sheet AccRec,,3254959.00,-3254959.00,,,,, Client 10 
+2022-12-01,12,2022,,Balance sheet AccRec,,3940695.00,-3940695.00,,,,, Client 2 
+2022-12-01,12,2022,,Balance sheet AccRec,,1402989.00,-1402989.00,,,,, Client 3 
+2022-12-01,12,2022,,Balance sheet AccRec,,3176834.00,-3176834.00,,,,, Client 4 
+2022-12-01,12,2022,,Balance sheet AccRec,,4487293.00,-4487293.00,,,,, Client 5 
+2022-12-01,12,2022,,Balance sheet AccRec,,1206642.00,-1206642.00,,,,, Client 6 
+2022-12-01,12,2022,,Balance sheet AccRec,,1905794.00,-1905794.00,,,,, Client 7 
+2022-12-01,12,2022,,Balance sheet AccRec,,1467324.00,-1467324.00,,,,, Client 8 
+2022-12-01,12,2022,,Balance sheet AccRec,,3811562.00,-3811562.00,,,,, Client 9 
+2022-02-01,2,2022,,Raw material inventory,158330.80,,158330.80,,,,Component 1,
+2022-02-01,2,2022,,Raw material inventory,416425.32,,416425.32,,,,Component 2,
+2022-02-01,2,2022,,Raw material inventory,309794.05,,309794.05,,,,Component 3,
+2022-02-01,2,2022,,Raw material inventory,329406.00,,329406.00,,,,Component 4,
+2022-02-01,2,2022,,Raw material inventory,2062.80,,2062.80,,,,Component 5,
+2022-02-01,2,2022,,Raw material inventory,1330.00,,1330.00,,,,Component 6,
+2022-03-01,3,2022,,Raw material inventory,30416.00,,30416.00,,,,Component 1,
+2022-03-01,3,2022,,Raw material inventory,435593.76,,435593.76,,,,Component 2,
+2022-03-01,3,2022,,Raw material inventory,155025.18,,155025.18,,,,Component 3,
+2022-03-01,3,2022,,Raw material inventory,155790.00,,155790.00,,,,Component 4,
+2022-03-01,3,2022,,Raw material inventory,60780.05,,60780.05,,,,Component 5,
+2022-03-01,3,2022,,Raw material inventory,127827.00,,127827.00,,,,Component 6,
+2022-04-01,4,2022,,Raw material inventory,385540.40,,385540.40,,,,Component 1,
+2022-04-01,4,2022,,Raw material inventory,459795.06,,459795.06,,,,Component 2,
+2022-04-01,4,2022,,Raw material inventory,132180.60,,132180.60,,,,Component 3,
+2022-04-01,4,2022,,Raw material inventory,1180476.00,,1180476.00,,,,Component 4,
+2022-04-01,4,2022,,Raw material inventory,82298.70,,82298.70,,,,Component 5,
+2022-04-01,4,2022,,Raw material inventory,447238.00,,447238.00,,,,Component 6,
+2022-05-01,5,2022,,Raw material inventory,426928.00,,426928.00,,,,Component 1,
+2022-05-01,5,2022,,Raw material inventory,415182.18,,415182.18,,,,Component 2,
+2022-05-01,5,2022,,Raw material inventory,229372.37,,229372.37,,,,Component 3,
+2022-05-01,5,2022,,Raw material inventory,1720818.00,,1720818.00,,,,Component 4,
+2022-05-01,5,2022,,Raw material inventory,76952.20,,76952.20,,,,Component 5,
+2022-05-01,5,2022,,Raw material inventory,57266.00,,57266.00,,,,Component 6,
+2022-06-01,6,2022,,Raw material inventory,485344.80,,485344.80,,,,Component 1,
+2022-06-01,6,2022,,Raw material inventory,402234.42,,402234.42,,,,Component 2,
+2022-06-01,6,2022,,Raw material inventory,66159.06,,66159.06,,,,Component 3,
+2022-06-01,6,2022,,Raw material inventory,2045240.00,,2045240.00,,,,Component 4,
+2022-06-01,6,2022,,Raw material inventory,67582.20,,67582.20,,,,Component 5,
+2022-06-01,6,2022,,Raw material inventory,220837.00,,220837.00,,,,Component 6,
+2022-07-01,7,2022,,Raw material inventory,721888.00,,721888.00,,,,Component 1,
+2022-07-01,7,2022,,Raw material inventory,373452.48,,373452.48,,,,Component 2,
+2022-07-01,7,2022,,Raw material inventory,481406.00,,481406.00,,,,Component 3,
+2022-07-01,7,2022,,Raw material inventory,2971958.00,,2971958.00,,,,Component 4,
+2022-07-01,7,2022,,Raw material inventory,57456.60,,57456.60,,,,Component 5,
+2022-07-01,7,2022,,Raw material inventory,25381.00,,25381.00,,,,Component 6,
+2022-08-01,8,2022,,Raw material inventory,777343.20,,777343.20,,,,Component 1,
+2022-08-01,8,2022,,Raw material inventory,338635.60,,338635.60,,,,Component 2,
+2022-08-01,8,2022,,Raw material inventory,230813.52,,230813.52,,,,Component 3,
+2022-08-01,8,2022,,Raw material inventory,3299835.00,,3299835.00,,,,Component 4,
+2022-08-01,8,2022,,Raw material inventory,312893.00,,312893.00,,,,Component 5,
+2022-08-01,8,2022,,Raw material inventory,128486.00,,128486.00,,,,Component 6,
+2022-09-01,9,2022,,Raw material inventory,848264.00,,848264.00,,,,Component 1,
+2022-09-01,9,2022,,Raw material inventory,325975.68,,325975.68,,,,Component 2,
+2022-09-01,9,2022,,Raw material inventory,262236.60,,262236.60,,,,Component 3,
+2022-09-01,9,2022,,Raw material inventory,3246834.00,,3246834.00,,,,Component 4,
+2022-09-01,9,2022,,Raw material inventory,275113.30,,275113.30,,,,Component 5,
+2022-09-01,9,2022,,Raw material inventory,189441.00,,189441.00,,,,Component 6,
+2022-10-01,10,2022,,Raw material inventory,972703.20,,972703.20,,,,Component 1,
+2022-10-01,10,2022,,Raw material inventory,427551.18,,427551.18,,,,Component 2,
+2022-10-01,10,2022,,Raw material inventory,329941.48,,329941.48,,,,Component 3,
+2022-10-01,10,2022,,Raw material inventory,3813020.00,,3813020.00,,,,Component 4,
+2022-10-01,10,2022,,Raw material inventory,149955.30,,149955.30,,,,Component 5,
+2022-10-01,10,2022,,Raw material inventory,158814.00,,158814.00,,,,Component 6,
+2022-11-01,11,2022,,Raw material inventory,841701.60,,841701.60,,,,Component 1,
+2022-11-01,11,2022,,Raw material inventory,431522.30,,431522.30,,,,Component 2,
+2022-11-01,11,2022,,Raw material inventory,357806.20,,357806.20,,,,Component 3,
+2022-11-01,11,2022,,Raw material inventory,4236876.00,,4236876.00,,,,Component 4,
+2022-11-01,11,2022,,Raw material inventory,159932.00,,159932.00,,,,Component 5,
+2022-11-01,11,2022,,Raw material inventory,356972.00,,356972.00,,,,Component 6,
+2022-12-01,12,2022,,Raw material inventory,1085339.20,,1085339.20,,,,Component 1,
+2022-12-01,12,2022,,Raw material inventory,405619.66,,405619.66,,,,Component 2,
+2022-12-01,12,2022,,Raw material inventory,226366.38,,226366.38,,,,Component 3,
+2022-12-01,12,2022,,Raw material inventory,4145553.00,,4145553.00,,,,Component 4,
+2022-12-01,12,2022,,Raw material inventory,39506.00,,39506.00,,,,Component 5,
+2022-12-01,12,2022,,Raw material inventory,296412.00,,296412.00,,,,Component 6,
+2022-02-01,2,2022,,Balance sheet Rawmatinv,,158330.80,-158330.80,,,,Component 1,
+2022-02-01,2,2022,,Balance sheet Rawmatinv,,416425.32,-416425.32,,,,Component 2,
+2022-02-01,2,2022,,Balance sheet Rawmatinv,,309794.05,-309794.05,,,,Component 3,
+2022-02-01,2,2022,,Balance sheet Rawmatinv,,329406.00,-329406.00,,,,Component 4,
+2022-02-01,2,2022,,Balance sheet Rawmatinv,,2062.80,-2062.80,,,,Component 5,
+2022-02-01,2,2022,,Balance sheet Rawmatinv,,1330.00,-1330.00,,,,Component 6,
+2022-03-01,3,2022,,Balance sheet Rawmatinv,,30416.00,-30416.00,,,,Component 1,
+2022-03-01,3,2022,,Balance sheet Rawmatinv,,435593.76,-435593.76,,,,Component 2,
+2022-03-01,3,2022,,Balance sheet Rawmatinv,,155025.18,-155025.18,,,,Component 3,
+2022-03-01,3,2022,,Balance sheet Rawmatinv,,155790.00,-155790.00,,,,Component 4,
+2022-03-01,3,2022,,Balance sheet Rawmatinv,,60780.05,-60780.05,,,,Component 5,
+2022-03-01,3,2022,,Balance sheet Rawmatinv,,127827.00,-127827.00,,,,Component 6,
+2022-04-01,4,2022,,Balance sheet Rawmatinv,,385540.40,-385540.40,,,,Component 1,
+2022-04-01,4,2022,,Balance sheet Rawmatinv,,459795.06,-459795.06,,,,Component 2,
+2022-04-01,4,2022,,Balance sheet Rawmatinv,,132180.60,-132180.60,,,,Component 3,
+2022-04-01,4,2022,,Balance sheet Rawmatinv,,1180476.00,-1180476.00,,,,Component 4,
+2022-04-01,4,2022,,Balance sheet Rawmatinv,,82298.70,-82298.70,,,,Component 5,
+2022-04-01,4,2022,,Balance sheet Rawmatinv,,447238.00,-447238.00,,,,Component 6,
+2022-05-01,5,2022,,Balance sheet Rawmatinv,,426928.00,-426928.00,,,,Component 1,
+2022-05-01,5,2022,,Balance sheet Rawmatinv,,415182.18,-415182.18,,,,Component 2,
+2022-05-01,5,2022,,Balance sheet Rawmatinv,,229372.37,-229372.37,,,,Component 3,
+2022-05-01,5,2022,,Balance sheet Rawmatinv,,1720818.00,-1720818.00,,,,Component 4,
+2022-05-01,5,2022,,Balance sheet Rawmatinv,,76952.20,-76952.20,,,,Component 5,
+2022-05-01,5,2022,,Balance sheet Rawmatinv,,57266.00,-57266.00,,,,Component 6,
+2022-06-01,6,2022,,Balance sheet Rawmatinv,,485344.80,-485344.80,,,,Component 1,
+2022-06-01,6,2022,,Balance sheet Rawmatinv,,402234.42,-402234.42,,,,Component 2,
+2022-06-01,6,2022,,Balance sheet Rawmatinv,,66159.06,-66159.06,,,,Component 3,
+2022-06-01,6,2022,,Balance sheet Rawmatinv,,2045240.00,-2045240.00,,,,Component 4,
+2022-06-01,6,2022,,Balance sheet Rawmatinv,,67582.20,-67582.20,,,,Component 5,
+2022-06-01,6,2022,,Balance sheet Rawmatinv,,220837.00,-220837.00,,,,Component 6,
+2022-07-01,7,2022,,Balance sheet Rawmatinv,,721888.00,-721888.00,,,,Component 1,
+2022-07-01,7,2022,,Balance sheet Rawmatinv,,373452.48,-373452.48,,,,Component 2,
+2022-07-01,7,2022,,Balance sheet Rawmatinv,,481406.00,-481406.00,,,,Component 3,
+2022-07-01,7,2022,,Balance sheet Rawmatinv,,2971958.00,-2971958.00,,,,Component 4,
+2022-07-01,7,2022,,Balance sheet Rawmatinv,,57456.60,-57456.60,,,,Component 5,
+2022-07-01,7,2022,,Balance sheet Rawmatinv,,25381.00,-25381.00,,,,Component 6,
+2022-08-01,8,2022,,Balance sheet Rawmatinv,,777343.20,-777343.20,,,,Component 1,
+2022-08-01,8,2022,,Balance sheet Rawmatinv,,338635.60,-338635.60,,,,Component 2,
+2022-08-01,8,2022,,Balance sheet Rawmatinv,,230813.52,-230813.52,,,,Component 3,
+2022-08-01,8,2022,,Balance sheet Rawmatinv,,3299835.00,-3299835.00,,,,Component 4,
+2022-08-01,8,2022,,Balance sheet Rawmatinv,,312893.00,-312893.00,,,,Component 5,
+2022-08-01,8,2022,,Balance sheet Rawmatinv,,128486.00,-128486.00,,,,Component 6,
+2022-09-01,9,2022,,Balance sheet Rawmatinv,,848264.00,-848264.00,,,,Component 1,
+2022-09-01,9,2022,,Balance sheet Rawmatinv,,325975.68,-325975.68,,,,Component 2,
+2022-09-01,9,2022,,Balance sheet Rawmatinv,,262236.60,-262236.60,,,,Component 3,
+2022-09-01,9,2022,,Balance sheet Rawmatinv,,3246834.00,-3246834.00,,,,Component 4,
+2022-09-01,9,2022,,Balance sheet Rawmatinv,,275113.30,-275113.30,,,,Component 5,
+2022-09-01,9,2022,,Balance sheet Rawmatinv,,189441.00,-189441.00,,,,Component 6,
+2022-10-01,10,2022,,Balance sheet Rawmatinv,,972703.20,-972703.20,,,,Component 1,
+2022-10-01,10,2022,,Balance sheet Rawmatinv,,427551.18,-427551.18,,,,Component 2,
+2022-10-01,10,2022,,Balance sheet Rawmatinv,,329941.48,-329941.48,,,,Component 3,
+2022-10-01,10,2022,,Balance sheet Rawmatinv,,3813020.00,-3813020.00,,,,Component 4,
+2022-10-01,10,2022,,Balance sheet Rawmatinv,,149955.30,-149955.30,,,,Component 5,
+2022-10-01,10,2022,,Balance sheet Rawmatinv,,158814.00,-158814.00,,,,Component 6,
+2022-11-01,11,2022,,Balance sheet Rawmatinv,,841701.60,-841701.60,,,,Component 1,
+2022-11-01,11,2022,,Balance sheet Rawmatinv,,431522.30,-431522.30,,,,Component 2,
+2022-11-01,11,2022,,Balance sheet Rawmatinv,,357806.20,-357806.20,,,,Component 3,
+2022-11-01,11,2022,,Balance sheet Rawmatinv,,4236876.00,-4236876.00,,,,Component 4,
+2022-11-01,11,2022,,Balance sheet Rawmatinv,,159932.00,-159932.00,,,,Component 5,
+2022-11-01,11,2022,,Balance sheet Rawmatinv,,356972.00,-356972.00,,,,Component 6,
+2022-12-01,12,2022,,Balance sheet Rawmatinv,,1085339.20,-1085339.20,,,,Component 1,
+2022-12-01,12,2022,,Balance sheet Rawmatinv,,405619.66,-405619.66,,,,Component 2,
+2022-12-01,12,2022,,Balance sheet Rawmatinv,,226366.38,-226366.38,,,,Component 3,
+2022-12-01,12,2022,,Balance sheet Rawmatinv,,4145553.00,-4145553.00,,,,Component 4,
+2022-12-01,12,2022,,Balance sheet Rawmatinv,,39506.00,-39506.00,,,,Component 5,
+2022-12-01,12,2022,,Balance sheet Rawmatinv,,296412.00,-296412.00,,,,Component 6,
+2022-02-01,2,2022,,Cash and Cash Equivalents,3607884.00,,3607884.00,,,,,
+2022-03-01,3,2022,,Cash and Cash Equivalents,7214915.90,,7214915.90,,,,,
+2022-04-01,4,2022,,Cash and Cash Equivalents,5825205.90,,5825205.90,,,,,
+2022-05-01,5,2022,,Cash and Cash Equivalents,22839043.62,,22839043.62,,,,,
+2022-06-01,6,2022,,Cash and Cash Equivalents,25553263.21,,25553263.21,,,,,
+2022-07-01,7,2022,,Cash and Cash Equivalents,26096565.18,,26096565.18,,,,,
+2022-08-01,8,2022,,Cash and Cash Equivalents,35733386.94,,35733386.94,,,,,
+2022-09-01,9,2022,,Cash and Cash Equivalents,43738790.82,,43738790.82,,,,,
+2022-10-01,10,2022,,Cash and Cash Equivalents,45618337.52,,45618337.52,,,,,
+2022-11-01,11,2022,,Cash and Cash Equivalents,58977900.26,,58977900.26,,,,,
+2022-12-01,12,2022,,Cash and Cash Equivalents,63938757.96,,63938757.96,,,,,
+2022-02-01,2,2022,,Bilan CashandCash,,3607884.00,-3607884.00,,,,,
+2022-03-01,3,2022,,Bilan CashandCash,,7214915.90,-7214915.90,,,,,
+2022-04-01,4,2022,,Bilan CashandCash,,5825205.90,-5825205.90,,,,,
+2022-05-01,5,2022,,Bilan CashandCash,,22839043.62,-22839043.62,,,,,
+2022-06-01,6,2022,,Bilan CashandCash,,25553263.21,-25553263.21,,,,,
+2022-07-01,7,2022,,Bilan CashandCash,,26096565.18,-26096565.18,,,,,
+2022-08-01,8,2022,,Bilan CashandCash,,35733386.94,-35733386.94,,,,,
+2022-09-01,9,2022,,Bilan CashandCash,,43738790.82,-43738790.82,,,,,
+2022-10-01,10,2022,,Bilan CashandCash,,45618337.52,-45618337.52,,,,,
+2022-11-01,11,2022,,Bilan CashandCash,,58977900.26,-58977900.26,,,,,
+2022-12-01,12,2022,,Bilan CashandCash,,63938757.96,-63938757.96,,,,,
